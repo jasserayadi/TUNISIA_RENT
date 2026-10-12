@@ -1,0 +1,247 @@
+<!-- HERO -->
+<section class="tr-hero-fab">
+  <div class="tr-hero-bg">
+    <img
+      src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=80"
+      alt="Tunisian apartment">
+    <div class="tr-hero-shade"></div>
+  </div>
+
+  <div class="container tr-hero-inner">
+    <span class="tr-hero-badge" appReveal>
+      <i class="bi bi-stars me-1"></i>
+      Powered by machine learning · 250+ listings
+    </span>
+
+    <h1 appReveal [revealDelay]="80">
+      Find the <span class="tr-gradient-text">right rent</span><br>
+      for your next home in Tunisia 🇹🇳
+    </h1>
+
+    <p appReveal [revealDelay]="160">
+      Estimate any apartment in seconds, compare it with the market,
+      and discover matching listings across Ariana, La Marsa, Sousse, Djerba…
+    </p>
+
+    <div class="tr-hero-cta" appReveal [revealDelay]="240">
+      <a href="#estimator" class="tr-btn-hero">
+        <i class="bi bi-magic"></i> Estimate my rent
+      </a>
+      <a routerLink="/recommend" class="tr-btn-ghost">
+        <i class="bi bi-stars"></i> AI picks
+      </a>
+    </div>
+
+    <div class="tr-hero-cards">
+      <div class="tr-float-card tr-float" style="animation-delay: 0s;" appReveal [revealDelay]="320">
+        <img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80" alt="">
+        <div class="tr-float-info">
+          <strong>Ariana Ville</strong>
+          <span>90 m² · 2 bd</span>
+          <em>950 TND</em>
+        </div>
+      </div>
+
+      <div class="tr-float-card tr-float" style="animation-delay: 1.2s;" appReveal [revealDelay]="400">
+        <img src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=400&q=80" alt="">
+        <div class="tr-float-info">
+          <strong>La Marsa</strong>
+          <span>110 m² · 3 bd</span>
+          <em>1 400 TND</em>
+        </div>
+      </div>
+
+      <div class="tr-float-card tr-float" style="animation-delay: 2.4s;" appReveal [revealDelay]="480">
+        <img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=400&q=80" alt="">
+        <div class="tr-float-info">
+          <strong>Djerba</strong>
+          <span>75 m² · 2 bd</span>
+          <em>720 TND</em>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LOCATIONS -->
+<section class="py-5">
+  <div class="container py-4">
+    <div class="text-center mb-5" appReveal>
+      <span class="tr-section-eyebrow">Popular destinations</span>
+      <h2 class="mt-3 mb-2">Explore Tunisia's best areas</h2>
+      <p class="text-muted">From the Médina to the Mediterranean — pick a neighbourhood and start.</p>
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4" *ngFor="let loc of locations" appReveal>
+        <div class="tr-img-card tr-loc-card" [routerLink]="['/recommend']" [queryParams]="{ city: loc.city }">
+          <div class="tr-loc-img">
+            <img [src]="loc.image" [alt]="loc.city">
+          </div>
+          <div class="overlay">
+            <span class="tr-loc-count">{{ loc.listings }} listings</span>
+            <h3>{{ loc.city }}</h3>
+            <p class="mb-0 small opacity-75">Avg {{ loc.avgRent }} TND · {{ loc.gov }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ESTIMATOR -->
+<section id="estimator" class="py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div class="text-center mb-5" appReveal>
+          <span class="tr-section-eyebrow">Free instant estimate</span>
+          <h2 class="mt-3 mb-2">What's your apartment like?</h2>
+          <p class="text-muted">Fill in a few details — we'll do the rest.</p>
+        </div>
+
+        <div class="card tr-form-card" appReveal [revealDelay]="100">
+          <div class="card-body p-4 p-md-5">
+            <form [formGroup]="form" (ngSubmit)="onSubmit()">
+
+              <h5 class="tr-section-title">
+                <i class="bi bi-geo-alt-fill"></i> Location
+              </h5>
+              <div class="row g-3 mb-4">
+                <div class="col-md-6">
+                  <label class="form-label">Governorate</label>
+                  <select class="form-select" formControlName="governorate">
+                    <option *ngFor="let g of governorates" [value]="g">{{ g }}</option>
+                  </select>
+                </div>
+                <div class="col-md-6">
+                  <label class="form-label">City / Area</label>
+                  <select class="form-select" formControlName="city">
+                    <option *ngFor="let c of availableCities" [value]="c">{{ c }}</option>
+                  </select>
+                </div>
+              </div>
+
+              <h5 class="tr-section-title">
+                <i class="bi bi-house-fill"></i> Property Details
+              </h5>
+              <div class="row g-3 mb-4">
+                <div class="col-md-4">
+                  <label class="form-label">Surface (m²)</label>
+                  <input type="number" class="form-control" formControlName="surface"
+                         [class.is-invalid]="form.get('surface')?.invalid && form.get('surface')?.touched">
+                  <div class="invalid-feedback">Surface must be between 1 and 2000.</div>
+                </div>
+                <div class="col-md-2">
+                  <label class="form-label">Bedrooms</label>
+                  <input type="number" class="form-control" formControlName="bedrooms">
+                </div>
+                <div class="col-md-2">
+                  <label class="form-label">Bathrooms</label>
+                  <input type="number" class="form-control" formControlName="bathrooms">
+                </div>
+                <div class="col-md-2">
+                  <label class="form-label">Floor</label>
+                  <input type="number" class="form-control" formControlName="floor">
+                </div>
+                <div class="col-md-2">
+                  <label class="form-label">Condition</label>
+                  <select class="form-select" formControlName="condition">
+                    <option *ngFor="let c of conditions" [value]="c.value">{{ c.label }}</option>
+                  </select>
+                </div>
+              </div>
+
+              <h5 class="tr-section-title">
+                <i class="bi bi-check2-square"></i> Amenities
+              </h5>
+              <div class="row g-2 mb-4">
+                <div class="col-md-3 col-6" *ngFor="let amenity of [
+                  {key:'is_house', label:'House'},
+                  {key:'furnished', label:'Furnished'},
+                  {key:'parking', label:'Parking'},
+                  {key:'elevator', label:'Elevator'},
+                  {key:'aircon', label:'Air Conditioning'},
+                  {key:'heating', label:'Heating'},
+                  {key:'security', label:'Security'},
+                  {key:'pool', label:'Pool'},
+                  {key:'sea_view', label:'Sea View'},
+                  {key:'terrace', label:'Terrace'},
+                  {key:'equipped_kitchen', label:'Equipped Kitchen'}
+                ]">
+                  <label class="tr-checkbox" [for]="amenity.key">
+                    <input type="checkbox" [formControlName]="amenity.key" [id]="amenity.key">
+                    <span class="tr-checkbox-box"><i class="bi bi-check"></i></span>
+                    <span class="tr-checkbox-label">{{ amenity.label }}</span>
+                  </label>
+                </div>
+              </div>
+
+              <h5 class="tr-section-title">
+                <i class="bi bi-tag-fill"></i> Advertised Price (optional)
+              </h5>
+              <div class="row g-3 mb-4">
+                <div class="col-md-5">
+                  <div class="input-group">
+                    <input type="number" class="form-control"
+                           formControlName="advertised_price" placeholder="e.g. 1200">
+                    <span class="input-group-text">TND</span>
+                  </div>
+                  <small class="text-muted">Leave empty to skip comparison.</small>
+                </div>
+              </div>
+
+              <div *ngIf="error" class="alert alert-danger">
+                <i class="bi bi-exclamation-triangle me-2"></i>{{ error }}
+              </div>
+
+              <button class="btn btn-primary btn-lg w-100 tr-cta" type="submit" [disabled]="loading">
+                <span *ngIf="!loading"><i class="bi bi-magic me-2"></i>Estimate Rent</span>
+                <span *ngIf="loading" class="d-inline-flex align-items-center justify-content-center gap-2">
+                  <span class="spinner-border spinner-border-sm"></span>Estimating...
+                </span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="py-5">
+  <div class="container">
+    <div class="text-center mb-5" appReveal>
+      <span class="tr-section-eyebrow">How it works</span>
+      <h2 class="mt-3">Three steps. Thirty seconds.</h2>
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-4" appReveal>
+        <div class="tr-step">
+          <div class="tr-step-num">1</div>
+          <div class="tr-step-icon"><i class="bi bi-pencil-square"></i></div>
+          <h4>Describe your apartment</h4>
+          <p class="text-muted mb-0">Location, surface, bedrooms, amenities — 15 seconds of typing.</p>
+        </div>
+      </div>
+      <div class="col-md-4" appReveal [revealDelay]="120">
+        <div class="tr-step">
+          <div class="tr-step-num">2</div>
+          <div class="tr-step-icon"><i class="bi bi-cpu"></i></div>
+          <h4>The AI estimates the rent</h4>
+          <p class="text-muted mb-0">Our Random Forest model returns a fair price and a range.</p>
+        </div>
+      </div>
+      <div class="col-md-4" appReveal [revealDelay]="240">
+        <div class="tr-step">
+          <div class="tr-step-num">3</div>
+          <div class="tr-step-icon"><i class="bi bi-buildings"></i></div>
+          <h4>Compare with the market</h4>
+          <p class="text-muted mb-0">See similar properties and know if the asking price is fair.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

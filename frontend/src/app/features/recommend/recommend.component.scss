@@ -1,0 +1,15 @@
+.sticky-form {
+  position: sticky;
+  top: 1rem;
+}
+.estimate-card {
+  background: linear-gradient(135deg, #eaf3ff 0%, #ffffff 100%);
+  border: 1px solid #dbe9ff !important;
+}
+.match-card {
+  border-left: 4px solid #0d6efd !important;
+  transition: transform 0.15s ease;
+}
+.match-card:hover {
+  transform: translateX(3px);
+}

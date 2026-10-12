@@ -1,0 +1,2546 @@
+governorate,city,surface,bedrooms,bathrooms,furnished,parking,floor,condition,rent
+Bizerte,Ras Jebel,80,2,1,True,False,0,excellent,150
+Sousse,Hergla,124,1,1,True,False,2,good,150
+Mahdia,Mahdia,130,3,1,False,False,0,good,150
+Ben_Arous,Ezzahra,100,1,1,False,False,0,good,150
+Bizerte,Bizerte Nord,200,4,1,True,False,0,good,150
+Nabeul,Klibia,70,1,1,False,True,0,good,150
+Mdenine,Djerba Midoun,350,4,2,False,False,0,good,150
+Tunis,La Marsa,70,2,1,False,False,0,good,150
+Nabeul,Klibia,285,3,2,False,False,0,good,150
+Nabeul,Klibia,275,3,1,False,False,0,good,150
+Monastir,Sahline,120,5,1,False,False,0,good,150
+Nabeul,Hammamet Nord,100,2,2,True,False,0,excellent,150
+Mahdia,Mahdia,100,2,2,True,False,0,good,150
+Tunis,Lac 2,87,2,1,True,False,0,good,150
+Bizerte,Ras Jebel,120,2,1,False,False,0,good,150
+Sousse,Hergla,150,3,2,False,False,0,good,150
+Mahdia,Chebba,150,2,1,False,True,0,good,150
+Nabeul,Klibia,160,2,1,True,False,0,good,150
+Nabeul,Klibia,150,3,1,False,False,0,good,150
+Nabeul,Hammamet Nord,113,4,1,True,True,2,good,150
+Mdenine,Djerba Midoun,100,2,1,False,False,0,good,150
+Tunis,Jardins De Carthage,90,2,1,True,False,0,good,150
+Nabeul,Hammamet,90,2,1,False,False,0,good,155
+Bizerte,Bizerte Nord,60,2,1,False,False,0,good,157
+Sousse,Sousse Mdina,100,2,1,False,False,0,good,160
+Tunis,Lac 2,100,2,1,False,False,0,good,160
+Ben_Arous,Autres Villes,75,1,1,False,False,0,good,160
+Tunis,Jardins De Carthage,80,1,1,True,True,0,good,160
+Sousse,Chatt mariem,150,3,2,False,False,0,good,160
+Nabeul,Hammamet,55,1,1,False,False,0,good,160
+Nabeul,Bni Khiar,400,2,3,False,False,0,good,160
+Sfax,Route El Ain,100,2,1,False,False,0,good,160
+Monastir,Monastir,70,2,2,True,False,0,good,160
+Tunis,Lac 2,80,1,1,True,True,0,good,160
+Bizerte,Bizerte Nord,180,2,1,False,False,0,good,165
+Mahdia,Mahdia,90,1,1,False,False,0,good,170
+Monastir,Ouerdanine,120,2,1,False,False,0,good,170
+Nabeul,Mrezga,73,1,1,False,False,0,excellent,170
+Tunis,Le Bardo,145,2,1,False,False,0,good,170
+Sousse,Hergla,150,4,2,False,False,0,good,170
+Nabeul,Hammamet,80,1,1,False,False,0,good,170
+Tunis,La Marsa,110,3,2,False,False,0,good,170
+Mahdia,Mahdia,120,1,1,False,False,0,good,170
+Sousse,Chatt mariem,58,1,1,False,False,0,good,170
+Kairouan,Kairouan Nord,90,3,1,False,False,0,good,175
+Mdenine,Djerba Midoun,400,3,2,False,True,0,excellent,180
+Tunis,Ettahrir,100,2,1,False,False,0,good,180
+Ariana,Raoued,120,3,1,False,False,0,good,180
+Tunis,La Marsa,170,2,1,False,False,0,good,180
+Nabeul,Klibia,80,2,1,True,False,0,good,180
+Tunis,Centre Urbain Nord,120,3,1,True,False,0,good,180
+Tunis,Jardins De Carthage,120,3,2,False,True,0,good,180
+Sousse,Hergla,90,2,1,False,False,0,good,180
+Nabeul,Klibia,90,2,2,True,False,2,excellent,180
+La_Manouba,Oued Ellil,200,1,1,False,False,0,good,180
+Ariana,Sidi Thabet,130,1,1,False,False,0,excellent,180
+Le_Kef,Le Kef,500,4,2,False,False,0,good,180
+Bizerte,Bizerte,100,2,1,False,False,0,good,180
+Monastir,Bekalta,55,1,1,False,False,0,good,180
+Nabeul,Mrezga,90,2,1,False,False,2,good,180
+Mahdia,Ksour Essef,120,4,1,False,False,0,excellent,190
+Mahdia,Ksour Essef,100,4,1,False,False,0,excellent,190
+Nabeul,Hammamet,110,2,2,False,True,0,good,190
+Sfax,Kerkennah,80,3,2,False,False,0,good,190
+Bja,Nefza,130,4,1,False,False,0,good,190
+Ariana,Raoued,100,1,1,False,False,0,good,195
+Monastir,Ouerdanine,180,3,2,False,False,0,good,199
+Nabeul,El Haouaria,150,3,2,True,False,0,excellent,200
+La_Manouba,La Manouba,100,3,1,True,False,0,good,200
+Nabeul,Mrezga,70,2,1,False,False,0,good,200
+Bja,Medjez El Bab,24,1,1,True,False,0,good,200
+Ariana,Ettadhamen,60,1,1,False,False,0,good,200
+La_Manouba,Oued Ellil,78,2,2,False,False,0,good,200
+Mdenine,Djerba Houmt Souk,99,1,1,False,False,0,good,200
+Sousse,Sousse,80,1,1,False,False,0,good,200
+Mahdia,Ksour Essef,100,2,1,True,False,0,good,200
+Bizerte,El Alia,25,1,1,False,False,0,good,200
+Nabeul,Klibia,200,2,1,True,False,0,good,200
+La_Manouba,Tebourba,80,1,1,False,False,0,good,200
+Nabeul,Mrezga,80,1,1,True,False,0,excellent,200
+Nabeul,Hammamet,70,1,1,True,False,0,excellent,200
+Nabeul,Mrezga,80,2,1,False,False,0,good,200
+Nabeul,El Haouaria,100,0,1,False,False,0,good,200
+Bizerte,El Alia,200,3,2,False,False,0,good,200
+Nabeul,Hammamet,100,2,2,False,True,0,good,200
+Sousse,M Saken,120,2,1,False,False,0,good,200
+Tunis,Agba,50,1,1,False,False,0,good,220
+Nabeul,Hammam Ghezze,90,2,1,False,False,0,good,220
+Nabeul,Korba,80,2,1,False,False,0,good,220
+Jendouba,Tabarka,150,4,1,False,False,0,good,220
+Ben_Arous,Mornag,90,2,1,False,False,0,good,220
+Tunis,Montplaisir,70,1,1,False,False,0,good,220
+Bizerte,Ras Jebel,120,3,3,False,False,0,good,220
+Ben_Arous,El Mourouj 3,100,3,1,False,False,0,good,220
+Ben_Arous,Mohamedia,65,1,1,False,False,0,good,220
+Nabeul,El Haouaria,100,3,2,False,False,0,good,225
+Nabeul,El Haouaria,150,2,1,True,False,0,good,229
+Monastir,Bekalta,20,1,1,False,False,0,good,230
+Mdenine,Djerba Houmt Souk,75,2,1,False,False,0,excellent,230
+Nabeul,Korba,120,3,1,True,False,0,good,230
+Gabs,Gabs,100,3,1,False,False,0,good,240
+La_Manouba,La Manouba,100,3,1,False,False,0,good,240
+Ariana,Raoued,90,2,1,False,False,0,good,244
+Tunis,Cit Olympique,25,1,1,False,False,0,good,246
+Tunis,Le Kram,210,0,2,True,True,0,excellent,250
+Ariana,Ariana Ville,70,3,1,False,False,0,good,250
+Ariana,La Soukra,120,2,1,True,False,0,good,250
+Tunis,El Omrane Suprieur,90,3,1,True,False,0,good,250
+Nabeul,Hammam Ghezze,50,1,1,False,True,0,good,250
+Ariana,Raoued,200,1,1,False,False,0,good,250
+Jendouba,Tabarka,112,2,1,False,True,2,excellent,250
+Sfax,Sfax,180,2,1,False,False,0,good,250
+Nabeul,Hammamet Nord,120,2,1,True,True,0,good,250
+Bizerte,Menzel Jemil,120,3,1,True,True,0,good,250
+Sousse,Kala Sghira,75,0,1,False,False,0,excellent,250
+Tunis,El Omrane Suprieur,140,2,1,True,False,0,good,250
+Nabeul,Bni Khalled,140,3,2,False,False,0,good,250
+La_Manouba,Denden,75,2,1,True,False,2,good,250
+Ariana,Mnihla,40,1,1,False,False,0,good,250
+La_Manouba,Oued Ellil,65,1,1,False,False,0,good,250
+La_Manouba,Oued Ellil,60,1,1,False,False,0,good,260
+Bja,Bja Nord,60,1,1,False,False,0,good,260
+Ben_Arous,Rads,170,3,2,True,False,0,good,260
+Nabeul,Klibia,100,3,2,False,False,4,good,270
+La_Manouba,Autres Villes,65,2,1,False,False,0,excellent,279
+Ariana,Raoued,90,1,1,False,False,0,good,280
+Ben_Arous,Boumhel,80,2,1,False,False,0,good,280
+Ariana,Raoued,90,2,1,False,False,0,good,280
+Nabeul,Nabeul,80,2,1,True,False,0,good,280
+Ben_Arous,Ben Arous,40,1,1,True,False,0,good,280
+Sousse,Kala Kebira,214,4,2,False,False,0,good,280
+Nabeul,El Haouaria,100,3,2,False,False,0,excellent,280
+Ariana,Ariana,90,2,1,True,False,0,good,280
+Nabeul,El Haouaria,200,3,2,False,False,0,good,280
+Sfax,Sakiet Ezzit,150,3,2,False,False,0,good,290
+Ben_Arous,Borj Cedria,180,3,3,False,False,0,good,290
+La_Manouba,Djedeida,85,2,1,False,False,1,good,290
+Bizerte,Ras Jebel,130,2,2,False,False,0,good,290
+Tunis,Sidi Hassine,150,3,1,False,False,0,good,300
+Bizerte,Bizerte Nord,60,3,1,False,False,0,good,300
+Ben_Arous,El Mourouj 4,64,1,1,False,False,0,good,300
+Tunis,El Ouardia,150,2,1,False,False,0,good,300
+Jendouba,Tabarka,90,2,1,False,False,0,good,300
+Tunis,Autres Villes,80,2,1,False,False,2,good,300
+Tunis,Le Kram,100,1,1,True,False,0,good,300
+La_Manouba,Denden,60,2,1,False,False,0,good,300
+La_Manouba,La Manouba,350,3,2,False,False,0,good,300
+Zaghouan,Ez Zeriba,100,2,2,False,False,0,good,300
+Ariana,Cite Ennkhilet,120,2,1,True,False,0,good,300
+Nabeul,Bni Khiar,200,3,3,False,False,0,good,300
+Tunis,Centre Ville Lafayette,150,3,1,False,False,0,good,300
+Ariana,Ettadhamen,40,1,1,False,False,0,good,300
+Nabeul,Mrezga,128,2,2,False,False,0,good,300
+Nabeul,Korba,200,3,1,False,False,0,good,300
+Ariana,El Menzah 5,90,4,2,True,False,3,good,300
+Sousse,Kantaoui,100,0,2,False,False,0,good,300
+Tunis,Djebel Jelloud,100,3,1,False,False,0,good,300
+Sousse,Sousse Riadh,75,2,1,True,False,0,good,300
+Ariana,Ariana,96,1,2,False,False,0,excellent,300
+Sfax,Route GREMDA,75,1,1,False,False,0,good,300
+Tunis,Tunis,120,3,1,False,False,0,good,300
+La_Manouba,Mornaguia,600,6,5,False,False,0,good,300
+Ariana,Cite Ennkhilet,80,2,1,False,False,0,good,300
+Kairouan,Kairouan,40,1,1,True,False,0,good,300
+La_Manouba,Denden,40,1,1,False,False,0,good,300
+La_Manouba,Mornaguia,100,3,1,False,False,0,good,300
+Sfax,Route El Ain,85,1,1,False,False,0,good,300
+Ben_Arous,Ben Arous,100,3,1,False,False,0,good,300
+Sfax,Sfax,113,4,2,False,False,0,excellent,300
+Jendouba,Ain Draham,100,2,1,True,False,0,good,300
+Sousse,Chatt mariem,80,2,2,False,False,0,good,300
+Tunis,La Marsa,60,1,1,False,False,0,good,300
+Tunis,Montplaisir,55,1,1,False,False,1,good,310
+Sousse,Chatt mariem,50,2,1,False,False,0,good,315
+Sfax,Route El Ain,100,3,1,False,False,0,good,320
+Ben_Arous,Medina Jedida,50,2,1,False,False,0,good,320
+Tunis,Sidi Hassine,100,2,1,False,False,0,good,330
+Le_Kef,Kef Est,110,3,1,False,False,0,good,330
+Sfax,Route MANZEL CHAKER,80,1,1,False,False,0,good,330
+Ariana,Chotrana,85,2,1,False,False,0,good,330
+Ariana,Borj Louzir,40,1,1,False,False,0,good,340
+Tunis,Monfleury,250,6,2,True,False,0,good,350
+Mdenine,Mdenine Sud,130,4,1,False,False,0,good,350
+Tunis,Lac 2,203,1,2,True,True,0,good,350
+Bizerte,Ras Jebel,90,2,1,False,False,0,good,350
+La_Manouba,Oued Ellil,65,2,1,False,False,0,good,350
+Tunis,Le Bardo,50,1,1,True,False,0,good,350
+Ben_Arous,Mornag,80,3,1,False,False,0,good,350
+Ariana,Ariana,100,2,1,True,False,1,good,350
+Ben_Arous,Rads,90,1,1,False,False,0,good,350
+Ben_Arous,Boumhel,50,2,1,False,False,0,good,350
+Sousse,Sousse,80,1,1,True,False,0,good,350
+Nabeul,El Haouaria,75,1,1,False,False,0,good,350
+Monastir,Moknine,170,3,1,False,False,0,excellent,350
+La_Manouba,Oued Ellil,64,2,1,False,False,0,good,350
+Tunis,Sidi Hassine,140,3,1,False,False,0,good,350
+Bizerte,Menzel Bourguiba,120,2,1,False,False,0,good,350
+Ben_Arous,Mohamedia,120,3,1,False,False,0,good,350
+Tunis,Tunis,110,2,1,False,False,0,good,350
+Bizerte,Menzel Jemil,55,1,1,True,False,0,good,350
+Tunis,El Omrane Suprieur,90,1,1,True,False,2,good,350
+Ariana,Les Jardins El Menzah 2,220,2,2,False,False,0,good,350
+Jendouba,Jendouba,96,2,1,False,False,0,good,350
+Ben_Arous,Mohamedia,146,2,1,False,False,0,good,350
+Ben_Arous,Ben Arous,50,1,1,False,False,0,good,350
+Ben_Arous,Mornag,120,2,1,False,False,0,good,350
+Tunis,La Marsa,40,1,1,False,False,4,good,350
+Ariana,El Menzah 7,200,3,1,True,False,0,good,350
+Ben_Arous,Rads,150,3,2,False,False,0,good,350
+Tunis,Sidi El Bchir,90,2,1,False,False,0,good,350
+Tunis,Sidi Hassine,50,2,1,True,False,0,good,350
+Sfax,Sfax Ville,50,2,1,False,False,4,good,350
+Nabeul,El Haouaria,400,4,1,False,False,0,good,350
+Tunis,Monfleury,50,2,1,False,False,0,good,370
+Tunis,Centre Ville Lafayette,100,2,2,False,False,0,good,375
+Sfax,Sfax,100,2,2,False,False,0,excellent,380
+Sfax,Route de laroport,40,1,1,True,False,0,good,380
+Tunis,Centre Ville Lafayette,20,0,1,False,False,0,good,380
+Ariana,Borj Louzir,100,1,1,False,False,0,good,380
+Tunis,Centre Ville Lafayette,30,0,1,False,False,0,good,380
+Bizerte,Bizerte Nord,50,1,1,True,False,0,good,380
+La_Manouba,Oued Ellil,110,3,1,False,False,0,good,380
+Ben_Arous,El Mourouj 3,25,1,1,False,False,0,good,380
+La_Manouba,Manouba Ville,30,1,1,False,False,0,good,380
+Monastir,Monastir,55,2,1,True,False,0,good,390
+Ben_Arous,Boumhel,45,1,1,False,False,0,good,390
+Sousse,Sousse Riadh,230,8,2,False,False,0,excellent,390
+Monastir,Monastir,50,2,1,True,False,0,good,390
+Ben_Arous,Ben Arous,100,3,1,False,False,0,good,400
+Sfax,Route Mehdia,40,1,1,True,False,0,good,400
+Gabs,Gabs Sud,105,2,1,False,False,0,good,400
+Ben_Arous,Ben Arous,100,0,1,False,False,0,good,400
+Ariana,Ariana Essoughra,40,1,1,False,False,0,good,400
+La_Manouba,Borj El Amri,110,2,1,False,False,0,good,400
+Mahdia,Ksour Essef,300,3,1,False,False,0,good,400
+Ariana,Ariana,40,2,1,False,False,0,good,400
+Sfax,Route de laroport,80,3,1,False,False,0,good,400
+Nabeul,Hammamet,40,1,1,True,False,0,good,400
+Ben_Arous,Hammam Lif,95,2,1,False,False,0,good,400
+Kairouan,Kairouan Sud,110,3,1,True,False,0,good,400
+Tunis,Le Bardo,50,2,1,False,False,0,excellent,400
+Ariana,La Soukra,65,1,1,False,False,0,good,400
+Ben_Arous,Boumhel,70,1,1,False,False,0,good,400
+Sfax,Route Mehdia,100,3,1,False,False,0,good,400
+Ben_Arous,Boumhel,80,1,1,False,False,0,good,400
+Tunis,Hraria,82,4,1,False,False,0,good,400
+Tunis,Tunis,50,2,1,False,False,0,good,400
+Ben_Arous,Fouchana,80,3,1,False,False,0,good,400
+Sfax,Sfax Ville,90,1,1,False,False,4,good,400
+Bizerte,Ras Jebel,100,2,1,False,False,0,good,400
+Bizerte,Tinja,95,4,1,False,False,0,excellent,400
+Tunis,L Aouina,80,1,1,False,False,0,good,400
+Zaghouan,Zaghouan,50,2,1,False,False,0,excellent,400
+Gabs,Gabs Sud,100,2,1,False,False,0,good,400
+Nabeul,Nabeul,50,0,1,False,False,0,good,400
+Ariana,Mnihla,250,2,1,False,False,0,good,400
+La_Manouba,Manouba Ville,110,2,1,True,False,0,good,400
+Tunis,Tunis,100,1,1,False,False,0,good,400
+Sousse,Chatt mariem,140,4,1,False,False,0,good,400
+Tunis,Le Bardo,30,1,1,False,False,0,good,400
+Tunis,Lac 2,113,4,2,False,False,0,excellent,400
+Sfax,Route Menzel Chaker,70,2,1,False,False,0,good,400
+Ben_Arous,Fouchana,32,1,1,False,False,0,good,400
+Ben_Arous,Hammam Chott,75,1,2,False,False,0,good,400
+Tunis,Lac 2,340,1,4,False,True,0,excellent,400
+Tunis,Le Bardo,40,2,1,False,False,0,good,400
+Nabeul,Takelsa,180,3,2,False,True,1,good,400
+Jendouba,Jendouba,140,4,1,False,False,0,good,420
+Tunis,Tunis,160,3,1,False,False,0,good,420
+Mahdia,Mahdia,90,2,1,False,False,0,excellent,420
+La_Manouba,Mornaguia,120,1,1,False,False,0,good,420
+Ben_Arous,Fouchana,75,2,1,False,False,2,good,420
+Ariana,Borj Louzir,80,2,1,False,False,0,good,430
+Ariana,Cite Ennkhilet,200,3,1,False,False,0,good,430
+Tunis,Tunis,50,2,1,False,False,1,good,430
+La_Manouba,Djedeida,100,3,1,False,False,0,good,430
+Bja,Bja Nord,130,4,1,False,False,2,good,440
+Ben_Arous,Ezzahra,100,3,1,False,False,0,excellent,450
+Tunis,Ezzouhour,75,2,1,False,False,2,good,450
+La_Manouba,Oued Ellil,130,3,3,False,False,0,good,450
+Kasserine,Kasserine Nord,60,2,1,True,False,0,good,450
+Sousse,Sousse Sidi Abdelhamid,87,2,1,True,True,3,excellent,450
+Sousse,Khzema,50,1,1,True,False,0,good,450
+Tunis,Menzah,35,1,1,True,True,0,good,450
+La_Manouba,Denden,80,1,1,True,False,0,good,450
+Sfax,Route El Ain,150,3,1,False,False,0,good,450
+Tunis,El Kabaria,62,6,2,False,True,0,good,450
+Sousse,Sahloul,54,1,1,False,False,0,good,450
+Sousse,Sousse,70,1,1,False,False,0,excellent,450
+Ariana,Mnihla,90,3,1,False,False,0,good,450
+Tunis,Le Kram,65,3,1,False,False,0,good,450
+Monastir,Monastir,55,1,1,True,True,3,good,450
+Mdenine,Djerba Midoun,172,3,2,False,False,0,good,450
+Sfax,Route TANIOUR,120,3,1,False,False,0,good,450
+Ben_Arous,El Mourouj 1,104,3,1,False,False,0,good,450
+Bja,Medjez El Bab,75,1,1,False,False,0,good,450
+Ariana,Mnihla,300,1,1,False,False,0,good,450
+Ben_Arous,Rads,65,1,1,False,False,3,good,450
+Sousse,Hammam Sousse,50,1,1,True,False,3,good,450
+Kairouan,Kairouan,120,3,1,False,False,0,good,450
+Ben_Arous,Boumhel,120,0,1,False,False,0,good,450
+Monastir,Monastir,60,1,1,True,False,0,excellent,450
+Sousse,M Saken,95,2,1,False,False,0,good,450
+Sousse,M Saken,90,2,1,False,False,0,good,450
+Sousse,Hammam Sousse,40,1,1,False,False,0,good,450
+Tunis,Ksar Said,50,2,1,True,False,4,good,450
+Ariana,Raoued,80,2,1,False,False,0,good,450
+Ariana,Ennasr,20,1,1,False,False,0,good,450
+Ben_Arous,Boumhel,89,3,1,False,False,0,good,450
+Ben_Arous,Ezzahra,24,1,1,False,False,0,good,450
+La_Manouba,La Manouba,50,2,1,False,False,0,good,450
+Tunis,Tunis,75,1,1,False,False,0,good,450
+Ariana,Sidi Thabet,100,2,2,False,False,0,good,450
+La_Manouba,Oued Ellil,65,1,1,False,False,0,good,450
+Bizerte,Menzel Bourguiba,50,2,1,False,False,0,good,450
+Ben_Arous,Medina Jedida,150,3,2,False,False,0,good,450
+Sfax,Sfax Ville,120,2,1,False,False,0,good,450
+Sfax,Sfax,87,3,1,True,False,0,good,450
+Tunis,Ezzouhour,90,3,1,False,False,0,good,450
+La_Manouba,La Manouba,65,2,1,False,False,0,good,450
+Tunis,Agba,100,2,1,False,False,0,good,460
+Tunis,Djebel Jelloud,60,2,1,False,True,4,good,460
+Tunis,El Omrane,20,1,1,True,False,0,good,460
+La_Manouba,La Manouba,100,2,1,False,False,0,good,460
+Ariana,Borj Louzir,75,3,1,False,False,0,good,470
+Ben_Arous,Ben Arous,80,2,1,False,False,1,good,470
+Ariana,Ettadhamen,120,2,1,False,False,0,good,470
+Sfax,Route MHARZA,53,1,1,False,False,0,good,470
+Sfax,Menzel Chaker,90,2,1,False,False,0,good,470
+Sousse,Sousse,450,8,4,False,False,0,good,470
+Ariana,La Soukra,75,1,1,True,False,2,good,470
+Ariana,Ettadhamen,70,2,1,False,False,0,good,480
+Sfax,Sfax Ville,45,2,1,True,False,1,good,480
+Tunis,Le Bardo,74,2,1,False,False,0,good,480
+Tunis,Centre Ville Lafayette,25,1,1,False,False,0,good,480
+Sfax,Sfax,31,2,1,False,False,0,good,480
+Ariana,Ariana Ville,20,1,1,True,False,0,good,480
+Ariana,Mnihla,85,3,1,False,False,2,good,480
+Jendouba,Tabarka,70,1,1,False,False,0,good,480
+Tunis,Lac 1,250,5,4,True,True,0,good,480
+Ariana,Ariana,90,3,1,False,False,0,good,490
+Mdenine,Djerba Ajim,200,4,2,False,False,0,good,490
+Monastir,Monastir,100,2,1,True,True,0,excellent,499
+Tunis,La Marsa,55,1,1,False,False,0,good,500
+Tunis,El Ouardia,130,3,1,False,False,0,good,500
+Sousse,Sahloul,50,1,1,False,False,0,good,500
+Tunis,Tunis,100,1,1,False,False,0,good,500
+Ben_Arous,Ezzahra,120,3,1,False,False,1,good,500
+Ariana,La Soukra,20,1,1,False,False,0,good,500
+Nabeul,Autres Villes,300,3,1,False,False,0,good,500
+Tunis,Tunis,100,2,1,False,False,0,good,500
+Tunis,El Omrane Suprieur,40,2,1,True,False,0,good,500
+Tunis,Le Bardo,80,2,1,False,False,0,good,500
+Tunis,Le Bardo,45,2,1,False,False,0,good,500
+Monastir,Monastir,90,2,1,True,False,0,good,500
+La_Manouba,Manouba Ville,70,2,1,False,False,0,good,500
+Ariana,Raoued,100,2,1,False,False,0,good,500
+Ben_Arous,Hammam Lif,60,2,1,False,False,0,good,500
+Tunis,Le Bardo,80,3,1,False,False,0,good,500
+Gabs,Gabs,130,3,1,False,False,0,good,500
+Tunis,El Ouardia,45,2,1,False,False,2,good,500
+Tunis,Tunis,60,1,1,False,False,0,good,500
+Bizerte,Bizerte,60,2,1,True,False,0,good,500
+Sfax,Route Soukra,60,1,1,False,False,0,good,500
+Sfax,Sfax Ville,50,1,1,True,False,0,good,500
+Tunis,Le Bardo,50,2,1,True,False,0,good,500
+La_Manouba,Oued Ellil,75,1,1,False,False,0,good,500
+Tunis,Le Bardo,76,2,2,True,False,2,good,500
+Sousse,Hammam Sousse,50,1,1,True,False,3,good,500
+Sousse,Sousse Jawhara,71,0,1,False,False,0,good,500
+Sousse,Sousse Jawhara,85,1,1,True,False,0,excellent,500
+Nabeul,Dar Chabane El Fehri,100,2,1,True,False,0,good,500
+Ben_Arous,Ezzahra,80,2,1,False,False,0,excellent,500
+Tunis,Sidi El Bchir,60,2,1,False,False,2,excellent,500
+Ben_Arous,Boumhel,20,1,1,False,False,0,good,500
+Ben_Arous,Ezzahra,40,1,1,True,False,0,good,500
+Tunis,Khaznadar,200,4,1,False,False,0,good,500
+Sfax,Sakiet Eddaer,80,3,1,False,False,0,good,500
+Ben_Arous,Borj Cedria,80,2,1,False,False,0,excellent,500
+Nabeul,Klibia,130,2,1,False,False,0,good,500
+Ariana,Mnihla,100,2,1,False,False,0,good,500
+Ariana,Ariana Essoughra,73,2,1,False,False,0,good,500
+Sfax,Route GREMDA,200,2,2,False,False,0,good,500
+Tunis,La Marsa,357,3,3,False,False,0,good,500
+Ben_Arous,Ben Arous,60,1,1,False,False,0,good,500
+Tunis,L Aouina,20,1,1,False,False,0,good,500
+Bizerte,Autres Villes,100,3,1,False,False,0,good,500
+Tunis,Mdina,80,3,1,False,False,1,good,500
+Tunis,Tunis,80,3,1,False,False,1,good,520
+Ariana,Ettadhamen,120,3,1,False,False,0,good,520
+Bizerte,Bizerte Nord,150,2,1,True,False,0,good,520
+Ben_Arous,Fouchana,100,2,1,False,True,0,good,520
+Sousse,Sousse Sidi Abdelhamid,115,3,1,False,False,0,good,520
+Ben_Arous,El Mourouj,70,1,1,False,False,0,good,530
+Tunis,Khaznadar,80,3,1,False,True,0,good,530
+Tunis,Le Kram,70,1,1,False,False,0,excellent,550
+Tunis,La Marsa,120,2,1,False,False,1,good,550
+Tunis,El Ouardia,80,3,1,False,False,0,excellent,550
+Mahdia,Mahdia,150,3,1,False,False,0,good,550
+Sousse,Hammam Sousse,20,1,1,False,False,0,good,550
+Tunis,Carthage,70,2,1,True,False,0,good,550
+Ariana,Ghazela,55,1,1,False,False,0,good,550
+Ariana,Ghazela,70,1,1,True,False,0,good,550
+Sousse,Sousse,50,2,1,True,False,0,good,550
+Ben_Arous,Hammam Lif,50,1,1,False,False,1,good,550
+Ariana,Ghazela,60,2,1,True,False,0,good,550
+Ben_Arous,Medina Jedida,100,3,1,False,False,0,good,550
+Tunis,Agba,90,2,1,False,True,3,good,550
+Ben_Arous,Boumhel,120,3,1,False,False,0,good,550
+Sousse,Hammam Sousse,23,1,1,False,False,0,good,550
+Ariana,Ghazela,90,2,1,False,False,0,good,550
+Ariana,Borj Louzir,80,2,1,False,True,0,good,550
+Ariana,Borj Louzir,60,2,1,True,False,2,good,550
+Monastir,Monastir,55,1,1,True,False,0,good,550
+Ben_Arous,Rads,80,2,1,False,True,0,good,550
+Ariana,Les Jardins El Menzah 1,75,1,1,True,False,0,good,550
+Tunis,El Ouardia,120,2,1,False,False,0,excellent,550
+Ariana,Ariana Essoughra,65,1,1,False,False,0,good,550
+Tunis,Le Bardo,75,2,2,True,False,2,good,550
+La_Manouba,La Manouba,90,2,1,False,False,2,excellent,550
+Tunis,Le Bardo,50,2,1,True,False,0,good,550
+Ariana,La Soukra,40,1,1,False,False,0,good,550
+Nabeul,Bni Khiar,70,1,1,True,False,2,good,550
+La_Manouba,La Manouba,96,3,1,False,True,0,good,550
+Sousse,Sousse Riadh,120,2,1,False,False,1,good,550
+Tunis,Ezzouhour,120,3,3,False,False,0,good,550
+Ariana,Dar Fadhal,80,2,1,False,False,0,good,550
+Ariana,Borj Louzir,66,0,1,True,False,1,good,550
+Ariana,Ghazela,50,1,1,False,False,0,good,550
+Ariana,Ariana Essoughra,70,2,1,False,False,0,good,550
+Tunis,Cit El Khadra,60,1,1,True,False,0,good,550
+Ariana,Ariana Essoughra,90,2,1,False,False,0,good,550
+Ariana,Borj Louzir,95,2,1,False,False,0,good,550
+Ariana,Riadh Andalous,50,1,1,False,False,0,good,550
+Tunis,Tunis,65,2,1,True,False,0,excellent,550
+Ariana,Ariana Ville,80,1,1,True,False,0,good,550
+Ben_Arous,Rads,80,2,1,False,False,0,good,550
+Sfax,Route TANIOUR,60,2,1,True,False,0,good,550
+Ben_Arous,Ezzahra,65,1,1,True,True,0,good,550
+Nabeul,Mrezga,150,2,1,True,False,0,good,560
+Tunis,La Marsa,90,2,1,False,False,0,good,570
+Sousse,Chatt mariem,100,2,1,True,False,0,good,570
+Sousse,Sousse,175,2,1,False,False,2,good,580
+Ben_Arous,Mornag,119,2,2,False,False,0,good,580
+Ben_Arous,Medina Jedida,120,4,1,False,False,0,good,580
+Ben_Arous,Borj Cedria,50,1,1,False,False,0,good,580
+Ben_Arous,El Mourouj 5,82,3,1,False,False,0,good,580
+Ben_Arous,Rads,85,2,1,False,False,0,good,580
+Ariana,La Soukra,60,2,1,False,False,0,good,580
+La_Manouba,La Manouba,55,1,1,False,False,0,good,590
+Ben_Arous,Boumhel,100,2,1,False,False,0,good,597
+Ariana,La Soukra,140,4,1,False,False,0,good,599
+La_Manouba,La Manouba,84,2,1,False,False,0,good,599
+Ben_Arous,Rads,100,2,1,False,False,0,good,600
+Ben_Arous,Ben Arous,70,1,1,False,True,0,good,600
+Ariana,Raoued,80,3,1,False,True,3,good,600
+Sousse,Khzema,90,2,1,True,False,0,good,600
+La_Manouba,Denden,110,2,2,False,True,0,good,600
+Sousse,Sousse Jawhara,50,1,1,True,False,0,good,600
+Bizerte,Bizerte Nord,100,4,1,False,False,0,good,600
+Ben_Arous,Rads,80,2,1,True,False,0,good,600
+Ben_Arous,Ezzahra,80,2,1,False,False,0,good,600
+Ben_Arous,Ben Arous,60,1,1,True,False,0,good,600
+La_Manouba,La Manouba,90,2,1,False,False,0,good,600
+Mahdia,Mahdia,80,2,1,False,True,0,good,600
+Ben_Arous,Boumhel,87,3,1,False,False,0,good,600
+Nabeul,Hammamet Nord,60,1,1,False,False,0,good,600
+Ariana,Borj Louzir,100,3,1,True,True,0,good,600
+Nabeul,Hammamet Nord,80,1,1,True,False,0,good,600
+Ben_Arous,Hammam Chott,80,2,1,False,False,0,good,600
+Ben_Arous,Hammam Lif,125,2,1,False,False,1,good,600
+Sousse,Sousse,90,2,1,True,False,0,good,600
+Kairouan,Kairouan Nord,100,2,1,False,False,0,good,600
+Tunis,Sidi Daoud,100,1,1,True,False,0,good,600
+Sfax,Route MANZEL CHAKER,110,2,1,True,False,0,excellent,600
+Sfax,Route MANZEL CHAKER,250,2,1,False,False,0,good,600
+Tunis,Tunis,40,1,1,False,False,0,good,600
+Ariana,Ghazela,30,1,1,False,False,0,good,600
+Monastir,Monastir,90,2,1,True,False,0,good,600
+Tunis,Le Bardo,80,2,1,False,False,0,good,600
+Ben_Arous,El Mourouj 4,90,2,1,False,False,0,good,600
+Tunis,El Menzah 9,35,1,1,True,False,0,good,600
+Ben_Arous,El Mourouj 1,90,2,1,False,False,3,good,600
+Ariana,Ghazela,70,1,1,False,False,0,good,600
+Ben_Arous,Rads,74,2,1,False,False,0,good,600
+Nabeul,Grombalia,85,2,1,False,False,0,good,600
+Tunis,Le Kram,65,1,1,False,False,0,good,600
+Ben_Arous,Borj Cedria,80,2,1,True,False,1,good,600
+Tunis,Monfleury,110,4,1,False,False,4,good,600
+Ben_Arous,Rads,80,2,1,False,False,0,good,600
+Ariana,Ghazela,60,2,1,True,False,0,good,600
+Sousse,Zaouit Ksibat Thrayett,130,1,1,False,False,0,good,600
+Ben_Arous,Medina Jedida,120,2,1,False,False,1,good,600
+Sousse,Khzema,60,1,1,False,False,0,good,600
+La_Manouba,La Manouba,65,2,1,True,False,3,good,600
+Tunis,El Menzah 9,50,1,1,False,False,0,good,600
+Ben_Arous,Mornag,149,2,2,False,False,0,good,600
+La_Manouba,La Manouba,70,2,1,False,False,0,good,600
+Ariana,La Soukra,180,3,2,False,False,0,good,600
+Tunis,Le Bardo,78,3,1,True,False,0,good,600
+Tunis,Le Bardo,60,2,1,True,False,0,good,600
+Ariana,Cite Ennkhilet,105,3,1,False,True,0,good,600
+Sfax,Sfax Mdina,74,2,1,True,False,0,good,600
+Ariana,Mnihla,55,1,1,True,False,0,good,600
+Tunis,El Manar 2,30,1,1,True,False,0,good,600
+Tunis,Centre Ville Lafayette,80,2,1,False,False,0,good,600
+Ariana,Cite Ennkhilet,70,1,1,False,False,0,good,600
+Ariana,Raoued,70,2,1,True,True,3,good,600
+Sousse,Chatt mariem,100,2,1,False,False,0,good,600
+Sousse,Khzema,95,2,1,True,False,2,good,600
+Monastir,Monastir,65,1,1,True,False,0,good,600
+Tunis,Centre Ville Lafayette,25,1,1,True,False,0,good,600
+Ariana,Ghazela,40,1,1,True,False,0,good,600
+Sfax,Route Menzel Chaker,44,1,1,False,False,0,good,600
+La_Manouba,La Manouba,80,2,1,False,False,0,good,600
+Tunis,Tunis,88,3,1,False,True,3,good,600
+Ben_Arous,Boumhel,90,1,1,False,False,0,good,600
+Sousse,Sousse,70,1,1,True,False,0,good,600
+Mahdia,Mahdia,95,2,1,False,False,0,excellent,600
+Ariana,Cite Ennkhilet,120,3,1,False,True,0,good,600
+Sousse,Hammam Sousse,50,1,1,True,False,3,good,600
+Ariana,Ariana Ville,120,3,1,False,False,0,good,600
+Ariana,Cite Ennkhilet,130,3,2,False,False,0,good,600
+Ben_Arous,Hammam Lif,60,1,1,True,False,0,good,600
+Nabeul,Hammamet Nord,100,2,1,False,False,0,good,600
+Sousse,Sousse,110,2,1,True,False,1,good,600
+Ben_Arous,Mgrine,80,2,1,False,False,2,good,600
+Tunis,La Marsa,25,1,1,False,False,0,good,600
+Ben_Arous,Rads,90,2,1,False,False,0,good,620
+Tunis,Le Bardo,70,1,1,False,False,0,good,620
+Tunis,Centre Ville Lafayette,80,3,1,False,False,0,excellent,620
+Ariana,Ghazela,70,2,1,False,False,1,good,620
+Tunis,El Omrane,96,3,1,False,False,0,good,620
+Sfax,Sakiet Ezzit,90,2,1,False,False,1,excellent,630
+Ben_Arous,Ben Arous,90,2,1,False,False,3,good,630
+Ariana,Raoued,80,2,1,False,False,0,good,630
+Ben_Arous,Mornag,110,3,1,False,False,0,good,630
+Ben_Arous,Hammam Chott,120,3,2,False,True,0,good,640
+Ben_Arous,El Mourouj 6,170,2,1,False,True,0,good,640
+Tunis,Centre Ville Lafayette,80,1,1,True,False,0,good,649
+Ariana,Raoued,85,2,1,False,False,2,excellent,650
+Sousse,Sousse Riadh,100,2,1,True,True,0,good,650
+Ariana,El Menzah 8,90,2,1,False,False,0,good,650
+Sousse,Sousse Riadh,100,1,1,False,False,0,good,650
+La_Manouba,Manouba Ville,90,2,1,False,False,0,good,650
+Ben_Arous,Hammam Lif,70,3,1,False,False,0,good,650
+Ben_Arous,Ezzahra,110,3,1,False,False,0,good,650
+Tunis,La Marsa,75,1,1,False,False,2,good,650
+Sousse,Hergla,90,2,1,False,True,0,good,650
+Ben_Arous,Borj Cedria,90,2,1,False,True,0,excellent,650
+Ben_Arous,Mornag,100,3,1,False,True,4,good,650
+Tunis,Centre Ville Lafayette,55,2,1,True,False,0,good,650
+Sfax,Route Tunis,52,1,1,True,False,0,good,650
+Tunis,Le Kram,50,1,1,True,False,0,good,650
+Ben_Arous,Hammam Chott,100,2,1,False,False,0,good,650
+Ariana,Borj Louzir,110,2,1,False,True,1,good,650
+Tunis,Le Bardo,50,0,1,True,False,0,good,650
+Sousse,Sousse,35,2,1,False,False,0,good,650
+Ben_Arous,Hammam Lif,150,3,1,False,False,0,good,650
+Ariana,Ghazela,30,1,1,False,False,0,good,650
+Ariana,Ariana Ville,80,2,1,True,False,0,good,650
+Ben_Arous,Hammam Lif,124,3,2,True,False,0,good,650
+Ben_Arous,Borj Cedria,90,3,1,False,False,0,good,650
+Sousse,Hammam Sousse,95,2,1,True,False,0,good,650
+Tunis,Le Bardo,72,3,1,True,False,0,good,650
+Sousse,Sahloul,50,1,1,True,False,2,good,650
+Sfax,Autres Villes,100,3,1,True,False,1,good,650
+Sousse,Sahloul,70,2,1,True,False,0,good,650
+Ben_Arous,Rads,120,3,1,False,False,0,good,650
+Ben_Arous,Rads,70,2,1,False,True,0,good,650
+Tunis,Autres Villes,70,1,1,False,True,3,good,650
+Sousse,Sousse,70,2,1,True,False,0,good,650
+Nabeul,Hammamet Nord,80,2,1,False,False,3,good,650
+Ben_Arous,Ben Arous,33,1,1,False,False,0,good,650
+Ariana,Borj Louzir,100,3,1,False,True,1,good,650
+Ariana,Chotrana,130,3,1,False,False,0,good,650
+Sousse,Sahloul,95,2,1,True,False,2,good,650
+Tunis,Le Kram,72,1,1,False,False,2,good,650
+Ariana,Ariana,50,1,1,False,False,0,good,650
+Ben_Arous,El Mourouj 6,80,1,1,True,False,0,good,650
+Sfax,Sakiet Ezzit,75,2,1,False,False,0,good,650
+Tunis,El Manar 2,50,1,1,False,False,0,good,650
+Sousse,Hammam Sousse,95,2,1,True,False,2,good,650
+Tunis,El Omrane Suprieur,70,2,1,True,False,0,good,650
+Sousse,Chatt mariem,80,2,1,True,False,0,good,650
+Sousse,Sousse,50,2,1,False,False,0,good,650
+Ariana,Borj Louzir,80,2,1,True,True,1,good,650
+Tunis,Le Kram,97,2,1,False,False,0,good,650
+Ariana,Borj Louzir,200,3,1,False,True,0,good,650
+Ariana,Borj Louzir,100,2,1,False,False,0,good,650
+Nabeul,Nabeul,100,2,1,False,False,0,good,650
+Ben_Arous,El Mourouj 3,120,2,1,False,False,2,good,650
+Tunis,Centre Ville Lafayette,25,1,1,True,False,0,good,650
+Monastir,Monastir,80,2,1,False,False,0,good,650
+Tunis,Le Bardo,50,2,1,True,False,0,good,650
+Ariana,Borj Louzir,80,2,1,False,False,1,good,650
+Ben_Arous,Ben Arous,100,2,1,False,False,0,good,650
+Sousse,Hammam Sousse,50,1,1,True,False,2,good,650
+Sousse,Sahloul,70,1,1,False,False,0,good,650
+Tunis,La Marsa,100,2,1,False,False,3,good,650
+Ben_Arous,Mgrine,75,2,1,False,False,0,good,650
+Sfax,Route SOKRA,111,2,1,False,False,0,good,650
+Nabeul,El Haouaria,95,2,1,False,False,0,good,650
+Tunis,Tunis,55,1,1,True,False,0,good,650
+Sousse,Sousse Jawhara,71,2,1,True,False,1,excellent,650
+Sousse,Hammam Sousse,70,1,1,True,False,0,good,650
+Tunis,La Marsa,85,3,2,False,False,0,excellent,650
+Ben_Arous,Rads,90,3,1,False,False,0,excellent,670
+Ariana,Chotrana 1,62,1,1,True,True,1,good,678
+Ben_Arous,Boumhel,85,2,1,False,False,0,good,680
+Tunis,Monfleury,65,2,1,True,False,0,good,680
+Tunis,Agba,100,3,2,False,False,0,good,680
+Tunis,Menzah,60,1,1,False,False,0,good,680
+Tunis,El Omrane Suprieur,60,3,1,True,False,2,good,680
+Ariana,Ariana Ville,100,4,1,False,True,0,good,690
+Tunis,L Aouina,40,1,1,False,False,3,excellent,699
+Nabeul,Nabeul,57,3,1,True,False,0,good,699
+Gabs,Gabs Sud,90,2,1,False,False,0,good,700
+Ben_Arous,Ezzahra,120,4,1,False,False,0,good,700
+Ariana,Riadh Andalous,71,1,1,False,False,0,good,700
+Ariana,Ghazela,125,3,1,False,False,0,good,700
+Tunis,Le Kram,65,1,1,True,False,1,good,700
+Nabeul,Mrezga,80,3,1,True,False,0,good,700
+La_Manouba,La Manouba,50,2,1,True,False,0,excellent,700
+Tunis,Tunis,70,2,1,False,False,0,good,700
+Sousse,Hammam Sousse,60,1,1,True,False,0,good,700
+La_Manouba,La Manouba,76,1,1,False,True,0,excellent,700
+Ben_Arous,Medina Jedida,68,2,1,False,True,0,good,700
+Tunis,Tunis,70,2,1,True,False,0,good,700
+Tunis,Le Bardo,100,2,1,False,False,0,good,700
+Ariana,Borj Louzir,100,2,1,False,False,3,good,700
+Tunis,Lac 2,83,1,1,False,False,0,good,700
+Tunis,El Manar 1,45,1,1,False,False,0,good,700
+Tunis,El Omrane Suprieur,95,3,1,False,False,0,good,700
+Sousse,Kantaoui,250,3,2,False,False,0,good,700
+Tunis,Monfleury,80,3,1,True,True,2,good,700
+Nabeul,Nabeul,65,2,1,False,False,0,excellent,700
+Tunis,Carthage,50,1,1,True,False,0,good,700
+Tunis,El Omrane Suprieur,70,2,1,False,False,0,good,700
+Ben_Arous,Fouchana,140,3,2,False,False,0,excellent,700
+Ben_Arous,Ezzahra,81,3,1,False,False,0,good,700
+Ben_Arous,Medina Jedida,80,1,1,False,True,0,good,700
+Ariana,Jardins El Menzah,140,4,1,False,False,0,good,700
+Sousse,Sahloul,100,2,1,True,True,1,good,700
+Ariana,Borj Louzir,100,2,1,False,False,0,good,700
+Tunis,Le Bardo,80,2,1,False,False,0,good,700
+Ben_Arous,El Mourouj 6,60,1,1,False,True,0,good,700
+Tunis,Agba,30,2,3,False,False,0,good,700
+Ariana,Ghazela,90,2,1,False,True,0,good,700
+Sousse,Sousse Jawhara,80,2,1,True,False,2,good,700
+Ben_Arous,Hammam Lif,140,2,1,False,False,0,good,700
+Sousse,Hammam Sousse,50,1,1,False,False,6,good,700
+Ariana,La Soukra,70,2,1,False,True,0,good,700
+Tunis,Ezzouhour,60,1,1,False,False,0,good,700
+Ben_Arous,Ben Arous,80,2,1,False,False,0,good,700
+Sousse,Akouda,120,2,1,False,False,0,good,700
+Kairouan,Kairouan Nord,200,1,1,False,False,0,good,700
+Ben_Arous,Mornag,104,2,1,False,False,1,good,700
+Ben_Arous,Borj Cedria,120,1,1,False,False,0,good,700
+Tunis,Centre Ville Lafayette,60,2,1,True,False,0,good,700
+La_Manouba,Manouba Ville,125,4,1,False,True,2,good,700
+Ariana,Ghazela,100,2,1,False,False,0,good,700
+Tunis,Centre Ville Lafayette,50,2,1,True,False,0,excellent,700
+Ariana,Riadh Andalous,60,1,1,False,False,1,good,700
+Ben_Arous,Mgrine,140,2,1,False,False,0,good,700
+Nabeul,Hammamet,250,3,1,True,True,0,good,700
+Ariana,Riadh Andalous,60,1,1,False,False,0,good,700
+Ariana,Cit Ennasr 2,25,1,1,False,False,0,good,700
+Ariana,Riadh Andalous,50,2,1,False,False,0,good,700
+Tunis,L Aouina,80,1,1,True,False,1,good,700
+Ariana,Ghazela,75,1,1,False,False,0,good,700
+Nabeul,Hammamet,40,1,1,False,False,0,good,700
+Sousse,Sahloul,108,2,1,True,False,2,good,700
+Sousse,Sahloul,90,2,1,False,False,0,good,700
+Tunis,Tunis Belvedere,47,1,1,True,False,0,good,700
+Ben_Arous,Boumhel,70,1,1,False,True,0,good,700
+Sousse,Chatt mariem,100,2,1,True,True,0,good,700
+Ariana,Ariana Essoughra,30,1,1,True,False,0,good,700
+Tunis,Sidi Daoud,150,3,1,False,False,0,good,700
+Bizerte,Ras Jebel,90,2,1,True,False,0,excellent,700
+Sousse,Hammam Sousse,95,2,1,True,False,2,good,700
+Sousse,Hammam Sousse,55,1,1,False,False,6,good,700
+Nabeul,El Mida,100,3,1,False,False,0,good,700
+Ariana,Les Jardins El Menzah 2,33,1,1,False,False,0,good,700
+Tunis,Cit El Khadra,70,2,1,False,False,3,good,700
+Tunis,L Aouina,45,1,1,False,False,0,excellent,700
+Ben_Arous,Medina Jedida,70,3,1,False,False,0,good,700
+Tunis,Carthage,64,1,1,True,False,0,good,700
+Tunis,Le Kram,70,1,1,True,True,0,good,700
+Ariana,Ariana Ville,28,1,1,False,False,0,good,700
+Ariana,Borj Louzir,97,3,1,False,True,0,good,700
+Ben_Arous,Medina Jedida,22,1,1,False,False,0,good,700
+Ariana,El Menzah 8,70,2,1,True,True,0,good,700
+Ariana,Borj Louzir,150,2,2,False,False,1,good,720
+Ben_Arous,El Mourouj,100,3,1,True,False,1,good,720
+Sousse,Khzema,95,2,2,True,False,0,good,720
+La_Manouba,La Manouba,100,3,2,False,False,3,good,720
+Sfax,Sfax Ville,65,2,1,True,False,2,good,730
+Ben_Arous,Hammam Lif,80,1,1,True,False,0,good,747
+Ben_Arous,Hammam Lif,100,1,1,True,False,0,good,748
+Ben_Arous,Ezzahra,79,2,1,False,True,0,good,748
+Monastir,Monastir,90,2,1,True,True,0,good,749
+Ben_Arous,Ezzahra,80,2,1,False,True,0,good,749
+Tunis,El Menzah 1,50,0,1,True,False,0,good,749
+Tunis,Khaznadar,80,2,1,True,False,0,excellent,749
+Tunis,Le Bardo,90,1,1,True,False,0,good,749
+Tunis,El Manar 1,99,1,1,True,False,0,excellent,750
+Tunis,Le Kram,75,1,1,False,False,2,good,750
+Ben_Arous,El Mourouj 6,150,2,1,False,True,0,excellent,750
+Tunis,Ettahrir,130,3,1,False,False,3,good,750
+Tunis,L Aouina,90,2,1,True,False,0,good,750
+Tunis,L Aouina,80,1,1,False,True,0,good,750
+Ariana,El Menzah 8,100,2,1,False,False,0,good,750
+Tunis,Le Kram,40,2,1,False,False,1,good,750
+Ariana,Ariana Ville,100,2,1,False,False,0,good,750
+Ben_Arous,Mornag,90,2,1,False,True,0,good,750
+Ben_Arous,Boumhel,120,3,1,False,False,0,good,750
+Sousse,Hammam Sousse,80,1,1,False,False,0,good,750
+Tunis,L Aouina,60,1,1,False,False,0,good,750
+Ariana,El Menzah 8,120,2,1,False,False,0,good,750
+Ariana,Les Jardins El Menzah 2,70,1,1,False,False,1,good,750
+Tunis,Le Bardo,95,2,1,False,False,0,good,750
+Sousse,Akouda,80,0,1,True,False,0,good,750
+Ariana,Les Jardins El Menzah 1,70,1,1,False,True,1,good,750
+Tunis,La Marsa,50,2,1,False,False,0,good,750
+Tunis,Le Bardo,90,3,1,True,False,0,good,750
+Ben_Arous,Hammam Lif,120,3,1,False,False,0,good,750
+Tunis,L Aouina,60,1,1,False,False,2,good,750
+Tunis,Centre Ville Lafayette,80,3,1,True,False,0,good,750
+Ben_Arous,El Mourouj 6,20,1,1,False,True,0,good,750
+Sousse,Hammam Sousse,80,0,1,False,False,0,good,750
+Ben_Arous,Ezzahra,80,2,1,False,True,0,good,750
+Ariana,Riadh Andalous,45,1,1,True,False,0,good,750
+Ariana,Ariana Essoughra,110,3,1,False,False,0,good,750
+Tunis,Le Bardo,70,2,1,False,False,3,good,750
+Tunis,Centre Ville Lafayette,80,3,1,False,False,0,good,750
+Ariana,Ghazela,180,5,2,False,True,0,good,750
+Tunis,Le Bardo,75,1,1,True,False,0,good,750
+Sousse,Sousse,91,2,1,False,True,0,excellent,750
+Tunis,Centre Ville Lafayette,120,2,1,True,False,0,excellent,750
+Monastir,Monastir,60,2,2,True,True,4,good,750
+Sousse,Sahloul,55,2,1,True,False,0,good,750
+Mahdia,Mahdia,150,1,1,False,False,1,good,750
+Tunis,Tunis,110,3,1,False,False,0,good,750
+Tunis,Bab Souika,135,1,1,False,False,0,good,750
+Tunis,Le Kram,110,1,1,False,False,0,good,750
+Sousse,Sahloul,65,1,1,True,False,0,good,750
+Ben_Arous,Hammam Lif,100,1,1,True,False,0,good,750
+La_Manouba,Manouba Ville,90,3,1,False,True,2,good,750
+Tunis,Le Kram,60,2,1,True,False,0,good,750
+Ben_Arous,Ezzahra,110,2,1,False,True,0,good,750
+Tunis,Tunis,90,3,1,False,False,0,good,750
+Tunis,L Aouina,100,1,1,False,False,0,good,750
+Ariana,Riadh Andalous,68,1,1,False,False,0,good,750
+Ariana,Ghazela,130,3,1,False,False,0,good,750
+La_Manouba,Borj El Amri,200,1,2,False,False,0,good,750
+Tunis,Le Kram,50,1,1,False,False,2,good,750
+Ariana,Cite Ennkhilet,60,2,1,False,True,2,excellent,750
+Ben_Arous,Boumhel,98,3,1,False,True,0,good,750
+Kairouan,Kairouan Nord,80,2,1,True,False,0,good,750
+Tunis,Le Bardo,90,2,1,False,False,0,good,750
+Sousse,Hammam Sousse,55,1,1,True,False,0,good,750
+Ariana,Ghazela,70,2,1,False,False,0,good,750
+Ariana,Cite Ennkhilet,130,2,1,False,True,0,good,750
+Tunis,Montplaisir,75,2,1,True,False,1,good,750
+Tunis,Le Kram,100,2,1,True,False,2,good,750
+Nabeul,Nabeul,120,3,1,False,False,0,good,750
+Ben_Arous,Borj Cedria,110,2,1,False,False,0,good,750
+Tunis,Le Bardo,80,1,1,False,True,0,good,750
+Bizerte,Menzel Jemil,100,2,1,False,False,0,good,750
+Ben_Arous,Ezzahra,135,4,1,False,False,0,good,750
+Sousse,Hammam Sousse,45,1,1,True,True,0,good,750
+Ariana,Ghazela,70,1,1,False,True,0,good,750
+Ben_Arous,Ezzahra,100,2,1,False,True,0,good,750
+Ariana,Cit Ennasr 2,60,2,1,True,False,0,good,750
+Ben_Arous,Fouchana,100,2,1,False,False,0,good,750
+Ben_Arous,Hammam Chott,130,3,2,False,False,0,excellent,750
+Ben_Arous,Boumhel,100,2,1,False,False,0,good,750
+Tunis,El Manar 1,70,1,1,False,False,0,good,750
+Sousse,Sousse,110,3,1,True,False,0,good,750
+Tunis,Centre Ville Lafayette,60,2,1,False,False,0,good,750
+Ben_Arous,Ezzahra,100,4,1,False,True,0,good,750
+Ariana,Ennasr,75,1,1,False,False,0,good,760
+Ariana,Cit Ennasr 2,75,1,1,False,False,0,good,760
+Tunis,L Aouina,55,1,1,False,True,3,good,780
+Ben_Arous,Medina Jedida,130,4,2,False,True,0,good,780
+La_Manouba,La Manouba,60,1,1,False,False,0,good,780
+Tunis,L Aouina,60,1,1,False,False,2,good,780
+Ariana,Ariana Essoughra,100,3,1,True,True,0,good,780
+Tunis,L Aouina,55,1,1,False,False,0,good,780
+Sousse,Sousse,130,3,1,False,True,0,good,790
+Ariana,Borj Louzir,150,2,1,False,False,0,good,798
+Sousse,Sahloul,85,2,1,False,True,0,good,798
+Sousse,Sahloul,120,3,1,False,False,0,good,799
+Sousse,Khzema,110,3,1,True,False,2,good,800
+Tunis,El Manar 1,160,3,1,False,False,0,good,800
+Ariana,Ariana Essoughra,120,2,1,False,False,0,good,800
+Tunis,Mdina,90,2,1,False,False,0,good,800
+Ariana,Ariana Essoughra,100,2,2,False,False,0,good,800
+Tunis,L Aouina,64,1,1,False,False,0,good,800
+Tunis,Ain Zaghouan Sud,90,2,1,False,False,3,good,800
+Ben_Arous,Autres Villes,145,4,1,False,False,0,good,800
+Tunis,L Aouina,70,1,1,False,False,2,good,800
+Ben_Arous,Boumhel,150,3,2,False,False,0,good,800
+Sousse,Sahloul,100,2,1,False,True,2,good,800
+Sousse,Sousse corniche,50,1,1,False,False,0,good,800
+Ariana,Ennasr,90,1,1,False,False,4,good,800
+Sousse,Sahloul,100,3,1,False,False,0,good,800
+Tunis,Le Bardo,80,3,1,True,False,0,good,800
+Mahdia,Mahdia,200,3,1,False,False,0,good,800
+Mahdia,Mahdia,150,3,1,False,False,0,good,800
+Ariana,Ariana Essoughra,80,2,1,False,False,0,good,800
+Sousse,Khzema,95,2,1,True,False,4,good,800
+Tunis,Monfleury,136,3,1,False,False,0,good,800
+Nabeul,Dar Chabane El Fehri,60,3,1,True,False,1,good,800
+Ariana,Les Jardins El Menzah 2,60,2,1,False,False,0,good,800
+Mahdia,Mahdia,165,3,1,True,False,0,good,800
+Sousse,Chatt mariem,80,2,1,True,False,0,good,800
+Ben_Arous,El Mourouj 6,130,3,1,False,False,0,good,800
+Tunis,Centre Ville Lafayette,60,2,1,True,False,0,good,800
+Tunis,Sidi Hassine,100,3,1,False,False,0,good,800
+Ben_Arous,Medina Jedida,120,3,1,False,False,0,excellent,800
+Sousse,Khzema,130,3,1,True,False,0,good,800
+Ariana,Cit Ennasr 2,50,1,1,False,False,0,good,800
+Ariana,Ariana Essoughra,120,2,1,False,True,2,good,800
+Sfax,Sfax Mdina,95,2,1,True,False,0,good,800
+Tunis,L Aouina,100,3,1,False,False,2,good,800
+Tunis,Le Bardo,110,2,1,False,False,4,good,800
+Ariana,Chotrana 1,70,1,1,False,True,0,excellent,800
+Mdenine,Djerba Houmt Souk,130,4,1,True,False,3,good,800
+Ariana,El Menzah 7,75,2,1,True,False,0,good,800
+Ben_Arous,Medina Jedida,120,2,1,False,False,0,good,800
+Ben_Arous,El Mourouj 6,135,3,1,False,True,0,good,800
+Ben_Arous,Medina Jedida,90,2,1,False,True,0,good,800
+Tunis,L Aouina,60,1,1,False,False,4,good,800
+Ariana,Ariana,140,3,1,False,True,0,good,800
+Tunis,Le Bardo,80,1,1,True,False,0,excellent,800
+Sousse,Sahloul,150,3,1,False,False,0,good,800
+Ben_Arous,Ezzahra,80,2,1,True,False,0,excellent,800
+Ben_Arous,El Mourouj,200,5,2,False,False,0,excellent,800
+Tunis,L Aouina,75,2,1,False,False,0,good,800
+Le_Kef,Kef Est,70,1,2,False,False,0,good,800
+Kairouan,Kairouan Sud,250,2,1,False,True,0,good,800
+Ariana,Ghazela,100,3,1,True,True,0,good,800
+Tunis,El Manar 1,100,3,1,False,False,0,good,800
+Tunis,L Aouina,65,1,1,True,False,0,good,800
+Ben_Arous,El Mourouj 6,104,2,1,False,False,0,good,800
+Sousse,Hammam Sousse,120,3,1,True,False,2,good,800
+Ariana,Ghazela,80,2,2,False,False,0,good,800
+Tunis,Ain Zaghouen,75,1,1,False,False,0,good,800
+Mahdia,Mahdia,130,3,1,False,False,0,good,800
+Tunis,La Marsa,80,2,1,False,False,0,good,800
+Ben_Arous,Boumhel,70,1,1,False,True,0,good,807
+Ben_Arous,Boumhel,70,1,1,False,True,0,good,810
+Ben_Arous,Rads,90,2,1,False,False,0,excellent,820
+Ben_Arous,Fouchana,170,3,2,False,False,0,good,820
+Tunis,Ain Zaghouen,93,2,1,False,True,0,good,830
+Ariana,Cit Ennasr 2,55,1,1,False,False,0,good,830
+Ben_Arous,Ben Arous,95,3,1,True,False,0,good,830
+Tunis,La Marsa,100,2,1,False,False,0,good,830
+Tunis,L Aouina,100,2,1,False,False,0,good,840
+Ariana,Ennasr,70,1,1,False,True,0,good,840
+Sousse,Sahloul,65,1,1,False,False,0,good,848
+Sousse,Khzema,67,1,1,True,False,0,good,849
+Tunis,El Manar 1,50,1,1,False,False,0,good,850
+Ariana,Riadh Andalous,70,1,1,False,False,0,good,850
+Ariana,Ariana Ville,55,1,1,True,False,0,good,850
+Tunis,Ain Zaghouen,80,1,1,False,True,0,good,850
+Tunis,L Aouina,62,1,1,False,False,0,good,850
+Tunis,Le Bardo,90,2,2,False,False,0,good,850
+Sfax,Route GREMDA,160,3,1,False,True,0,good,850
+Ariana,Les Jardins El Menzah 2,120,3,1,False,False,0,good,850
+Tunis,L Aouina,85,2,1,False,False,0,good,850
+Ariana,Ariana,35,2,1,True,True,3,excellent,850
+Ariana,Borj Louzir,120,3,2,False,True,0,excellent,850
+Tunis,Le Bardo,60,3,1,False,False,0,good,850
+Ariana,Chotrana 3,60,2,1,True,False,1,good,850
+Ariana,Ghazela,120,2,1,False,False,3,good,850
+Tunis,Le Bardo,80,3,2,False,False,0,good,850
+Sousse,Sahloul,74,1,1,True,False,0,excellent,850
+Tunis,Ain Zaghouan Sud,60,1,1,False,False,0,good,850
+Tunis,Cit El Khadra,160,3,2,False,True,0,good,850
+Sousse,Sousse,75,2,1,True,False,0,good,850
+Sousse,Sousse,100,1,1,True,False,0,good,850
+Ariana,Riadh Andalous,71,1,1,True,False,0,good,850
+Tunis,L Aouina,100,2,1,False,False,0,good,850
+Tunis,El Manar 1,60,2,1,False,False,1,good,850
+Tunis,Tunis Belvedere,70,2,1,False,False,0,good,850
+Ariana,Ghazela,127,3,2,False,False,0,good,850
+Ariana,Riadh Andalous,70,1,1,False,False,3,good,850
+Sousse,Sahloul,120,2,2,False,True,2,good,850
+Ariana,Dar Fadhal,60,2,1,False,True,0,good,850
+La_Manouba,La Manouba,90,3,1,True,True,3,good,850
+Tunis,Ain Zaghouen,62,1,1,False,False,0,good,850
+Tunis,L Aouina,60,1,1,False,False,2,good,850
+Ariana,Chotrana 3,65,2,1,True,False,1,good,850
+Ariana,Ghazela,90,2,2,True,False,0,good,850
+Bizerte,Ras Jebel,450,8,4,False,False,0,good,850
+Monastir,Autres Villes,120,3,1,True,True,2,good,850
+Ben_Arous,Rads,100,2,1,False,False,0,good,850
+Tunis,Ain Zaghouan Nord,60,1,1,False,False,2,good,850
+Tunis,L Aouina,50,1,1,False,False,2,good,850
+Tunis,L Aouina,55,1,1,False,False,3,good,850
+Ben_Arous,Boumhel,100,3,1,False,False,0,good,850
+Ariana,Ariana Essoughra,85,2,1,False,True,2,good,850
+Ariana,Mnihla,60,1,1,False,False,0,good,850
+Tunis,L Aouina,55,1,1,False,False,4,good,850
+Tunis,Ain Zaghouan Nord,50,1,1,False,False,2,good,850
+Tunis,El Manar 2,30,1,1,False,False,0,good,850
+Ben_Arous,Boumhel,120,1,1,False,False,0,good,850
+Tunis,Ain Zaghouan Nord,85,1,1,False,False,2,good,850
+Ariana,Ghazela,80,3,1,False,True,2,good,850
+Sousse,Khzema,55,1,1,False,False,0,good,850
+Ariana,Ghazela,120,3,1,False,False,1,good,850
+Ben_Arous,Rads,90,2,1,True,True,0,good,850
+Tunis,L Aouina,60,0,1,False,False,2,good,850
+Ariana,Ariana Essoughra,85,2,1,False,True,0,good,850
+Tunis,L Aouina,65,1,1,False,False,2,good,850
+Tunis,L Aouina,80,2,1,True,False,2,good,850
+Tunis,Ain Zaghouan Nord,49,1,1,False,False,0,excellent,850
+La_Manouba,Mornaguia,75,2,1,False,False,0,good,850
+Sousse,Sahloul,70,1,1,False,False,5,good,850
+Ariana,El Menzah 8,20,2,1,False,False,0,good,850
+Tunis,Ain Zaghouan Nord,75,1,1,False,False,2,good,850
+Tunis,Le Bardo,90,2,1,False,False,0,good,850
+La_Manouba,Manouba Ville,100,3,1,False,False,2,good,850
+Tunis,Ain Zaghouen,80,1,1,False,False,0,good,850
+Tunis,L Aouina,50,1,1,False,False,4,good,850
+Bizerte,Ghar El Melh,60,3,1,False,False,0,good,850
+Nabeul,Korba,90,2,1,False,False,0,good,850
+Tunis,Le Bardo,90,3,1,False,False,0,good,850
+Ariana,Raoued,120,3,1,False,False,1,good,850
+Tunis,Tunis,54,1,1,True,False,0,good,850
+Tunis,L Aouina,70,1,1,False,False,0,excellent,860
+Tunis,Tunis Belvedere,120,2,2,False,False,0,good,870
+Tunis,L Aouina,70,1,1,False,True,0,good,870
+Tunis,L Aouina,65,1,1,False,False,0,good,870
+Tunis,L Aouina,50,1,1,True,False,0,good,880
+Tunis,L Aouina,50,1,1,False,False,0,good,880
+Sousse,Sousse,90,2,1,False,True,0,excellent,890
+Tunis,L Aouina,60,1,1,False,False,3,good,898
+Tunis,Ain Zaghouen,77,1,1,False,True,0,excellent,900
+Tunis,La Marsa,300,2,2,False,False,0,good,900
+Ariana,Ennasr,67,1,1,True,False,8,good,900
+Ariana,Chotrana 1,60,1,1,False,False,0,good,900
+Tunis,El Manar 1,60,1,1,True,False,0,good,900
+Mahdia,Mahdia,65,2,1,True,True,0,good,900
+Tunis,El Menzah 9,150,3,1,False,False,0,good,900
+Ariana,Les Jardins El Menzah 2,80,2,1,False,False,0,good,900
+Nabeul,Grombalia,65,1,1,True,False,0,good,900
+La_Manouba,Manouba Ville,50,2,1,False,False,0,good,900
+Ariana,Ghazela,60,1,1,True,False,0,good,900
+Ariana,Cit Ennasr 2,75,1,1,False,False,0,good,900
+Tunis,L Aouina,100,3,1,False,True,0,good,900
+Ben_Arous,Medina Jedida,135,3,1,False,True,0,good,900
+Ben_Arous,Medina Jedida,200,3,2,False,True,1,good,900
+Tunis,L Aouina,50,1,1,False,False,0,excellent,900
+Ariana,Jardins El Menzah,75,1,1,False,False,0,good,900
+Nabeul,Klibia,100,1,1,False,False,0,good,900
+Ariana,El Menzah 8,84,2,1,False,False,0,good,900
+Tunis,La Marsa,70,2,1,False,False,2,good,900
+Tunis,L Aouina,70,1,1,False,False,5,good,900
+Tunis,Ain Zaghouen,120,3,1,False,False,0,good,900
+Sousse,Sahloul,75,2,1,True,False,0,good,900
+Tunis,Le Kram,100,1,1,False,False,0,good,900
+Ben_Arous,Ezzahra,86,3,1,False,False,0,excellent,900
+Ariana,Les Jardins El Menzah 2,60,2,1,True,False,0,good,900
+Sousse,Sahloul,100,2,2,True,False,2,good,900
+Sousse,Sahloul,140,2,2,False,False,0,good,900
+Sfax,Sfax,80,2,1,False,True,0,good,900
+Sousse,Chatt mariem,90,2,1,True,False,0,good,900
+Tunis,Tunis,80,3,2,True,False,1,good,900
+Ariana,Borj Louzir,80,2,1,True,False,0,excellent,900
+Sousse,Sahloul,75,1,1,False,True,0,excellent,900
+Ariana,Riadh Andalous,58,1,1,False,False,0,good,900
+Sousse,Sahloul,60,1,1,True,False,1,good,900
+Ben_Arous,Rads,110,2,1,False,False,0,excellent,900
+Nabeul,Nabeul,90,2,1,False,False,2,good,900
+Tunis,L Aouina,78,2,2,False,False,0,good,900
+Tunis,L Aouina,60,1,1,False,True,0,good,900
+Sousse,Sousse,80,3,2,True,False,0,good,900
+Tunis,Ain Zaghouan Nord,100,2,1,False,False,1,good,900
+Tunis,Manar,65,1,1,False,True,0,good,900
+Sousse,Hammam Sousse,140,3,1,False,False,3,good,900
+Tunis,El Manar 1,80,1,1,True,True,0,good,900
+Ariana,Cit Ennasr 2,69,1,1,False,True,0,good,900
+Tunis,Tunis Belvedere,80,2,1,True,False,4,good,900
+Ben_Arous,Boumhel,140,1,1,False,False,0,good,900
+Tunis,Centre Ville Lafayette,70,4,1,False,False,0,good,900
+Tunis,L Aouina,85,1,1,False,False,2,good,900
+Tunis,Tunis,90,4,1,True,False,0,good,900
+Sousse,Khzema,80,1,1,True,False,0,good,900
+Tunis,L Aouina,50,1,1,True,False,0,good,900
+Ben_Arous,Ezzahra,100,3,1,False,False,0,good,900
+Sousse,Akouda,90,3,1,False,False,0,good,900
+Sousse,Sousse Jawhara,120,3,2,True,False,0,good,900
+Ariana,Ariana Essoughra,90,2,1,False,False,0,good,900
+Tunis,L Aouina,68,1,1,False,False,2,good,900
+Ben_Arous,Boumhel,65,1,1,False,False,0,excellent,900
+Monastir,Monastir,70,1,1,False,True,0,good,900
+Ariana,Cit Ennasr 2,65,1,1,False,False,2,excellent,900
+Monastir,Monastir,109,2,1,True,False,1,good,900
+Sousse,Sousse,50,1,1,True,False,0,excellent,900
+Sousse,Sahloul,100,2,1,False,False,0,good,900
+Tunis,L Aouina,50,1,1,False,False,0,good,900
+Ariana,La Soukra,119,2,1,False,False,0,good,900
+Ariana,Cit Ennasr 2,66,1,1,False,True,0,good,900
+Ariana,Ariana,80,2,1,True,False,2,excellent,900
+Tunis,L Aouina,55,1,1,False,False,0,good,900
+Ariana,Ennasr,50,1,1,True,False,0,good,900
+Tunis,Sidi Daoud,50,1,1,False,False,0,good,900
+Tunis,L Aouina,65,1,1,False,False,0,good,900
+Tunis,Ain Zaghouen,120,3,2,False,False,0,good,900
+Ariana,Cit Ennasr 2,70,1,1,False,False,8,good,900
+Ariana,Les Jardins El Menzah 2,75,1,1,False,False,0,good,900
+Tunis,Le Bardo,95,2,1,False,False,0,good,900
+Tunis,Ain Zaghouen,120,2,1,False,False,1,good,900
+Tunis,Ain Zaghouan Nord,95,3,1,False,False,0,good,900
+Tunis,Le Bardo,100,3,1,True,False,0,good,900
+Ariana,La Soukra,50,1,1,False,True,0,excellent,900
+Sousse,Hammam Sousse,60,2,1,True,False,0,good,900
+Sfax,Thyna,100,2,1,False,False,0,good,910
+Tunis,Ain Zaghouen,60,1,1,True,False,3,excellent,920
+Tunis,Cit El Khadra,130,2,2,False,False,0,excellent,920
+Tunis,L Aouina,120,2,3,False,False,2,good,930
+Ariana,Ghazela,80,2,1,False,False,0,good,930
+Tunis,L Aouina,90,3,1,True,False,4,good,930
+Tunis,La Marsa,100,2,1,True,False,0,good,930
+Tunis,La Marsa,90,3,1,False,False,0,good,930
+Tunis,Le Bardo,100,2,1,False,False,0,good,940
+Ben_Arous,Boumhel,120,2,2,False,False,0,good,940
+Ariana,Ariana Ville,60,2,1,True,False,0,good,945
+Tunis,L Aouina,62,1,1,False,False,0,good,948
+Ariana,Ariana,25,1,1,False,False,0,good,949
+Tunis,L Aouina,100,2,1,False,False,3,good,950
+Ariana,Cit Ennasr 2,67,1,1,False,False,0,excellent,950
+Ariana,La Soukra,77,1,1,False,True,0,excellent,950
+Sousse,Sousse,140,2,2,True,True,2,good,950
+Tunis,L Aouina,60,1,1,False,False,0,excellent,950
+Ariana,El Menzah 7,50,1,1,True,False,0,good,950
+Tunis,Le Bardo,50,1,1,True,False,0,good,950
+Tunis,La Goulette,60,1,1,False,False,0,good,950
+Tunis,El Manar 2,100,3,1,True,False,1,good,950
+Tunis,El Manar 2,80,2,1,True,False,1,good,950
+Tunis,L Aouina,67,1,1,False,False,0,excellent,950
+Ariana,El Menzah 8,130,3,1,False,False,0,good,950
+Tunis,L Aouina,60,1,1,False,False,7,excellent,950
+Tunis,L Aouina,60,1,1,False,False,0,good,950
+Ariana,Ghazela,100,2,1,False,False,0,good,950
+Ariana,Ennasr,60,1,1,False,False,0,excellent,950
+Tunis,La Marsa,85,2,1,False,False,0,good,950
+Ben_Arous,Boumhel,110,2,1,False,False,2,good,950
+Ben_Arous,Boumhel,135,4,2,False,True,0,good,950
+Tunis,El Manar 1,70,1,1,True,True,0,good,950
+Tunis,L Aouina,50,1,1,False,False,7,excellent,950
+Tunis,Ain Zaghouen,70,1,1,False,False,0,excellent,950
+La_Manouba,Manouba Ville,80,3,1,False,True,0,good,950
+Tunis,L Aouina,77,1,1,False,True,0,excellent,950
+Tunis,L Aouina,68,1,1,False,True,2,good,950
+Tunis,L Aouina,65,1,1,False,False,7,excellent,950
+Ariana,Riadh Andalous,60,1,1,False,False,0,good,950
+Tunis,L Aouina,110,2,1,False,False,0,good,950
+Ariana,Ariana,110,3,1,False,True,2,good,950
+Tunis,Le Bardo,90,1,1,False,False,0,excellent,950
+La_Manouba,Djedeida,85,2,1,False,False,0,excellent,950
+Bizerte,Bizerte,100,3,2,False,False,0,good,950
+Ariana,Cit Ennasr 2,71,1,1,False,True,0,good,950
+Nabeul,Bni Khiar,120,3,2,True,False,0,good,950
+Ben_Arous,Boumhel,150,3,2,True,False,0,good,950
+Ariana,Ennasr,75,1,1,False,False,0,good,950
+Tunis,L Aouina,68,1,1,False,False,3,excellent,950
+Ariana,El Menzah 7,67,1,1,False,False,8,good,950
+Tunis,El Manar 1,70,1,1,True,False,0,good,950
+Ariana,La Soukra,60,1,1,False,False,1,good,950
+Ariana,Riadh Andalous,100,3,1,False,True,0,good,950
+Sousse,Autres Villes,120,3,2,True,True,4,excellent,950
+Tunis,Le Bardo,50,2,1,True,False,0,good,950
+Tunis,El Manar 2,110,3,1,False,False,0,good,950
+Ariana,Cit Ennasr 2,67,1,1,True,False,0,good,950
+Sousse,Sahloul,112,2,1,False,True,2,good,950
+Tunis,Ain Zaghouen,68,1,1,False,False,0,excellent,950
+Ariana,Ariana Essoughra,110,3,1,True,False,0,good,950
+Tunis,Ain Zaghouan Sud,150,2,2,False,False,0,good,950
+Sfax,Kerkennah,200,3,1,False,True,0,good,950
+Tunis,L Aouina,61,1,1,False,False,7,good,950
+Tunis,El Manar 1,85,0,1,False,True,0,good,950
+Tunis,La Marsa,25,1,1,True,False,0,excellent,950
+Tunis,Ain Zaghouen,122,2,2,True,True,0,good,950
+Tunis,Le Bardo,80,2,1,True,False,0,good,950
+Ben_Arous,Medina Jedida,100,2,2,False,True,0,good,960
+Ben_Arous,Medina Jedida,90,1,1,False,False,0,good,970
+Tunis,Tunis,100,3,1,True,True,0,good,972
+Tunis,Montplaisir,65,1,1,True,False,0,good,980
+Tunis,Tunis,46,2,1,True,False,2,good,980
+Tunis,El Menzah 9,75,1,1,False,False,0,excellent,980
+Tunis,Ain Zaghouan Sud,60,1,1,True,True,1,good,980
+Nabeul,Klibia,100,1,1,False,False,0,good,999
+Nabeul,Korba,150,1,1,True,False,0,good,999
+Nabeul,Klibia,140,3,1,False,False,0,good,999
+Sousse,Hammam Sousse,95,1,1,True,False,0,good,999
+Nabeul,Nabeul,90,3,2,True,False,0,good,1000
+Tunis,Sidi Daoud,110,1,1,False,False,2,excellent,1000
+Sousse,Hammam Sousse,80,2,1,True,False,1,good,1000
+Ariana,Ariana,120,3,1,False,True,0,good,1000
+Ariana,Les Jardins El Menzah 1,200,2,2,False,False,0,good,1000
+Sfax,Route GREMDA,200,3,1,False,False,0,good,1000
+Tunis,Montplaisir,60,2,1,True,True,4,good,1000
+Tunis,El Manar 1,90,2,1,False,False,0,good,1000
+Sousse,Hammam Sousse,120,3,1,False,True,0,good,1000
+Sousse,Sousse,150,3,1,False,False,1,good,1000
+Ariana,Riadh Andalous,50,1,1,True,False,0,good,1000
+Ariana,Ariana Ville,180,4,1,True,False,0,good,1000
+Ariana,La Soukra,67,1,1,False,True,1,excellent,1000
+Ben_Arous,Boumhel,150,2,1,False,False,0,good,1000
+Tunis,La Marsa,150,2,1,False,False,0,good,1000
+Ariana,Borj Louzir,55,1,1,False,False,0,good,1000
+Sousse,Sousse Mdina,150,2,1,False,False,0,good,1000
+Sousse,Sousse Jawhara,200,2,1,True,True,0,good,1000
+Nabeul,Klibia,150,3,2,False,False,0,good,1000
+Tunis,La Marsa,70,2,1,False,False,0,good,1000
+Tunis,El Manar 2,120,2,2,True,False,3,good,1000
+Ariana,Les Jardins El Menzah 2,75,1,1,False,True,0,excellent,1000
+Tunis,L Aouina,60,1,1,True,True,2,good,1000
+Ben_Arous,Boumhel,130,1,1,False,False,0,good,1000
+Ariana,Ariana Ville,120,3,1,True,False,3,good,1000
+Ariana,Cit Ennasr 2,58,1,1,False,True,0,excellent,1000
+Tunis,Ksar Said,160,1,1,True,False,0,excellent,1000
+Tunis,L Aouina,100,2,2,False,False,0,good,1000
+Tunis,L Aouina,24,1,1,False,False,0,good,1000
+Tunis,L Aouina,60,0,1,False,True,2,good,1000
+Tunis,La Marsa,60,2,1,True,False,0,good,1000
+Ariana,Ghazela,100,2,1,True,False,0,good,1000
+Tunis,Tunis,85,2,1,False,False,0,excellent,1000
+Tunis,L Aouina,85,2,1,False,False,3,good,1000
+Ariana,Ariana Ville,49,2,1,True,False,0,good,1000
+Tunis,Jardins De Carthage,90,2,1,True,False,1,good,1000
+La_Manouba,Manouba Ville,100,3,1,False,False,0,good,1000
+Bizerte,Autres Villes,50,1,1,False,False,0,good,1000
+Ariana,Ennasr,130,2,1,True,False,1,good,1000
+Tunis,Tunis,70,3,2,False,False,1,good,1000
+Ariana,El Menzah 7,80,1,1,True,False,3,good,1000
+Tunis,Ain Zaghouan Sud,80,2,1,False,False,0,good,1000
+Tunis,Ain Zaghouan Sud,80,2,1,False,False,3,good,1000
+Ariana,Cit Ennasr 2,70,1,1,True,False,0,good,1000
+Sfax,Route GREMDA,130,3,1,False,False,0,good,1000
+Ariana,Chotrana 1,60,0,1,False,False,0,good,1000
+Ben_Arous,Boumhel,70,1,1,True,False,0,good,1000
+Tunis,Gammarth,60,1,1,False,False,0,good,1000
+Tunis,Tunis,60,4,1,True,False,0,good,1000
+Tunis,Jardins De Carthage,80,2,1,False,False,0,good,1000
+Tunis,Centre Ville Lafayette,120,3,2,True,False,0,good,1000
+Tunis,Lac 2,60,3,1,True,False,0,good,1000
+Ariana,El Menzah 5,120,3,1,False,False,3,good,1000
+Tunis,Ain Zaghouan Nord,70,2,1,False,True,0,good,1000
+Tunis,Ain Zaghouen,70,1,1,False,False,1,excellent,1000
+Ariana,Borj Louzir,154,4,1,False,True,0,good,1000
+Sousse,Sousse,96,2,1,True,False,0,excellent,1000
+Ariana,Borj Louzir,197,5,2,False,True,2,good,1000
+Tunis,Carthage,70,1,1,True,False,3,good,1000
+Sousse,Sahloul,110,2,1,True,True,0,good,1000
+Sousse,Kantaoui,140,0,2,False,False,0,good,1000
+Ariana,Ariana Essoughra,80,1,1,False,False,0,good,1000
+Ariana,Ennasr,130,3,1,False,False,0,good,1000
+Ben_Arous,Boumhel,125,3,2,False,False,0,good,1000
+Tunis,Cit El Khadra,60,1,1,True,False,0,good,1000
+Ariana,Ghazela,90,2,1,False,False,0,good,1000
+Ariana,La Soukra,100,2,2,False,False,0,good,1000
+Ariana,Ennasr,70,1,1,True,False,0,good,1000
+Ben_Arous,Boumhel,130,3,1,False,False,0,good,1000
+Tunis,L Aouina,120,2,1,False,True,0,good,1000
+Nabeul,El Haouaria,120,2,1,False,False,0,good,1000
+Tunis,L Aouina,68,1,1,False,True,0,excellent,1000
+Ariana,La Soukra,150,3,1,False,True,0,good,1000
+Sfax,Sfax,155,4,1,True,True,2,good,1000
+Tunis,L Aouina,70,1,1,False,True,0,good,1000
+Ariana,Riadh Andalous,90,2,1,False,False,1,good,1000
+Sousse,Sahloul,120,2,1,True,True,0,good,1000
+Ariana,La Soukra,115,3,1,False,True,1,good,1000
+Tunis,Jardins De Carthage,80,1,1,False,False,0,good,1000
+Sousse,Sousse Mdina,100,1,1,False,False,0,good,1000
+Tunis,Tunis,110,3,1,True,False,0,good,1000
+Tunis,Ain Zaghouen,122,2,2,False,True,0,good,1000
+Tunis,L Aouina,75,1,1,True,False,0,good,1000
+Sousse,Akouda,135,2,1,True,False,0,good,1000
+Ariana,La Soukra,70,1,1,False,True,0,good,1000
+Tunis,Centre Ville Lafayette,65,4,1,True,False,0,good,1000
+Tunis,El Manar 1,70,2,1,True,False,0,good,1000
+Tunis,Le Bardo,100,3,1,False,False,0,good,1000
+Tunis,L Aouina,58,1,1,False,False,0,good,1000
+Tunis,Centre Ville Lafayette,98,2,1,False,False,0,good,1000
+Sousse,Sahloul,100,2,1,True,True,0,good,1000
+Ben_Arous,Fouchana,140,3,1,False,False,2,excellent,1000
+Tunis,L Aouina,65,1,1,True,False,0,good,1000
+Tunis,El Menzah 9,60,1,1,False,True,0,excellent,1000
+Nabeul,Hammamet,180,3,3,False,False,0,good,1000
+Monastir,Monastir,113,3,1,True,True,1,good,1000
+Ariana,Dar Fadhal,110,2,1,False,False,2,good,1050
+Ben_Arous,Ezzahra,110,2,1,True,True,0,good,1050
+Tunis,Ain Zaghouen,67,1,1,False,False,0,excellent,1050
+Tunis,El Manar 1,90,2,1,False,False,0,good,1050
+Tunis,Ain Zaghouan Nord,54,1,1,True,True,0,good,1050
+Tunis,El Manar 1,60,2,1,True,True,0,good,1050
+Tunis,Tunis,60,3,1,True,False,0,good,1050
+Tunis,L Aouina,60,1,1,False,False,5,excellent,1050
+Tunis,El Manar 1,60,2,1,True,False,0,good,1050
+Ariana,Ennasr,70,0,1,False,False,0,good,1050
+Tunis,Le Bardo,120,2,1,False,False,0,good,1050
+Tunis,La Marsa,120,2,1,False,False,0,good,1050
+Tunis,L Aouina,95,3,2,False,False,1,good,1050
+Ariana,Cit Ennasr 2,70,2,1,True,False,0,good,1050
+Tunis,L Aouina,150,3,2,False,False,0,good,1050
+Tunis,El Menzah 9,65,1,1,False,True,0,good,1050
+Tunis,Sidi Daoud,120,3,1,False,False,0,good,1050
+Tunis,L Aouina,87,2,1,False,False,0,excellent,1050
+Tunis,L Aouina,100,2,1,False,True,2,good,1098
+Ariana,Chotrana 1,60,1,1,False,True,0,excellent,1098
+Ariana,Ariana Ville,70,0,1,False,False,0,good,1099
+Ariana,Borj Louzir,135,2,2,False,True,2,good,1099
+Ariana,La Soukra,200,1,1,False,False,0,good,1100
+Sousse,Hammam Sousse,80,2,1,False,False,1,good,1100
+Tunis,L Aouina,80,1,1,False,True,0,good,1100
+Tunis,Lac 2,60,1,1,True,False,1,good,1100
+Ariana,Riadh Andalous,160,4,2,False,False,0,good,1100
+Tunis,Lac 2,35,1,1,False,True,0,good,1100
+Tunis,L Aouina,70,1,3,False,True,0,excellent,1100
+Tunis,El Manar 2,80,1,1,False,False,0,good,1100
+Tunis,El Menzah 9,150,3,1,False,True,4,good,1100
+Sousse,Sousse Jawhara,150,3,2,False,False,0,good,1100
+Ariana,La Soukra,115,3,1,False,True,0,good,1100
+Tunis,L Aouina,85,2,1,False,False,6,excellent,1100
+Tunis,L Aouina,100,2,1,True,False,0,good,1100
+Tunis,L Aouina,75,2,1,False,False,4,good,1100
+Tunis,El Manar 1,100,3,1,False,False,0,good,1100
+Tunis,La Marsa,100,1,1,True,False,0,good,1100
+Tunis,L Aouina,70,1,1,False,True,0,excellent,1100
+Tunis,L Aouina,124,2,2,False,True,0,good,1100
+Tunis,Ain Zaghouen,124,2,2,False,True,0,good,1100
+Tunis,Carthage,120,4,2,False,False,0,good,1100
+Tunis,L Aouina,65,1,1,False,False,4,excellent,1100
+Tunis,El Manar 1,95,2,1,False,False,0,good,1100
+Tunis,La Marsa,35,1,1,False,True,0,good,1100
+Ariana,Cite Ennkhilet,140,5,2,False,False,0,good,1100
+Tunis,Ain Zaghouan Nord,100,2,2,False,False,1,good,1100
+Tunis,Jardins De Carthage,60,1,1,False,False,0,good,1100
+Tunis,L Aouina,100,2,1,False,False,0,good,1100
+Tunis,La Marsa,120,2,1,False,False,2,good,1100
+Ariana,Ghazela,55,1,1,True,False,0,good,1100
+Ariana,Cit Ennasr 2,70,2,1,True,False,0,good,1100
+Ariana,La Soukra,50,1,1,False,False,0,excellent,1100
+Ariana,La Soukra,95,3,1,False,True,0,good,1100
+Tunis,L Aouina,123,2,2,False,False,3,good,1100
+Tunis,L Aouina,85,2,1,False,False,3,good,1100
+Tunis,El Menzah 9,140,3,1,False,True,0,good,1100
+Tunis,Tunis,80,1,1,True,False,0,good,1100
+Ariana,Riadh Andalous,200,2,1,False,False,2,good,1100
+Ariana,Riadh Andalous,160,3,2,False,True,0,good,1100
+Tunis,Ain Zaghouan Nord,118,2,1,False,True,0,good,1100
+Tunis,Montplaisir,60,1,1,True,True,1,excellent,1100
+Tunis,Jardins De Carthage,60,1,1,True,True,2,excellent,1100
+Ben_Arous,Boumhel,90,2,2,False,False,1,good,1100
+Sousse,Kantaoui,100,2,1,False,False,3,good,1100
+Tunis,L Aouina,86,1,1,False,False,0,good,1100
+Sousse,Sahloul,140,3,2,True,False,7,good,1100
+Ariana,Les Jardins El Menzah 2,60,1,1,False,False,0,good,1100
+Monastir,Monastir,40,1,1,True,True,0,excellent,1100
+Ben_Arous,Ezzahra,80,2,1,False,False,0,good,1100
+Sousse,Hammam Sousse,100,2,1,False,False,0,excellent,1100
+Tunis,Sidi Daoud,60,1,1,False,False,0,good,1100
+Ariana,Chotrana 1,280,1,1,False,False,0,good,1100
+Gabs,Gabs Sud,250,4,3,False,True,0,excellent,1100
+Tunis,Gammarth,80,2,1,True,False,0,good,1100
+Nabeul,Mrezga,100,3,1,True,False,0,good,1100
+Ariana,Ghazela,115,3,1,False,True,1,good,1100
+Ariana,Ghazela,60,1,1,False,False,0,good,1100
+Tunis,El Menzah 4,100,1,1,True,False,0,good,1100
+Ariana,Ariana,95,3,1,False,False,2,good,1100
+Sousse,Sahloul,57,1,1,True,False,0,excellent,1100
+Ariana,Cit Ennasr 2,90,1,1,False,True,3,excellent,1100
+Tunis,L Aouina,120,2,1,False,False,0,good,1100
+Tunis,L Aouina,85,2,1,False,True,2,good,1100
+Sousse,Hammam Sousse,100,2,1,False,False,1,good,1100
+Tunis,Ain Zaghouen,95,2,1,False,True,0,good,1100
+Ariana,La Soukra,125,3,1,False,True,0,good,1100
+Tunis,Tunis,70,3,1,True,False,0,good,1100
+Tunis,Ain Zaghouan Nord,60,2,1,True,False,0,good,1100
+Ben_Arous,Rads,100,2,1,True,True,2,good,1100
+Tunis,L Aouina,125,3,2,False,False,0,good,1100
+Tunis,Mdina,60,3,1,True,False,1,excellent,1100
+Ariana,Cit Ennasr 2,70,1,1,True,True,5,good,1100
+Tunis,L Aouina,95,1,1,False,False,0,good,1100
+Ben_Arous,Boumhel,120,3,2,False,False,0,good,1100
+La_Manouba,La Manouba,147,3,1,False,True,0,good,1100
+Tunis,L Aouina,80,2,1,False,False,0,good,1100
+Tunis,El Menzah 1,85,2,1,True,False,1,good,1100
+Tunis,L Aouina,125,2,1,False,False,2,good,1100
+Ariana,La Soukra,60,1,1,False,True,5,good,1100
+Sousse,Sousse corniche,110,2,1,False,False,2,good,1100
+Tunis,Jardins De Carthage,89,1,1,False,False,0,good,1100
+Ariana,Les Jardins El Menzah 2,120,3,1,False,True,0,good,1100
+Sousse,Sousse,150,3,1,False,True,6,excellent,1100
+Monastir,Monastir,123,3,1,True,False,4,good,1100
+Tunis,L Aouina,75,3,1,False,False,4,excellent,1100
+Tunis,Gammarth,75,2,2,False,False,0,excellent,1100
+Tunis,L Aouina,65,1,1,False,False,0,good,1100
+Tunis,El Manar 1,130,3,1,False,False,0,good,1100
+Tunis,Sidi Daoud,70,1,1,True,True,0,good,1100
+Ben_Arous,Medina Jedida,125,2,1,False,False,0,good,1100
+Tunis,L Aouina,105,2,1,False,False,0,good,1100
+Ben_Arous,El Mourouj 5,28,1,1,False,False,0,good,1100
+Ben_Arous,Boumhel,65,1,1,True,False,0,good,1101
+Sousse,Sousse,50,2,1,True,False,0,good,1111
+Nabeul,Nabeul,80,1,1,True,False,0,good,1111
+Ariana,Mnihla,75,1,1,False,False,0,good,1111
+Mahdia,Mahdia,90,3,1,True,False,0,good,1111
+Mahdia,Mahdia,200,4,4,False,False,0,good,1111
+Ben_Arous,Borj Cedria,100,0,1,False,False,0,good,1111
+Bizerte,Bizerte,65,2,1,False,False,0,good,1111
+Mahdia,Mahdia,80,3,1,True,False,0,good,1111
+Ariana,Mnihla,110,2,1,False,False,0,good,1111
+Tunis,Bab Souika,70,2,2,False,False,0,good,1130
+Tunis,L Aouina,90,2,1,False,False,1,good,1149
+Tunis,L Aouina,60,1,1,True,True,0,good,1149
+Tunis,L Aouina,90,2,1,False,True,6,good,1150
+Ariana,Cit Ennasr 2,100,3,1,False,True,0,good,1150
+La_Manouba,Manouba Ville,120,3,2,False,False,0,good,1150
+Tunis,Ain Zaghouan Nord,85,2,1,False,False,1,good,1150
+Tunis,El Manar 1,120,3,1,False,True,3,good,1150
+Tunis,L Aouina,60,1,1,True,True,0,good,1150
+Tunis,L Aouina,85,2,1,False,True,0,good,1150
+Ariana,Ennasr,140,3,2,False,True,0,good,1150
+Tunis,Centre Urbain Nord,65,1,1,False,False,0,good,1150
+Tunis,L Aouina,120,2,1,True,True,0,good,1150
+Tunis,L Aouina,94,2,2,False,True,0,good,1150
+Tunis,L Aouina,90,3,1,False,False,1,good,1150
+Tunis,Tunis,80,2,2,True,False,0,good,1150
+Tunis,Ain Zaghouan Nord,64,2,1,False,False,1,good,1150
+Monastir,Monastir,100,2,1,False,True,0,good,1150
+Tunis,L Aouina,70,1,1,True,False,7,good,1150
+Tunis,L Aouina,90,1,3,False,False,1,good,1150
+Ariana,Ennasr,75,2,1,False,False,0,good,1150
+Tunis,El Menzah 9,70,2,2,True,False,2,excellent,1170
+Ariana,Ennasr,80,1,1,False,True,0,good,1180
+Tunis,Tunis,160,5,1,True,False,0,good,1190
+Ben_Arous,Ezzahra,120,4,1,False,False,0,good,1198
+Ben_Arous,Ezzahra,90,1,1,True,False,0,good,1198
+Sousse,Chatt mariem,100,2,1,True,False,0,good,1198
+Ben_Arous,Ezzahra,140,2,2,False,True,0,good,1198
+Tunis,Ain Zaghouen,119,0,2,True,True,3,good,1198
+Tunis,La Marsa,70,2,2,False,False,0,good,1199
+Tunis,La Marsa,70,1,2,False,False,0,good,1199
+Ariana,Riadh Andalous,110,2,2,False,False,2,good,1200
+Tunis,Tunis,100,3,1,False,False,3,good,1200
+Sousse,Sousse Jawhara,90,2,1,True,False,0,excellent,1200
+Ariana,El Menzah 6,73,2,1,True,False,0,good,1200
+Tunis,Centre Ville Lafayette,80,2,1,True,False,3,good,1200
+Ben_Arous,Ezzahra,80,1,1,True,True,0,good,1200
+Ariana,Ariana,100,2,1,False,False,0,good,1200
+Ariana,La Soukra,170,3,2,False,True,0,good,1200
+Ariana,La Soukra,200,1,1,False,False,1,good,1200
+Ben_Arous,Ezzahra,120,3,2,False,True,0,good,1200
+Tunis,L Aouina,110,2,1,True,False,0,good,1200
+Tunis,Centre Urbain Nord,100,2,1,False,True,0,good,1200
+Sousse,Hammam Sousse,120,2,1,False,False,0,good,1200
+Tunis,La Marsa,65,1,1,True,False,0,good,1200
+Tunis,El Menzah 9,120,2,2,False,True,4,good,1200
+Ariana,Ariana,200,3,2,False,False,0,excellent,1200
+Tunis,El Manar 2,110,2,2,True,False,0,good,1200
+Tunis,L Aouina,60,0,1,False,True,0,excellent,1200
+Ariana,Cit Ennasr 2,120,3,2,False,True,0,good,1200
+Sousse,Hammam Sousse,140,3,2,True,False,1,good,1200
+Ariana,Cit Ennasr 2,78,1,1,True,False,0,good,1200
+Ariana,El Menzah 7,100,2,1,False,False,0,good,1200
+Ariana,Ennasr,120,2,1,False,False,0,excellent,1200
+Ariana,Cit Hedi Nouira,250,3,2,False,True,2,good,1200
+Tunis,Jardins De Carthage,60,1,1,False,True,2,good,1200
+Ariana,Ghazela,100,1,1,False,True,0,good,1200
+Tunis,La Marsa,80,2,1,False,False,2,good,1200
+Tunis,La Marsa,46,2,1,False,False,0,good,1200
+Ben_Arous,Mornag,140,3,2,False,False,0,excellent,1200
+Tunis,Centre Ville Lafayette,75,1,1,True,False,0,good,1200
+Nabeul,Hammamet Centre,76,3,1,False,False,1,excellent,1200
+Tunis,Menzah,76,2,2,True,True,2,good,1200
+Tunis,L Aouina,80,2,1,False,False,0,good,1200
+Ariana,La Soukra,120,2,1,False,True,0,good,1200
+Ben_Arous,Ezzahra,60,1,1,True,False,0,good,1200
+Tunis,La Marsa,165,3,1,False,False,0,good,1200
+Tunis,L Aouina,87,2,1,False,False,0,excellent,1200
+Tunis,Lac 1,43,1,1,False,False,0,good,1200
+Tunis,L Aouina,120,2,1,True,False,0,good,1200
+Tunis,L Aouina,95,2,1,False,False,6,good,1200
+Tunis,Ain Zaghouen,65,2,1,True,False,0,good,1200
+Tunis,L Aouina,90,2,1,False,False,5,excellent,1200
+Tunis,Tunis,70,3,1,True,False,1,good,1200
+Ariana,Raoued,70,2,1,True,True,0,good,1200
+Ben_Arous,Ben Arous,80,3,1,True,False,0,good,1200
+Sousse,Khzema,95,2,2,True,False,0,good,1200
+Tunis,L Aouina,85,2,1,False,False,7,excellent,1200
+Ben_Arous,Ezzahra,150,3,2,False,False,0,good,1200
+Ben_Arous,Boumhel,130,1,2,False,False,0,good,1200
+Ariana,Cite Ennkhilet,160,3,3,False,True,0,good,1200
+Ariana,La Soukra,75,2,2,False,False,0,good,1200
+Tunis,Lac 1,107,2,1,False,False,2,good,1200
+Tunis,L Aouina,90,2,1,False,True,1,good,1200
+Tunis,L Aouina,90,2,1,False,True,4,good,1200
+Tunis,Tunis Belvedere,100,3,1,True,True,0,good,1200
+Tunis,L Aouina,120,2,1,True,False,2,good,1200
+Ariana,Raoued,200,0,2,True,False,0,good,1200
+Ariana,Ennasr,100,2,2,False,False,1,good,1200
+Ben_Arous,Ezzahra,75,2,1,True,True,0,good,1200
+Sousse,Khzema,110,2,1,True,False,3,good,1200
+Tunis,Menzah,170,3,1,False,False,0,good,1200
+Tunis,Ain Zaghouan Sud,120,3,1,True,False,2,good,1200
+Tunis,L Aouina,124,3,2,False,True,7,good,1200
+Ben_Arous,Ezzahra,85,1,1,True,False,0,good,1200
+Tunis,El Menzah 9,110,3,1,False,False,0,good,1200
+Tunis,Cit jardin,100,3,2,False,False,0,good,1200
+Ben_Arous,Ezzahra,75,1,1,True,True,0,good,1200
+Tunis,L Aouina,60,0,1,False,True,5,excellent,1200
+Tunis,L Aouina,125,2,1,False,True,0,good,1200
+Sousse,Khzema,40,1,1,False,False,0,good,1200
+Tunis,Tunis,65,1,1,True,False,0,good,1200
+Tunis,El Manar 2,120,3,1,False,True,0,good,1200
+Tunis,Ain Zaghouan Nord,70,1,1,False,True,5,good,1200
+Ariana,Nouvelle Ariana,200,3,2,False,False,0,good,1200
+Ben_Arous,Boumhel,126,3,2,False,False,0,good,1200
+Tunis,Centre Ville Lafayette,100,4,1,True,False,0,good,1200
+Sousse,Sousse,130,2,1,True,False,3,good,1200
+Tunis,L Aouina,70,1,1,True,False,1,good,1200
+Ben_Arous,Ezzahra,75,1,1,True,False,1,good,1200
+Tunis,Centre Ville Lafayette,45,2,1,True,False,0,good,1200
+Ariana,Nouvelle Ariana,120,3,1,False,False,0,good,1200
+Tunis,La Marsa,50,1,1,True,False,0,good,1200
+Tunis,Jardins De Carthage,70,1,1,False,True,6,good,1200
+Ariana,Ariana,90,2,1,True,False,1,good,1200
+Tunis,La Marsa,140,1,1,False,False,0,good,1200
+Tunis,Jardins De Carthage,75,1,1,False,False,0,good,1200
+Ariana,La Soukra,57,1,1,True,False,0,good,1200
+Tunis,La Marsa,100,2,1,False,False,0,good,1200
+Tunis,L Aouina,150,3,2,False,False,4,good,1200
+Tunis,Ain Zaghouen,87,2,1,False,False,0,excellent,1200
+Tunis,Menzah,150,3,2,False,False,0,good,1200
+Tunis,La Marsa,90,2,1,False,False,0,good,1200
+Ariana,Ennasr,150,3,2,False,True,0,good,1200
+Nabeul,Nabeul,75,2,1,False,False,0,good,1200
+Ben_Arous,Hammam Chott,200,2,1,True,True,0,good,1200
+Ben_Arous,El Mourouj 6,45,1,1,False,True,0,good,1200
+Tunis,L Aouina,60,1,1,True,False,5,good,1200
+Ben_Arous,Medina Jedida,56,1,1,False,False,0,good,1200
+Ben_Arous,Ezzahra,150,4,1,False,False,0,good,1200
+Tunis,Le Kram,80,2,1,True,False,0,good,1200
+Tunis,Khaznadar,125,3,2,False,True,0,good,1200
+Monastir,Monastir,150,3,1,True,False,0,excellent,1200
+Tunis,L Aouina,111,2,1,False,True,6,good,1200
+Tunis,El Menzah 1,54,1,1,True,False,0,good,1200
+Tunis,L Aouina,135,3,2,False,False,5,good,1200
+Ariana,Les Jardins El Menzah 2,60,1,1,True,False,0,good,1200
+Ariana,Ariana Ville,64,2,1,False,False,0,good,1200
+Tunis,Montplaisir,87,1,1,True,True,1,good,1200
+Tunis,L Aouina,120,2,2,False,False,0,good,1200
+Ben_Arous,Rads,130,3,3,False,False,0,good,1200
+Bizerte,Bizerte Nord,110,2,1,False,True,0,good,1200
+Ariana,Ghazela,130,4,2,False,False,3,good,1200
+Mdenine,Djerba Midoun,50,1,1,False,False,0,good,1200
+Tunis,La Marsa,90,2,2,True,False,1,good,1200
+Tunis,La Marsa,60,1,1,True,False,0,good,1200
+Nabeul,Hammamet Nord,100,2,1,False,True,0,excellent,1200
+Tunis,Le Bardo,80,3,1,True,False,0,good,1200
+Ariana,Ennasr,100,2,1,False,False,0,excellent,1200
+Tunis,L Aouina,140,3,2,False,False,5,good,1200
+Tunis,El Menzah 9,100,3,1,False,True,1,good,1230
+La_Manouba,Autres Villes,100,2,1,False,False,0,good,1234
+Tunis,L Aouina,110,2,2,True,True,0,good,1248
+Tunis,Ain Zaghouen,60,1,1,True,False,0,good,1248
+Ariana,Cit Ennasr 2,130,2,2,False,False,0,good,1249
+Tunis,Ain Zaghouen,90,2,2,False,False,3,good,1250
+Tunis,L Aouina,110,2,2,False,True,0,good,1250
+Ariana,Ennasr,65,1,1,True,True,0,good,1250
+Tunis,L Aouina,60,2,1,False,True,0,excellent,1250
+Tunis,L Aouina,142,3,2,False,False,0,good,1250
+Tunis,L Aouina,100,3,1,False,False,7,good,1250
+Tunis,Tunis,120,2,1,False,False,0,good,1250
+Ariana,Riadh Andalous,140,3,2,False,True,0,good,1250
+Tunis,La Marsa,40,1,1,True,False,0,good,1250
+Tunis,L Aouina,95,3,2,False,False,2,good,1250
+Sousse,Khzema,150,3,3,False,True,0,excellent,1250
+Ben_Arous,Boumhel,50,1,1,False,False,0,good,1250
+Tunis,L Aouina,100,2,1,False,False,0,good,1250
+Ben_Arous,Mgrine,125,3,1,False,False,1,good,1250
+Tunis,La Marsa,90,2,1,True,False,2,good,1250
+Tunis,El Manar 1,90,2,1,True,False,0,good,1250
+Tunis,L Aouina,125,3,2,False,True,1,good,1250
+Ariana,La Soukra,66,1,1,False,True,1,excellent,1250
+Tunis,L Aouina,65,1,1,False,True,0,good,1250
+Tunis,L Aouina,120,3,1,False,True,1,good,1250
+Tunis,L Aouina,58,1,1,True,False,3,good,1250
+Tunis,L Aouina,150,3,1,False,False,2,good,1250
+Tunis,L Aouina,95,3,1,False,True,1,good,1250
+Ariana,Cit Ennasr 2,120,2,1,False,True,7,good,1250
+Ariana,Riadh Andalous,100,2,1,False,True,4,excellent,1250
+Sousse,Sahloul,118,2,1,False,True,0,excellent,1250
+Tunis,L Aouina,148,1,1,False,False,0,good,1250
+Tunis,L Aouina,120,2,2,False,True,7,good,1250
+Sousse,Khzema,180,4,3,False,True,0,good,1250
+Tunis,L Aouina,124,3,2,False,True,0,good,1250
+Tunis,L Aouina,120,3,2,False,False,2,good,1250
+Tunis,La Marsa,100,2,1,False,False,0,good,1250
+Ariana,Chotrana 1,112,2,1,False,True,2,excellent,1250
+Ariana,Ennasr,110,3,1,False,False,0,good,1250
+Ariana,El Menzah 8,90,2,1,False,True,0,good,1250
+Tunis,L Aouina,120,3,2,False,True,0,good,1250
+Tunis,L Aouina,130,3,1,False,True,0,good,1250
+Tunis,Le Bardo,130,3,1,False,False,3,good,1250
+Ariana,Ariana,140,4,2,False,False,0,good,1250
+Ben_Arous,Boumhel,70,1,1,False,False,0,good,1250
+Tunis,L Aouina,146,3,1,False,False,2,good,1250
+Tunis,L Aouina,148,3,2,False,False,0,good,1250
+Ariana,La Soukra,95,2,2,False,True,0,excellent,1270
+Ariana,La Soukra,200,1,2,False,False,0,good,1300
+Ariana,El Menzah 5,120,2,2,True,False,0,good,1300
+Ben_Arous,Ezzahra,100,0,1,False,True,0,good,1300
+Sousse,Khzema,150,3,1,True,False,2,good,1300
+Ariana,La Soukra,130,3,2,False,True,0,good,1300
+Tunis,Centre Ville Lafayette,85,2,1,False,False,1,good,1300
+Sousse,Hergla,150,3,2,False,True,0,good,1300
+Tunis,El Manar 2,120,4,2,False,False,0,excellent,1300
+Ariana,Ennasr,130,2,1,False,False,2,good,1300
+Tunis,Tunis,80,3,1,True,False,0,good,1300
+Tunis,La Marsa,100,2,2,False,True,0,excellent,1300
+Ariana,Cit Ennasr 2,95,2,2,False,True,3,good,1300
+Monastir,Monastir,60,1,1,False,False,0,good,1300
+Ariana,La Soukra,150,2,1,False,True,0,good,1300
+Tunis,L Aouina,85,2,2,False,False,3,good,1300
+Tunis,L Aouina,90,2,2,False,True,3,good,1300
+Ariana,Cit Ennasr 2,124,2,2,False,True,3,good,1300
+Ben_Arous,Ezzahra,145,2,2,False,True,0,good,1300
+Tunis,Le Kram,95,2,2,True,False,0,good,1300
+Tunis,Lac 1,50,1,1,True,True,0,good,1300
+Tunis,L Aouina,120,2,1,False,False,0,good,1300
+Tunis,L Aouina,140,3,2,False,True,0,good,1300
+Ben_Arous,Mgrine,110,3,1,False,False,1,excellent,1300
+Sousse,Chatt mariem,180,3,2,True,False,0,excellent,1300
+Tunis,Mutuelleville,110,3,1,False,False,0,good,1300
+Tunis,Ain Zaghouan Nord,69,1,1,False,False,0,good,1300
+Sousse,Sahloul,120,2,1,True,True,0,good,1300
+Ariana,Ennasr,75,1,1,True,True,0,good,1300
+Ariana,Ariana,100,4,2,False,True,3,excellent,1300
+Tunis,La Marsa,125,3,2,False,False,0,good,1300
+Ariana,Ennasr,135,2,2,False,True,0,good,1300
+Ariana,Nouvelle Ariana,170,3,1,False,True,0,excellent,1300
+Tunis,El Menzah 9,120,2,1,False,True,4,good,1300
+Sousse,Sahloul,165,3,1,True,False,1,excellent,1300
+Tunis,Ain Zaghouan Nord,50,1,1,False,False,0,good,1300
+Ariana,La Soukra,95,2,1,False,True,1,good,1300
+Ariana,La Soukra,128,3,2,False,True,0,good,1300
+Tunis,Lac 1,100,2,1,False,False,0,good,1300
+Tunis,El Menzah 9,66,1,1,True,True,0,excellent,1300
+Tunis,L Aouina,135,2,1,False,False,0,excellent,1300
+Ariana,La Soukra,110,3,2,False,True,0,excellent,1300
+Ariana,Cit Ennasr 2,110,2,1,False,False,0,good,1300
+Tunis,L Aouina,80,2,1,False,True,7,good,1300
+Tunis,Cit Olympique,80,2,1,True,False,0,good,1300
+Ben_Arous,Hammam Lif,70,2,1,False,False,0,good,1300
+Tunis,Centre Ville Lafayette,200,3,1,True,False,0,good,1300
+Tunis,L Aouina,110,2,1,False,True,5,good,1300
+Ben_Arous,Ezzahra,140,2,2,False,True,0,good,1300
+Ariana,Cit Ennasr 2,115,2,2,False,False,0,good,1300
+Tunis,El Menzah 9,130,2,1,False,False,0,good,1300
+Tunis,Tunis,80,2,1,False,True,1,excellent,1300
+Ben_Arous,Ezzahra,140,2,1,False,True,0,good,1300
+Nabeul,Klibia,100,2,1,True,False,0,good,1300
+Tunis,L Aouina,150,1,2,False,True,5,good,1300
+Ben_Arous,Boumhel,300,1,1,False,False,0,good,1300
+Ariana,Cit Ennasr 2,300,5,2,False,False,0,good,1300
+Ben_Arous,Rads,200,1,1,False,False,0,good,1300
+Tunis,Ain Zaghouen,115,2,2,False,True,0,excellent,1300
+Ariana,Cit Ennasr 2,125,2,2,False,True,0,good,1300
+Tunis,Ain Zaghouen,81,3,1,False,False,4,good,1300
+Ariana,Dar Fadhal,200,3,2,False,True,0,good,1300
+Tunis,L Aouina,124,2,1,False,False,0,excellent,1300
+Tunis,L Aouina,180,4,2,False,True,0,good,1300
+Ben_Arous,Ezzahra,100,1,1,False,True,0,excellent,1300
+Nabeul,Mrezga,139,2,2,True,False,0,good,1300
+Ariana,La Soukra,66,1,1,False,True,0,excellent,1300
+Tunis,El Manar 1,160,3,2,False,True,0,good,1300
+Nabeul,Nabeul,145,2,1,False,False,0,good,1300
+Ariana,La Soukra,110,2,1,False,True,1,good,1300
+Tunis,L Aouina,51,1,1,False,True,2,good,1300
+Tunis,Tunis,100,4,1,False,True,2,good,1300
+Tunis,Alain Savary,60,3,1,False,False,2,good,1300
+Ben_Arous,Ezzahra,130,2,1,False,True,5,excellent,1300
+Ariana,Cit Ennasr 2,120,2,2,False,True,0,good,1300
+Tunis,L Aouina,70,2,1,False,True,0,good,1300
+Ben_Arous,Ezzahra,100,2,1,False,True,0,good,1300
+Ben_Arous,Ezzahra,140,1,2,False,True,0,good,1300
+Tunis,El Manar 2,140,4,2,True,False,1,good,1300
+Ariana,Cit Ennasr 2,135,2,2,False,True,0,good,1300
+Tunis,L Aouina,80,1,1,False,False,3,good,1300
+Tunis,Le Kram,54,2,1,True,False,2,good,1350
+Tunis,La Goulette,64,2,1,True,False,0,good,1350
+Tunis,Le Bardo,110,4,1,False,False,0,good,1350
+Ben_Arous,Mgrine,100,4,2,False,True,0,good,1350
+Tunis,Lac 2,54,2,1,True,False,2,good,1350
+Ariana,El Menzah 6,140,3,1,True,False,6,good,1350
+Tunis,Le Bardo,115,4,1,False,False,3,good,1350
+Tunis,L Aouina,115,1,2,False,True,1,good,1350
+Sousse,Hammam Sousse,170,4,2,False,True,0,good,1350
+Tunis,Jardins De Carthage,100,2,1,False,True,2,good,1350
+Tunis,L Aouina,120,2,2,False,True,0,excellent,1350
+Tunis,Mutuelleville,160,2,1,False,False,0,good,1350
+Tunis,L Aouina,165,1,2,False,False,1,good,1350
+Sousse,Khzema,120,3,2,False,True,0,good,1350
+Ben_Arous,Rads,60,1,1,False,False,0,good,1350
+Tunis,L Aouina,120,3,2,False,False,1,good,1350
+Ben_Arous,Ezzahra,100,2,2,False,True,0,good,1350
+Ben_Arous,Ezzahra,80,3,1,False,True,0,good,1350
+Tunis,Ain Zaghouen,70,1,1,True,True,3,good,1350
+Tunis,L Aouina,75,1,1,True,True,0,good,1350
+Tunis,Tunis,90,4,2,True,False,0,good,1350
+Ariana,La Soukra,130,2,1,False,False,0,good,1350
+Sousse,Sousse,60,1,1,False,True,0,good,1350
+Ben_Arous,Ezzahra,140,3,2,False,True,0,good,1350
+Ben_Arous,Rads,70,1,1,False,False,0,good,1350
+Tunis,Jardins De Carthage,70,1,1,False,False,0,good,1350
+Ariana,Ennasr,160,3,2,False,True,0,good,1350
+Tunis,Ain Zaghouen,120,2,2,False,True,0,excellent,1350
+Ariana,La Soukra,120,3,1,True,True,1,good,1350
+Ariana,Cit Ennasr 2,140,2,1,False,True,0,good,1350
+Ariana,Chotrana 1,112,2,1,False,True,0,excellent,1350
+Ariana,Cit Ennasr 2,105,2,2,False,True,0,excellent,1350
+Tunis,L Aouina,85,1,1,True,True,3,good,1350
+Tunis,L Aouina,100,2,1,False,False,0,good,1350
+Tunis,L Aouina,165,3,1,False,False,1,good,1350
+Tunis,Le Bardo,120,1,2,False,True,0,good,1350
+Ariana,Mnihla,45,1,1,False,False,0,good,1350
+Ariana,Borj Louzir,320,4,2,False,True,0,good,1350
+Tunis,Le Bardo,65,4,1,True,False,4,good,1350
+Ariana,La Soukra,80,2,1,False,False,0,good,1350
+Nabeul,Hammamet,130,3,1,True,True,0,good,1350
+Tunis,Ain Zaghouen,120,2,3,False,False,5,good,1350
+Ariana,Cit Ennasr 2,110,2,1,False,True,7,excellent,1360
+Ariana,La Soukra,130,2,2,False,True,0,good,1370
+Ariana,La Soukra,110,2,2,False,True,0,good,1370
+Ariana,La Soukra,125,2,2,False,True,5,good,1370
+Tunis,La Marsa,120,3,2,False,True,1,good,1380
+Tunis,La Marsa,140,3,2,False,False,0,good,1399
+Ariana,Ennasr,55,2,2,False,True,0,good,1399
+Ariana,Cit Ennasr 2,60,1,1,False,False,0,good,1400
+Ben_Arous,Boumhel,180,3,2,False,False,0,good,1400
+Tunis,L Aouina,170,4,2,False,False,2,good,1400
+Tunis,El Menzah 9,50,1,1,False,False,0,good,1400
+Ariana,La Soukra,100,3,1,False,False,1,good,1400
+Tunis,Ain Zaghouan Nord,80,3,1,False,False,0,good,1400
+Tunis,Tunis,100,2,1,False,False,0,good,1400
+Tunis,L Aouina,130,3,1,False,True,3,good,1400
+Ariana,La Soukra,66,1,1,True,True,0,good,1400
+Tunis,L Aouina,139,2,1,False,True,0,excellent,1400
+Ariana,Ariana Ville,85,3,1,True,False,0,good,1400
+Tunis,Lac 1,120,4,2,False,True,0,good,1400
+Tunis,Sidi Hassine,110,3,1,False,False,0,good,1400
+Tunis,El Menzah 9,120,2,2,False,True,6,good,1400
+Ariana,Ghazela,120,2,1,True,False,0,good,1400
+Tunis,Mutuelleville,100,2,1,False,False,2,good,1400
+Ariana,La Soukra,150,3,1,False,False,1,good,1400
+Tunis,Lac 1,120,4,3,True,True,0,good,1400
+Tunis,Centre Urbain Nord,87,2,1,True,True,0,good,1400
+Nabeul,El Haouaria,140,3,1,False,False,0,good,1400
+Tunis,Centre Urbain Nord,125,2,2,False,True,0,good,1400
+Ariana,Les Jardins El Menzah 2,140,3,2,False,True,0,good,1400
+Tunis,Tunis,160,5,2,True,False,0,good,1400
+Tunis,La Marsa,90,2,1,True,False,0,good,1400
+Tunis,L Aouina,120,2,2,False,False,0,good,1400
+Tunis,L Aouina,175,4,2,False,False,2,good,1400
+Tunis,La Marsa,150,2,2,False,False,2,good,1400
+Tunis,Centre Urbain Nord,80,4,2,False,True,0,good,1400
+Tunis,Jardins De Carthage,50,1,1,True,False,0,good,1400
+Ariana,La Soukra,129,3,2,False,True,0,good,1400
+Tunis,L Aouina,120,3,2,False,True,3,good,1400
+Tunis,Ain Zaghouen,139,2,1,False,True,0,excellent,1400
+Nabeul,Nabeul,125,2,1,True,True,0,good,1400
+Tunis,Centre Ville Lafayette,90,3,1,True,False,0,good,1400
+Ariana,El Menzah 7,140,3,2,True,False,0,good,1400
+Nabeul,Hammamet,200,3,2,False,False,0,good,1400
+Tunis,Ain Zaghouan Nord,119,2,2,False,True,0,excellent,1400
+Sousse,Sousse Jawhara,70,2,1,True,True,0,excellent,1400
+Tunis,Centre Urbain Nord,120,2,1,False,True,0,good,1400
+Tunis,L Aouina,120,2,2,True,False,0,good,1400
+Tunis,Jardins De Carthage,90,2,1,False,True,0,good,1400
+Ariana,El Menzah 5,220,4,2,False,True,0,good,1400
+Ariana,Ariana,80,1,1,False,False,0,good,1400
+Ariana,La Soukra,90,1,2,True,True,0,good,1400
+Ariana,Riadh Andalous,120,2,2,False,True,3,excellent,1400
+Tunis,Jardins De Carthage,70,1,1,False,True,0,good,1400
+Ariana,La Soukra,130,4,2,False,False,0,good,1400
+Tunis,La Marsa,200,2,2,False,False,0,good,1400
+Ariana,Riadh Andalous,130,2,3,False,True,0,good,1400
+Tunis,L Aouina,120,2,1,False,True,3,good,1400
+Sousse,Khzema,140,2,2,True,True,0,good,1400
+Tunis,Jardins De Carthage,65,1,1,False,True,0,good,1400
+Ariana,Riadh Andalous,110,3,2,False,True,0,excellent,1400
+Tunis,L Aouina,120,3,1,False,True,3,good,1400
+Sousse,Kantaoui,120,3,1,True,True,0,good,1400
+Tunis,La Marsa,85,2,2,True,False,1,good,1400
+Ariana,La Soukra,80,2,1,False,True,0,good,1400
+Ben_Arous,Boumhel,200,3,2,False,False,0,good,1400
+Tunis,Lac 2,70,0,1,False,True,1,good,1400
+Ariana,Chotrana 3,119,1,1,True,True,0,good,1450
+Tunis,La Marsa,110,2,1,True,True,0,good,1450
+Ariana,Cit Ennasr 2,180,4,2,False,True,0,good,1450
+Sousse,Sousse corniche,140,3,1,False,False,0,good,1450
+Tunis,Lac 2,53,1,1,False,False,0,good,1450
+Tunis,Lac 2,55,2,1,False,True,0,good,1450
+Ariana,Cit Ennasr 2,180,3,3,False,True,0,good,1450
+Ariana,La Soukra,55,1,1,True,False,1,good,1450
+Tunis,L Aouina,100,2,2,False,True,0,excellent,1450
+Ariana,Dar Fadhal,55,1,2,True,False,1,good,1450
+Tunis,Ain Zaghouen,100,3,1,True,False,0,good,1450
+Tunis,La Marsa,100,2,2,False,False,0,good,1450
+Ariana,Riadh Andalous,140,2,2,False,True,0,good,1450
+Sousse,Chatt mariem,60,1,1,False,False,0,good,1450
+Tunis,L Aouina,136,3,2,True,False,6,good,1450
+Ariana,La Soukra,150,1,1,False,False,0,good,1450
+Ariana,Ennasr,170,4,2,False,True,0,good,1450
+Tunis,Jardins De Carthage,120,2,2,False,True,1,good,1460
+Tunis,Montplaisir,120,4,1,False,False,0,good,1498
+Tunis,Jardins De Carthage,150,3,2,False,True,1,excellent,1499
+Tunis,L Aouina,120,3,1,True,False,0,good,1499
+Tunis,Ain Zaghouan Sud,110,3,2,False,True,3,good,1500
+Tunis,Gammarth,75,2,1,True,False,0,good,1500
+Tunis,Ain Zaghouan Nord,150,3,2,False,True,2,good,1500
+Ariana,Cit Ennasr 2,51,1,2,False,True,0,excellent,1500
+Sousse,Kantaoui,160,3,3,True,False,1,good,1500
+Tunis,El Manar 2,120,4,1,False,True,0,good,1500
+Sousse,Kantaoui,70,1,1,True,True,0,good,1500
+Ariana,La Soukra,300,1,1,False,False,0,good,1500
+Tunis,Ain Zaghouan Nord,100,2,1,False,False,2,good,1500
+Tunis,La Marsa,140,3,2,False,True,0,good,1500
+Tunis,El Menzah 9,100,2,1,False,False,0,good,1500
+Ariana,Cit Ennasr 2,150,3,2,False,True,0,excellent,1500
+Tunis,Cit El Khadra,110,3,1,True,False,6,good,1500
+Tunis,Lac 2,60,2,1,False,False,0,good,1500
+Sousse,Khzema,200,4,2,False,False,0,excellent,1500
+Tunis,Lac 2,70,1,1,True,True,0,good,1500
+Ariana,Ghazela,120,3,1,True,False,0,good,1500
+Ariana,Jardins El Menzah,160,3,2,False,True,0,good,1500
+Tunis,La Marsa,120,2,1,True,False,0,good,1500
+Tunis,Ain Zaghouan Nord,90,2,1,True,False,0,good,1500
+Ariana,El Menzah 5,55,1,1,False,False,0,good,1500
+Nabeul,Hammamet Nord,90,1,1,False,False,0,good,1500
+Nabeul,Nabeul,36,1,1,False,False,0,good,1500
+Tunis,Tunis Belvedere,110,4,1,True,False,6,good,1500
+Tunis,Carthage,100,2,1,True,False,0,good,1500
+Sousse,Hammam Sousse,150,2,1,False,False,0,good,1500
+Tunis,Montplaisir,110,4,1,True,False,0,good,1500
+Sousse,Sousse,100,2,1,True,False,0,good,1500
+Tunis,L Aouina,75,1,1,True,True,0,excellent,1500
+Ben_Arous,Boumhel,140,3,2,False,True,0,good,1500
+Nabeul,Klibia,200,3,2,False,False,0,good,1500
+Tunis,Lac 1,65,1,1,True,False,0,good,1500
+Tunis,El Menzah 9,80,1,1,True,True,0,good,1500
+Tunis,Jardins De Carthage,65,0,1,False,False,0,good,1500
+Ben_Arous,Boumhel,135,4,2,False,True,0,excellent,1500
+Tunis,Jardins De Carthage,87,2,1,True,True,0,good,1500
+Tunis,Carthage,270,1,1,False,False,0,good,1500
+Tunis,Le Bardo,100,2,1,False,False,0,good,1500
+Tunis,La Marsa,150,3,2,False,True,0,good,1500
+Ariana,Cit Ennasr 2,50,2,2,False,False,3,good,1500
+Ben_Arous,Rads,130,1,1,False,False,0,good,1500
+Nabeul,Hammamet,90,2,1,True,False,0,good,1500
+Tunis,L Aouina,150,2,1,False,False,7,good,1500
+Tunis,L Aouina,70,1,1,True,True,0,good,1500
+Ben_Arous,Boumhel,220,5,2,False,False,0,excellent,1500
+Ariana,La Soukra,70,1,1,True,True,0,good,1500
+Ben_Arous,Mgrine,140,2,1,False,False,0,good,1500
+Ben_Arous,Boumhel,120,1,2,False,True,0,excellent,1500
+Tunis,Jardins De Carthage,110,2,1,False,False,2,good,1500
+Sousse,Sahloul,230,2,2,False,False,0,good,1500
+Tunis,L Aouina,92,2,1,True,False,0,good,1500
+Tunis,Jardins De Carthage,100,2,1,False,False,2,good,1500
+Tunis,La Goulette,71,1,1,False,False,0,good,1500
+Tunis,Le Bardo,150,4,2,False,True,0,good,1500
+Tunis,Khaznadar,150,4,2,False,False,1,good,1500
+Tunis,La Marsa,100,2,1,True,False,2,good,1500
+Ariana,Ennasr,141,3,2,True,False,0,good,1500
+Tunis,Lac 2,100,1,1,False,False,0,good,1500
+Ariana,La Soukra,125,3,1,False,False,2,good,1500
+Tunis,El Manar 1,160,3,2,False,True,0,good,1500
+Tunis,Mutuelleville,130,3,2,False,True,0,good,1500
+Sousse,Sousse corniche,100,2,1,True,False,0,good,1500
+Ben_Arous,Boumhel,150,1,1,False,False,0,good,1500
+Sousse,Sousse corniche,140,3,1,False,False,0,good,1500
+Ariana,La Soukra,210,1,1,False,False,0,good,1500
+Ariana,Borj Louzir,50,1,1,False,False,0,good,1500
+Tunis,Lac 1,120,3,1,True,True,0,good,1500
+Tunis,La Marsa,100,2,1,False,False,0,good,1500
+Ariana,La Soukra,300,2,1,False,False,0,good,1500
+Ariana,Les Jardins El Menzah 2,150,1,1,True,True,0,good,1500
+Tunis,La Marsa,118,2,1,False,True,0,good,1500
+Sousse,Khzema,95,2,2,False,True,0,good,1500
+Ariana,Ariana,75,2,1,True,False,0,good,1500
+Tunis,L Aouina,170,4,2,False,False,0,good,1500
+Tunis,Jardins De Carthage,130,2,1,False,False,2,good,1500
+Tunis,La Marsa,200,1,1,False,False,0,good,1500
+Tunis,La Marsa,120,3,2,False,True,0,good,1500
+Ben_Arous,Hammam Lif,95,2,2,True,False,0,good,1500
+Ben_Arous,Ezzahra,180,4,1,True,True,0,good,1500
+Sousse,Sousse corniche,180,3,2,True,False,0,good,1500
+Tunis,Ain Zaghouan Nord,75,1,1,True,True,2,good,1500
+Tunis,Menzah,100,2,1,False,False,0,excellent,1500
+Ben_Arous,Boumhel,150,3,2,False,True,0,good,1500
+Tunis,Montplaisir,110,3,1,False,True,6,good,1500
+Tunis,Sidi Bou Said,78,2,1,False,False,2,excellent,1500
+Tunis,L Aouina,90,2,1,True,True,3,excellent,1500
+Tunis,El Manar 2,100,3,1,True,False,0,good,1500
+Tunis,Jardins De Carthage,130,2,1,False,False,0,good,1500
+Sousse,Khzema,100,2,2,True,True,0,good,1500
+Ben_Arous,Boumhel,150,5,2,False,True,0,good,1500
+Tunis,Ain Zaghouan Nord,50,1,1,True,False,0,good,1550
+Ariana,La Soukra,100,3,2,False,False,0,good,1550
+Ariana,Cit Ennasr 2,100,1,1,True,False,5,good,1550
+Ariana,Cit Ennasr 2,70,1,1,True,False,5,good,1550
+Ariana,Les Jardins El Menzah 2,120,2,2,False,True,0,good,1550
+Tunis,Centre Urbain Nord,75,2,1,False,True,0,good,1550
+Tunis,La Marsa,90,2,1,True,False,0,good,1597
+Tunis,Montplaisir,95,3,1,True,True,0,good,1600
+Tunis,Alain Savary,100,1,1,True,True,2,good,1600
+Nabeul,Nabeul,520,3,2,False,True,0,good,1600
+Tunis,L Aouina,130,3,1,False,True,2,good,1600
+Sousse,Chatt mariem,350,3,1,False,True,0,good,1600
+Ariana,Jardins El Menzah,180,4,1,False,False,0,good,1600
+Tunis,Centre Urbain Nord,85,2,1,True,False,0,good,1600
+Ben_Arous,Mgrine,280,5,2,False,False,2,good,1600
+Tunis,La Marsa,150,2,2,False,False,1,good,1600
+Tunis,L Aouina,90,1,1,True,True,0,good,1600
+Tunis,La Marsa,60,1,1,True,False,0,good,1600
+Ariana,Ariana Ville,45,1,1,False,False,0,good,1600
+Sousse,Chatt mariem,350,3,2,False,True,0,good,1600
+Tunis,El Manar 2,100,2,2,True,True,0,good,1600
+Tunis,Jardins De Carthage,100,2,1,True,False,0,good,1600
+Tunis,Jardins De Carthage,70,1,1,False,False,0,good,1600
+Tunis,Ain Zaghouan Nord,124,2,1,False,True,0,good,1600
+Tunis,La Marsa,45,1,1,False,False,0,excellent,1600
+Ariana,La Soukra,130,2,2,False,True,2,good,1600
+Tunis,Jardins De Carthage,82,1,1,False,True,0,good,1600
+Tunis,L Aouina,160,3,2,False,True,0,good,1600
+Tunis,El Menzah 9,100,2,1,False,True,0,good,1600
+Ariana,Cit Ennasr 2,160,3,2,True,True,3,good,1600
+Tunis,Lac 1,80,3,1,True,True,0,good,1600
+Sousse,Sousse Jawhara,185,3,2,True,False,0,good,1600
+Ariana,Ennasr,180,3,3,False,True,0,good,1600
+Tunis,Ain Zaghouan Nord,120,3,1,False,True,2,good,1600
+Tunis,Ain Zaghouan Nord,110,2,2,False,True,2,good,1600
+Tunis,L Aouina,140,3,1,False,False,0,good,1600
+Tunis,Sidi El Bchir,70,1,1,False,False,0,excellent,1600
+Sousse,Sahloul,103,3,1,True,True,0,good,1600
+Tunis,Jardins De Carthage,83,2,1,False,False,4,good,1600
+Tunis,Le Kram,100,2,1,False,True,0,good,1600
+Tunis,Jardins De Carthage,99,1,1,True,False,0,good,1600
+Ariana,La Soukra,130,3,1,False,True,2,excellent,1600
+Tunis,Jardins De Carthage,120,2,2,False,True,0,good,1600
+Nabeul,Nabeul,250,3,2,True,False,0,good,1600
+Sousse,Sousse corniche,110,2,1,False,False,0,good,1600
+Tunis,L Aouina,65,1,1,True,False,0,good,1600
+Tunis,Jardins De Carthage,65,1,1,True,False,0,good,1600
+Tunis,L Aouina,100,2,1,True,True,0,good,1600
+Ariana,Ghazela,100,3,2,True,False,0,good,1600
+Tunis,Tunis,92,2,1,True,False,1,good,1600
+Tunis,L Aouina,110,2,2,True,False,3,good,1650
+Tunis,Tunis Belvedere,92,3,2,True,True,9,good,1650
+Tunis,Montplaisir,100,3,2,True,True,0,good,1650
+Tunis,Jardins De Carthage,150,3,3,False,True,0,good,1650
+Ariana,La Soukra,300,2,2,False,False,0,good,1650
+Ariana,Chotrana,300,2,2,False,False,0,good,1650
+Tunis,Ain Zaghouan Sud,130,3,1,False,True,1,good,1650
+Tunis,Gammarth,154,3,2,False,False,0,good,1650
+Tunis,Ain Zaghouan Sud,125,3,2,False,True,0,good,1650
+Ariana,Ennasr,200,4,4,False,True,0,good,1650
+Tunis,Jardins De Carthage,100,2,1,False,False,0,good,1650
+Tunis,Ain Zaghouen,140,4,3,False,True,1,good,1652
+Tunis,El Menzah 9,100,2,1,True,True,3,good,1700
+Tunis,La Marsa,50,1,1,False,False,0,good,1700
+Tunis,Lac 2,75,2,1,True,True,0,good,1700
+Tunis,L Aouina,165,3,1,False,False,0,good,1700
+Tunis,Lac 1,80,1,1,True,False,0,good,1700
+Tunis,La Marsa,120,1,1,False,False,0,good,1700
+Tunis,Lac 2,60,1,1,True,True,0,good,1700
+Ariana,La Soukra,158,3,2,False,True,0,good,1700
+Tunis,Gammarth,83,2,1,True,False,0,good,1700
+Tunis,Jardins De Carthage,100,1,2,False,False,0,good,1700
+Tunis,Jardins De Carthage,75,2,1,False,False,0,excellent,1700
+Tunis,Jardins De Carthage,140,3,2,False,True,10,good,1700
+Tunis,Montplaisir,110,3,1,True,True,1,good,1700
+Tunis,Jardins De Carthage,145,3,2,False,True,0,good,1700
+Ariana,Cit Ennasr 2,200,4,3,False,True,2,good,1700
+Sousse,Chatt mariem,150,3,2,False,True,0,good,1700
+Tunis,Montplaisir,120,2,1,True,False,0,good,1700
+Nabeul,Mrezga,150,2,2,False,True,0,excellent,1700
+Ben_Arous,El Mourouj 6,200,5,2,False,False,0,poor,1700
+Ariana,Jardins El Menzah,140,2,1,False,True,0,excellent,1700
+Tunis,Centre Urbain Nord,100,3,1,False,True,0,good,1700
+Sousse,Chatt mariem,120,3,1,True,False,0,good,1700
+Nabeul,Mrezga,200,3,1,True,True,0,good,1700
+Tunis,Ain Zaghouan Nord,220,3,1,False,True,0,good,1700
+Tunis,Montplaisir,150,5,2,False,False,0,good,1700
+Monastir,Monastir,143,2,2,True,False,6,good,1700
+Tunis,Centre Urbain Nord,140,3,1,False,False,0,good,1700
+Tunis,Jardins De Carthage,170,1,2,False,False,0,good,1700
+Tunis,La Marsa,170,1,2,False,False,2,good,1700
+Sousse,Hergla,200,4,2,False,False,2,good,1700
+Tunis,Mutuelleville,150,3,1,False,True,0,good,1700
+Tunis,El Menzah 9,120,2,1,True,True,3,good,1700
+Tunis,Montplaisir,110,3,1,True,True,2,good,1700
+Tunis,L Aouina,90,1,1,False,False,1,good,1700
+Tunis,Montplaisir,120,5,1,True,False,0,good,1700
+Tunis,La Marsa,100,2,1,False,False,2,excellent,1700
+Tunis,Jardins De Carthage,140,3,1,False,True,10,good,1700
+Sousse,Khzema,100,2,2,False,True,0,excellent,1700
+Tunis,Lac 2,70,1,1,True,True,0,good,1700
+Tunis,Jardins De Carthage,100,1,1,False,True,10,excellent,1700
+Tunis,Lac 1,150,3,2,False,True,1,good,1700
+Tunis,Ain Zaghouan Nord,80,2,1,False,True,0,good,1700
+Tunis,Lac 2,79,2,2,True,False,0,good,1712
+Tunis,Jardins De Carthage,95,2,1,False,True,3,good,1748
+Tunis,Jardins De Carthage,140,3,1,False,True,0,excellent,1750
+Ariana,La Soukra,170,3,2,False,True,0,good,1750
+Tunis,Gammarth,151,3,2,False,False,1,good,1750
+Tunis,Lac 2,67,3,1,True,True,0,good,1750
+Ariana,La Soukra,110,2,2,False,False,0,good,1750
+Tunis,Jardins De Carthage,82,1,1,False,True,0,excellent,1750
+Ariana,El Menzah 6,100,2,1,False,False,0,good,1750
+Ariana,Cit Ennasr 2,160,3,3,False,True,0,good,1750
+Tunis,Jardins De Carthage,85,2,1,False,True,3,good,1750
+Ariana,Cit Ennasr 2,200,4,3,True,True,0,good,1750
+Sousse,Hammam Sousse,115,2,1,True,False,1,good,1750
+Ariana,Ennasr,178,5,3,False,False,0,good,1750
+Nabeul,Hammamet,150,3,1,True,False,0,good,1750
+Tunis,Bab Souika,70,1,1,False,False,0,good,1785
+Tunis,Jardins De Carthage,82,2,1,False,False,0,good,1800
+Tunis,Lac 1,80,1,1,True,True,0,good,1800
+Tunis,La Marsa,65,2,1,True,False,0,good,1800
+Ariana,Ennasr,220,4,3,False,True,0,good,1800
+Tunis,Centre Urbain Nord,77,1,1,True,False,2,good,1800
+Nabeul,Hammamet Nord,140,3,2,False,True,0,good,1800
+Tunis,El Menzah 9,140,5,2,False,False,0,excellent,1800
+Tunis,Jardins De Carthage,90,1,1,True,True,1,good,1800
+Ariana,Cit Ennasr 2,160,3,2,False,True,0,good,1800
+Tunis,Jardins De Carthage,70,2,1,False,True,0,excellent,1800
+Tunis,Jardins De Carthage,90,2,1,False,True,0,excellent,1800
+Ariana,Cit Ennasr 2,200,4,2,False,True,6,good,1800
+Tunis,Ain Zaghouan Nord,200,3,2,True,True,1,good,1800
+Ariana,Cit Ennasr 2,190,4,4,False,True,0,good,1800
+Sousse,Sousse Jawhara,357,3,3,True,False,0,good,1800
+Ariana,Cit Ennasr 2,200,4,3,False,True,0,good,1800
+Tunis,Centre Urbain Nord,107,4,1,False,False,1,good,1800
+Tunis,Menzah,110,2,1,True,True,0,good,1800
+Ariana,Cit Ennasr 2,220,2,2,False,False,0,good,1800
+Ariana,Riadh Andalous,200,4,2,False,True,0,good,1800
+Ariana,Les Jardins El Menzah 2,90,1,2,False,False,0,good,1800
+Tunis,Ain Zaghouen,175,3,2,True,True,1,good,1800
+Tunis,Jardins De Carthage,150,2,2,False,False,0,excellent,1800
+Ben_Arous,Ezzahra,120,1,1,False,False,0,good,1800
+La_Manouba,Manouba Ville,235,4,1,False,False,0,good,1800
+Tunis,L Aouina,150,3,3,False,True,0,excellent,1800
+Tunis,El Menzah 1,130,3,2,True,False,2,good,1800
+Tunis,L Aouina,180,4,2,False,False,0,good,1800
+Tunis,Jardins De Carthage,85,2,1,False,True,0,excellent,1800
+Tunis,Ain Zaghouan Nord,160,0,2,False,True,6,good,1800
+Tunis,El Manar 2,130,2,2,True,True,2,good,1800
+Tunis,Ain Zaghouan Nord,195,3,2,True,True,1,good,1800
+Tunis,Tunis,100,2,1,True,False,3,good,1800
+Tunis,Tunis Belvedere,320,5,2,False,False,0,good,1800
+Tunis,La Marsa,100,2,1,True,False,1,good,1800
+Tunis,Centre Urbain Nord,126,2,2,False,True,0,good,1800
+Nabeul,El Haouaria,130,2,1,False,False,0,good,1800
+Ariana,La Soukra,200,2,2,False,True,0,good,1800
+Ariana,Cit Ennasr 2,140,5,3,False,True,0,good,1800
+Tunis,Lac 1,70,1,1,True,False,0,good,1800
+Tunis,L Aouina,70,1,1,True,False,0,good,1800
+Tunis,El Ouardia,95,2,1,False,True,0,good,1800
+Tunis,La Marsa,150,2,1,False,False,0,good,1800
+Tunis,Montplaisir,75,1,2,True,True,2,good,1800
+Ariana,La Soukra,120,2,2,True,True,0,good,1800
+Tunis,La Goulette,144,3,1,False,False,1,excellent,1800
+Tunis,L Aouina,180,3,2,False,False,0,good,1800
+Tunis,Centre Urbain Nord,120,4,1,False,True,0,good,1800
+Tunis,Jardins De Carthage,175,3,2,True,True,1,good,1800
+Nabeul,Klibia,400,4,2,False,False,1,good,1800
+Sfax,Route de laroport,520,2,1,False,False,0,good,1800
+Jendouba,Jendouba,84,2,1,False,False,0,good,1800
+Tunis,Centre Ville Lafayette,180,6,2,False,False,3,good,1800
+Tunis,Gammarth,125,2,1,True,True,0,good,1800
+Tunis,El Menzah 9,200,5,2,False,True,0,excellent,1800
+Ariana,La Soukra,400,2,2,False,True,0,good,1800
+Tunis,Lac 2,56,2,1,True,False,0,good,1800
+Tunis,Montplaisir,75,1,2,True,True,3,good,1800
+Tunis,La Marsa,80,3,1,True,False,0,good,1800
+Tunis,L Aouina,78,2,1,False,False,0,good,1800
+Tunis,Khaznadar,180,4,2,False,True,0,good,1800
+Tunis,Jardins De Carthage,100,2,1,True,False,0,good,1850
+Tunis,Jardins De Carthage,90,2,1,True,False,8,good,1850
+Ariana,La Soukra,210,3,2,False,True,1,good,1850
+Tunis,Jardins De Carthage,95,2,1,True,False,8,good,1850
+Tunis,L Aouina,120,3,3,False,True,0,excellent,1850
+Ariana,Ennasr,200,4,2,False,True,0,good,1850
+Tunis,Jardins De Carthage,150,3,2,False,True,2,good,1850
+Ariana,Cit Ennasr 2,110,2,1,True,True,0,good,1850
+Tunis,Jardins De Carthage,60,1,1,True,True,0,good,1850
+Ariana,Cit Ennasr 2,178,3,2,False,True,0,good,1850
+Bizerte,Bizerte Nord,90,2,1,False,False,0,good,1900
+Tunis,Centre Urbain Nord,107,3,1,False,True,0,good,1900
+Tunis,Jardins De Carthage,98,0,1,False,True,0,excellent,1900
+Tunis,L Aouina,170,3,2,True,False,6,good,1900
+Nabeul,Hammamet,130,3,2,False,False,0,excellent,1900
+Tunis,L Aouina,172,1,1,True,False,2,good,1900
+Tunis,La Marsa,87,3,1,False,False,0,good,1900
+Tunis,Carthage,306,1,1,False,False,0,good,1900
+Tunis,Jardins De Carthage,154,4,2,False,True,6,good,1900
+Bizerte,Bizerte,55,1,1,False,False,0,good,1900
+Tunis,Lac 2,75,3,1,True,True,0,good,1900
+Ariana,Cit Ennasr 2,150,2,1,True,True,0,good,1900
+Ben_Arous,Ezzahra,120,2,1,True,False,0,good,1900
+Tunis,La Marsa,120,0,2,True,False,0,good,1900
+Tunis,Lac 2,140,3,3,False,True,0,good,1900
+Ariana,Chotrana 1,130,2,2,True,True,0,good,1900
+Ariana,Ariana,100,1,1,False,False,0,good,1937
+Tunis,Jardins De Carthage,90,2,1,True,False,3,good,1950
+Tunis,Tunis,120,4,2,True,True,1,good,1950
+Tunis,Centre Urbain Nord,150,4,2,False,True,0,good,1950
+Tunis,Ain Zaghouan Nord,150,2,2,False,True,2,excellent,1950
+Nabeul,Mrezga,200,3,2,True,True,0,good,1999
+Tunis,El Manar 1,120,4,3,True,True,5,good,2000
+Ariana,Cit Ennasr 2,130,3,2,True,False,0,good,2000
+Tunis,La Marsa,80,0,1,True,True,0,good,2000
+Sousse,Sahloul,100,2,1,True,False,0,good,2000
+Ariana,Cit Ennasr 2,180,3,1,False,True,0,good,2000
+Tunis,Jardins De Carthage,126,3,2,False,True,7,good,2000
+Tunis,Lac 1,71,1,2,True,True,0,good,2000
+Ariana,Cit Ennasr 2,180,5,1,False,True,0,good,2000
+Ariana,El Menzah 5,185,4,2,False,False,0,good,2000
+Tunis,Ain Zaghouan Nord,200,3,2,False,True,1,good,2000
+Ben_Arous,Ezzahra,110,1,1,True,True,0,excellent,2000
+Tunis,Ain Zaghouan Nord,130,2,2,True,True,6,good,2000
+Tunis,Sidi Daoud,75,2,1,True,False,1,good,2000
+Ben_Arous,Medina Jedida,240,5,2,False,False,0,good,2000
+Tunis,Tunis,150,5,1,True,False,1,good,2000
+Tunis,Lac 2,65,1,1,True,False,0,excellent,2000
+Sousse,Kantaoui,400,3,3,True,True,0,good,2000
+Tunis,Gammarth,90,2,1,False,True,0,good,2000
+Tunis,Ain Zaghouen,80,1,1,True,True,4,good,2000
+Tunis,La Marsa,400,4,3,False,False,0,good,2000
+Tunis,Gammarth,100,2,2,True,False,0,good,2000
+Kairouan,Kairouan,150,1,2,False,False,1,good,2000
+Ben_Arous,Boumhel,100,2,1,True,False,0,good,2000
+Tunis,Jardins De Carthage,129,3,1,False,True,7,excellent,2000
+Ben_Arous,Ezzahra,70,1,1,True,True,0,excellent,2000
+Tunis,La Marsa,100,1,1,True,True,1,good,2000
+Tunis,Centre Ville Lafayette,110,8,1,True,True,0,good,2000
+Tunis,L Aouina,50,1,1,False,False,0,good,2000
+Tunis,La Marsa,80,1,1,True,True,0,good,2000
+Tunis,La Marsa,200,0,1,False,True,0,good,2000
+Ariana,Cit Ennasr 2,240,3,2,False,True,2,good,2000
+Ben_Arous,Boumhel,120,2,1,True,False,0,good,2000
+Tunis,Ain Zaghouen,80,1,1,False,True,0,excellent,2000
+Ariana,Ennasr,220,5,3,False,True,0,good,2000
+Tunis,Jardins De Carthage,50,1,1,False,False,0,good,2000
+Ariana,Cit Ennasr 2,200,5,2,False,True,0,good,2000
+Tunis,La Marsa,180,3,2,False,False,0,good,2000
+Tunis,La Marsa,120,2,2,True,True,0,excellent,2000
+Tunis,Ain Zaghouen,80,1,1,True,False,0,good,2000
+Tunis,La Goulette,60,1,1,False,False,0,good,2000
+Ariana,El Menzah 5,185,3,2,False,False,0,good,2000
+Ariana,El Menzah 5,50,1,1,False,False,0,good,2000
+Ariana,El Menzah 8,280,4,2,True,True,3,good,2000
+Mahdia,Mahdia,120,2,1,False,False,0,good,2000
+Tunis,Carthage,180,3,2,False,False,0,good,2000
+Tunis,Lac 2,90,1,1,True,True,0,good,2000
+Mahdia,Mahdia,115,1,1,False,False,0,good,2000
+Ariana,El Menzah 6,200,4,2,False,False,0,excellent,2000
+Mdenine,Djerba Houmt Souk,65,1,1,True,False,0,good,2000
+Tunis,La Marsa,120,2,1,False,False,0,good,2000
+Tunis,Ain Zaghouen,200,3,2,False,True,0,good,2000
+Tunis,Gammarth,160,3,2,True,False,0,good,2000
+Tunis,Centre Ville Lafayette,150,2,1,False,False,0,good,2000
+Tunis,Jardins De Carthage,110,3,1,False,True,0,excellent,2000
+Tunis,Jardins De Carthage,150,1,2,False,False,7,good,2000
+Tunis,Lac 2,120,2,2,True,True,0,good,2000
+Tunis,Lac 2,70,1,1,True,False,0,good,2000
+Ariana,Riadh Andalous,170,2,2,True,True,0,good,2000
+Tunis,Ain Zaghouan Nord,120,2,2,False,True,3,excellent,2000
+Tunis,Montplaisir,150,4,1,True,True,1,good,2100
+Ariana,Ariana,100,2,1,False,False,0,good,2100
+Tunis,Centre Urbain Nord,160,4,2,False,True,0,good,2100
+Tunis,Ain Zaghouen,250,3,3,False,False,0,good,2100
+Tunis,Lac 1,85,4,1,True,False,0,good,2100
+Tunis,Carthage,100,2,1,True,False,0,good,2100
+Tunis,Centre Urbain Nord,150,4,2,False,True,0,good,2100
+Tunis,Lac 2,114,2,2,False,True,0,good,2100
+Tunis,L Aouina,60,1,1,False,False,0,good,2100
+Tunis,Centre Urbain Nord,113,2,2,False,True,4,good,2100
+Tunis,Ain Zaghouan Nord,80,1,1,False,False,0,good,2100
+Tunis,La Marsa,200,1,1,False,False,0,good,2100
+Tunis,Carthage,170,3,3,False,True,9,good,2100
+Ariana,Ennasr,200,3,2,True,False,0,good,2100
+Tunis,Lac 2,120,3,1,True,True,0,good,2100
+Tunis,Gammarth,250,4,3,False,True,0,good,2150
+Tunis,Carthage,80,3,1,True,False,0,good,2198
+Tunis,Lac 1,150,2,2,True,False,0,good,2198
+Tunis,Gammarth,90,2,1,True,True,1,good,2200
+Tunis,Tunis,260,3,2,True,False,0,good,2200
+Ariana,Riadh Andalous,130,3,1,False,False,0,good,2200
+Tunis,Jardins De Carthage,145,3,2,False,True,0,good,2200
+Nabeul,Hammamet,300,3,2,False,True,0,good,2200
+Tunis,El Menzah 9,400,4,1,False,True,0,good,2200
+Tunis,La Goulette,130,2,1,False,False,0,good,2200
+Tunis,Jardins De Carthage,124,2,1,True,True,2,good,2200
+Tunis,Lac 1,130,2,2,True,False,0,good,2200
+Tunis,Lac 1,120,2,2,True,False,0,good,2200
+Tunis,Carthage,75,2,1,True,True,0,excellent,2200
+Tunis,Jardins De Carthage,100,2,1,True,True,5,good,2200
+Tunis,Centre Urbain Nord,115,3,2,True,True,3,good,2200
+Ben_Arous,Fouchana,350,1,1,False,False,0,good,2200
+Tunis,L Aouina,80,1,1,False,False,0,good,2200
+Ariana,Cit Ennasr 2,220,3,3,False,True,5,good,2200
+Tunis,El Menzah 9,300,4,1,False,False,0,good,2200
+Tunis,El Manar 1,200,3,2,False,True,0,excellent,2200
+Ben_Arous,Ben Arous,350,1,1,False,False,0,good,2200
+Tunis,Jardins De Carthage,100,2,2,False,True,0,excellent,2200
+Tunis,La Marsa,160,3,3,True,False,0,good,2200
+Tunis,Centre Urbain Nord,128,3,2,False,False,0,good,2200
+Tunis,La Marsa,150,3,1,False,True,0,good,2200
+Tunis,El Menzah 9,500,4,3,False,True,0,good,2200
+Tunis,Cit jardin,114,2,1,True,True,0,good,2200
+Tunis,Jardins De Carthage,73,1,1,True,True,0,excellent,2200
+Tunis,Mutuelleville,130,5,1,False,False,0,good,2200
+Tunis,El Menzah 9,300,4,2,False,False,0,good,2200
+Tunis,Lac 2,120,2,2,False,False,0,good,2200
+La_Manouba,La Manouba,600,1,1,False,False,0,good,2200
+Tunis,Mutuelleville,125,4,1,False,False,0,good,2200
+Tunis,Jardins De Carthage,100,1,1,True,True,1,good,2200
+Tunis,Mutuelleville,125,3,1,False,False,0,good,2200
+Tunis,Lac 1,88,0,1,True,False,0,good,2202
+Tunis,Montplaisir,140,5,2,False,False,5,good,2243
+Tunis,Lac 2,89,0,2,False,False,0,good,2250
+Tunis,L Aouina,190,4,2,True,False,2,good,2250
+Tunis,Mutuelleville,200,4,1,False,False,0,good,2250
+Tunis,Lac 2,90,2,2,True,True,0,good,2250
+Tunis,La Marsa,250,1,1,False,False,0,good,2250
+Tunis,Lac 1,100,5,1,True,False,0,good,2270
+Tunis,Carthage,140,3,2,False,True,2,good,2298
+Ariana,Ennasr,120,2,1,True,False,0,good,2298
+Tunis,Lac 2,70,1,1,True,True,0,good,2300
+Ariana,Cit Ennasr 2,188,3,3,False,True,0,excellent,2300
+Tunis,Le Kram,120,3,2,False,True,0,good,2300
+Ariana,La Soukra,190,3,4,False,True,1,good,2300
+Tunis,El Menzah 9,200,4,2,False,False,0,good,2300
+Tunis,Jardins De Carthage,140,3,2,False,True,2,good,2300
+Ariana,La Soukra,200,3,2,False,True,0,good,2300
+Tunis,Jardins De Carthage,120,3,3,False,True,0,excellent,2300
+Tunis,La Marsa,110,3,2,True,True,3,good,2300
+Tunis,Lac 2,128,4,2,True,True,0,good,2300
+Ariana,Cit Ennasr 2,120,3,1,True,True,0,good,2300
+Tunis,Jardins De Carthage,140,3,2,False,True,0,excellent,2300
+Ben_Arous,Ezzahra,120,2,2,True,False,2,good,2300
+Tunis,L Aouina,155,1,1,False,False,0,good,2300
+Tunis,Jardins De Carthage,140,3,1,False,True,0,good,2300
+Ariana,Cit Ennasr 2,200,3,3,True,True,0,good,2300
+Tunis,Centre Ville Lafayette,200,4,1,True,False,0,good,2300
+Tunis,La Marsa,200,2,2,False,True,0,good,2300
+Ariana,Ennasr,188,3,3,False,True,0,good,2300
+Tunis,Jardins De Carthage,120,2,2,False,True,0,excellent,2300
+Tunis,Lac 1,140,3,2,False,True,0,good,2400
+Tunis,Gammarth,140,4,2,False,True,0,good,2400
+Tunis,Ain Zaghouen,80,1,1,False,False,0,good,2400
+Tunis,El Manar 1,200,3,2,False,True,0,good,2400
+Tunis,Centre Urbain Nord,117,2,2,True,True,3,good,2400
+Tunis,La Marsa,190,3,2,False,False,3,good,2400
+Ariana,La Soukra,180,6,2,True,False,0,good,2400
+Tunis,Lac 1,120,4,2,True,True,0,good,2400
+Tunis,Lac 1,190,4,2,True,True,0,good,2400
+Ariana,La Soukra,200,2,3,False,True,0,good,2400
+Tunis,Centre Urbain Nord,115,2,1,True,True,4,good,2400
+Ariana,La Soukra,160,6,3,False,True,0,excellent,2400
+Sousse,Khzema,200,2,2,True,True,0,excellent,2400
+Tunis,Ain Zaghouen,145,3,2,True,True,7,good,2400
+Ariana,La Soukra,160,3,1,False,False,1,good,2400
+Tunis,La Marsa,120,2,1,True,False,0,good,2400
+Ariana,Ariana Essoughra,184,1,4,False,False,0,good,2450
+Tunis,La Marsa,108,1,4,False,True,0,good,2450
+Ben_Arous,Boumhel,300,1,1,False,False,0,good,2497
+Ben_Arous,Hammam Lif,120,1,1,False,False,0,good,2499
+Sousse,Khzema,120,1,1,False,False,0,good,2500
+Tunis,Lac 2,137,4,2,False,False,0,good,2500
+Ariana,Riadh Andalous,220,4,3,False,True,1,good,2500
+Tunis,Tunis Belvedere,125,2,1,True,True,2,excellent,2500
+Tunis,La Marsa,120,3,1,True,False,0,good,2500
+Tunis,Lac 2,150,1,2,True,True,2,good,2500
+Ben_Arous,Ezzahra,370,2,1,False,False,0,good,2500
+Tunis,L Aouina,180,1,2,False,False,2,good,2500
+Nabeul,Hammamet,310,4,2,True,True,0,good,2500
+Tunis,Centre Urbain Nord,120,5,1,False,False,5,good,2500
+Tunis,L Aouina,163,3,2,True,False,0,good,2500
+Tunis,La Marsa,100,2,1,True,False,0,good,2500
+Tunis,Carthage,200,2,2,True,True,0,good,2500
+Sousse,Sahloul,240,1,1,False,False,0,good,2500
+Tunis,Lac 2,100,3,1,False,False,0,good,2500
+Tunis,La Marsa,118,2,1,True,False,0,good,2500
+Tunis,El Manar 2,400,4,3,False,True,0,good,2500
+Ariana,La Soukra,300,5,4,True,False,0,good,2500
+Tunis,Lac 1,72,1,1,True,True,0,good,2500
+Ariana,La Soukra,250,1,1,False,False,0,good,2500
+Tunis,Lac 1,180,5,2,True,True,0,good,2500
+Ariana,Riadh Andalous,250,4,3,False,False,0,good,2500
+Sousse,Sousse Mdina,80,1,1,False,False,0,good,2500
+Tunis,Ain Zaghouan Nord,167,3,3,True,False,0,good,2500
+Tunis,Lac 2,100,1,1,True,True,0,good,2500
+Ariana,El Menzah 5,350,5,2,False,False,0,good,2500
+Tunis,La Marsa,136,3,1,False,False,1,good,2500
+Tunis,Jardins De Carthage,70,2,1,False,True,0,excellent,2500
+Tunis,L Aouina,270,1,1,False,False,0,good,2500
+Tunis,Lac 1,120,4,1,True,True,2,good,2500
+Tunis,Lac 1,180,3,2,False,True,0,good,2500
+Tunis,Lac 1,100,4,1,True,True,3,good,2500
+Tunis,L Aouina,200,3,1,False,False,1,good,2500
+Tunis,Ain Zaghouan Nord,180,3,2,False,True,0,good,2500
+Ariana,La Soukra,260,3,3,False,True,0,good,2500
+Ariana,Les Jardins El Menzah 2,350,5,2,False,False,0,good,2500
+Ariana,Chotrana 3,300,1,2,False,False,0,good,2500
+Tunis,Jardins De Carthage,115,2,2,False,False,0,good,2500
+Ariana,Chotrana 1,380,4,3,True,False,0,excellent,2500
+Tunis,Centre Urbain Nord,150,3,3,False,False,0,good,2500
+Tunis,Montplaisir,100,3,2,True,True,5,good,2500
+Tunis,Gammarth,200,4,2,False,False,0,good,2500
+Tunis,Lac 2,180,3,3,False,False,0,good,2500
+Tunis,Lac 1,86,3,1,False,True,0,good,2500
+Tunis,Carthage,140,2,1,True,True,0,good,2500
+Tunis,El Menzah 9,300,4,4,False,True,0,good,2500
+Tunis,L Aouina,172,1,1,True,False,2,good,2500
+Tunis,L Aouina,170,1,1,False,False,0,good,2500
+Tunis,La Marsa,150,3,2,True,True,0,good,2500
+Nabeul,Nabeul,250,3,1,True,True,0,good,2500
+Tunis,Centre Urbain Nord,150,3,2,False,True,0,good,2600
+Ariana,Cit Ennasr 2,140,3,1,False,False,0,good,2600
+Tunis,El Manar 2,450,5,3,False,True,0,good,2600
+Tunis,Jardins De Carthage,60,2,1,True,True,0,good,2600
+Tunis,Sidi Bou Said,140,2,1,True,False,0,good,2600
+Tunis,Gammarth,100,1,2,True,True,0,good,2600
+Ariana,La Soukra,78,1,1,True,False,0,excellent,2600
+Ariana,Ariana,231,2,1,True,False,2,good,2600
+Tunis,L Aouina,550,5,3,False,True,0,good,2600
+Ariana,Cit Ennasr 2,139,4,1,False,False,1,good,2600
+Tunis,Montplaisir,170,5,2,True,False,0,good,2600
+Tunis,L Aouina,540,5,3,False,True,0,good,2600
+Tunis,La Marsa,135,5,1,True,False,2,good,2650
+Tunis,Lac 1,200,5,2,True,False,0,good,2667
+Tunis,Jardins De Carthage,250,3,3,False,True,0,good,2698
+Ariana,La Soukra,560,3,2,False,True,0,good,2700
+Tunis,Montplaisir,114,3,1,False,True,0,good,2700
+Ben_Arous,Ben Arous,400,1,2,False,False,0,good,2700
+Tunis,La Marsa,130,3,1,False,False,0,good,2700
+Tunis,L Aouina,62,1,1,False,False,0,good,2700
+Tunis,Lac 2,130,2,1,False,True,0,good,2700
+Tunis,Ain Zaghouen,450,6,5,False,False,0,excellent,2700
+Tunis,Lac 1,170,3,2,True,True,0,good,2700
+Tunis,Gammarth,200,4,2,False,True,0,good,2700
+Ariana,La Soukra,165,3,3,False,True,0,good,2800
+Monastir,Monastir,300,3,1,True,False,0,good,2800
+Sousse,Kala Kebira,120,2,1,False,False,0,good,2800
+Tunis,Lac 1,180,4,2,True,True,0,good,2800
+Tunis,Jardins De Carthage,100,2,1,False,False,0,good,2800
+Ariana,Les Jardins El Menzah 1,96,1,1,False,False,0,good,2800
+Tunis,Jardins De Carthage,148,2,2,True,True,2,good,2800
+Tunis,Centre Urbain Nord,90,2,1,True,False,0,good,2800
+Tunis,Jardins De Carthage,148,2,1,True,False,2,good,2800
+Tunis,Jardins De Carthage,148,2,2,True,False,1,excellent,2800
+Tunis,La Marsa,208,3,1,False,False,1,good,2800
+Tunis,Lac 1,118,4,1,True,True,0,good,2800
+Sousse,Sahloul,400,4,2,True,True,0,good,2800
+Tunis,La Marsa,130,2,2,True,True,2,good,2800
+Tunis,Le Bardo,80,1,1,False,False,0,good,2800
+Tunis,Centre Urbain Nord,140,1,1,True,True,0,good,2800
+Ariana,Ghazela,350,8,4,False,True,0,good,2850
+Tunis,El Menzah 1,300,0,2,False,True,0,good,2900
+Tunis,Gammarth,200,3,1,False,False,0,good,2900
+Tunis,Lac 2,190,4,3,False,True,0,good,2900
+Ariana,Ennasr,250,3,2,True,True,0,good,2900
+Tunis,L Aouina,68,1,2,False,False,0,good,2900
+Tunis,Montplaisir,200,7,2,True,True,2,good,2900
+Tunis,Jardins De Carthage,70,2,1,False,True,0,excellent,2900
+Tunis,Lac 1,200,4,2,True,True,0,good,2900
+Tunis,Le Bardo,270,4,2,False,True,0,good,3000
+Sfax,Route TANIOUR,600,1,4,False,False,0,good,3000
+Tunis,La Marsa,340,1,1,False,False,0,good,3000
+Tunis,Lac 2,145,3,2,False,True,0,good,3000
+Tunis,Ain Zaghouan Nord,148,2,2,True,True,1,good,3000
+Tunis,Montplaisir,180,5,2,True,True,5,good,3000
+Tunis,Lac 1,180,4,1,False,True,0,good,3000
+Tunis,Lac 1,150,2,2,False,True,0,good,3000
+Tunis,Lac 1,80,1,1,True,True,0,good,3000
+Tunis,Lac 2,180,3,2,False,True,0,excellent,3000
+Tunis,Jardins De Carthage,145,2,2,True,False,0,good,3000
+Tunis,Cit El Khadra,160,6,2,True,False,0,good,3000
+Tunis,El Menzah 9,500,6,4,False,True,0,good,3000
+Ben_Arous,Mornag,330,1,1,False,False,0,good,3000
+Ben_Arous,Ben Arous,400,1,1,False,False,0,good,3000
+Ariana,La Soukra,175,1,1,True,False,2,good,3000
+Tunis,La Marsa,70,1,1,True,False,0,good,3000
+Tunis,Montplaisir,160,1,4,True,True,0,excellent,3000
+Tunis,Lac 2,137,4,1,False,False,0,good,3000
+Ben_Arous,Mgrine,320,1,1,False,False,0,good,3000
+Tunis,Mutuelleville,180,4,3,False,True,0,fair,3000
+Tunis,Jardins De Carthage,81,2,1,False,True,0,good,3000
+Tunis,Montplaisir,130,3,2,True,True,5,good,3000
+Tunis,Jardins De Carthage,149,2,2,True,True,0,good,3000
+Tunis,Lac 2,180,3,1,False,True,0,good,3000
+Tunis,Lac 2,100,4,1,False,False,0,good,3000
+Tunis,Sidi Daoud,110,3,2,True,False,1,good,3000
+Tunis,Sidi Daoud,250,2,1,False,False,0,good,3000
+Tunis,Lac 2,150,2,2,False,False,0,good,3000
+Tunis,Lac 1,118,4,2,True,True,0,good,3000
+Tunis,La Marsa,140,3,2,True,False,1,good,3000
+Tunis,El Menzah 1,180,5,3,True,True,0,good,3000
+Tunis,Jardins De Carthage,100,2,1,True,True,0,good,3000
+Ariana,La Soukra,500,1,1,False,False,0,good,3000
+Tunis,Lac 1,150,5,1,True,True,0,good,3080
+Tunis,Lac 2,180,3,2,True,True,2,good,3100
+Tunis,Lac 1,145,4,1,True,True,3,good,3100
+Tunis,Lac 2,250,2,3,False,True,1,good,3200
+Tunis,Lac 2,160,3,3,False,True,0,good,3200
+Tunis,Lac 2,180,5,3,False,True,4,good,3200
+Tunis,Lac 2,90,1,2,False,True,0,good,3200
+Tunis,Alain Savary,200,3,2,True,True,2,good,3200
+Tunis,Jardins De Carthage,80,2,1,False,True,0,good,3200
+Tunis,Jardins De Carthage,170,4,3,True,False,0,good,3200
+Tunis,Gammarth,140,1,2,True,False,0,good,3200
+Tunis,Jardins De Carthage,288,4,3,False,True,2,good,3250
+Tunis,La Marsa,400,1,2,False,False,0,good,3300
+Sousse,Khzema,200,8,3,False,False,0,good,3300
+Tunis,Lac 2,160,3,1,True,False,0,good,3300
+Tunis,Lac 2,245,5,3,True,True,0,good,3300
+Tunis,Lac 2,120,3,2,True,True,0,good,3300
+Tunis,L Aouina,100,2,1,False,False,0,good,3300
+Tunis,Lac 1,131,4,2,True,True,0,good,3300
+Tunis,Gammarth,145,3,2,False,False,0,good,3300
+Tunis,Lac 1,134,2,2,True,True,0,good,3360
+Sousse,Khzema,230,8,2,False,False,0,good,3400
+Tunis,Lac 1,167,4,2,False,False,0,good,3400
+Tunis,Lac 1,200,8,2,True,True,0,good,3499
+Ariana,La Soukra,100,1,2,True,False,0,good,3500
+Tunis,Centre Urbain Nord,150,4,2,True,True,0,good,3500
+Tunis,Jardins De Carthage,200,3,3,False,True,0,good,3500
+Tunis,Gammarth,300,5,3,False,True,0,good,3500
+Tunis,El Menzah 9,500,5,3,False,True,0,good,3500
+Tunis,Jardins De Carthage,120,1,1,True,False,0,good,3500
+Tunis,Ain Zaghouan Nord,85,2,3,False,False,0,good,3500
+Tunis,Lac 2,181,3,3,True,True,0,good,3500
+Tunis,Lac 2,195,3,3,False,True,0,good,3500
+Tunis,Lac 2,150,2,2,True,True,0,good,3500
+Tunis,L Aouina,500,1,2,False,False,0,good,3500
+Ariana,Jardins El Menzah,400,4,3,False,True,0,good,3500
+Tunis,La Marsa,400,3,1,False,False,0,good,3500
+Sousse,Khzema,160,1,1,False,False,0,good,3500
+Tunis,La Marsa,150,4,2,False,True,0,good,3500
+Tunis,L Aouina,100,1,1,False,False,0,good,3500
+Tunis,Centre Urbain Nord,150,5,3,True,True,2,good,3500
+Tunis,Lac 1,200,2,2,True,False,1,good,3500
+Tunis,Le Kram,238,4,3,False,True,0,good,3500
+Tunis,Centre Urbain Nord,150,4,3,True,True,2,good,3500
+Tunis,La Marsa,150,2,1,True,False,0,good,3500
+Tunis,Centre Urbain Nord,150,5,3,False,True,0,good,3500
+Tunis,Lac 1,200,4,2,False,True,0,good,3500
+Tunis,La Marsa,320,5,3,False,True,0,good,3500
+Tunis,Lac 2,250,3,1,False,False,0,good,3500
+Tunis,Lac 1,280,7,2,True,True,0,good,3500
+Tunis,Lac 2,250,2,3,False,True,1,good,3500
+Tunis,Gammarth,200,3,4,False,True,0,good,3500
+Tunis,La Marsa,110,2,1,False,False,0,good,3500
+Tunis,La Marsa,170,3,3,True,True,0,good,3500
+Ariana,Cit Ennasr 2,200,5,2,False,False,0,good,3600
+Tunis,Lac 2,90,0,2,True,True,0,good,3600
+Tunis,Gammarth,200,3,2,True,False,0,good,3600
+Tunis,Lac 2,161,8,4,True,True,5,good,3700
+Tunis,La Marsa,270,5,2,False,False,0,good,3700
+Tunis,Lac 2,161,3,2,False,False,0,good,3700
+Tunis,Lac 1,135,2,2,True,True,3,good,3700
+Nabeul,Hammamet,250,3,3,False,False,0,good,3700
+Tunis,Le Bardo,120,2,1,True,True,0,good,3700
+Tunis,Lac 1,230,5,1,False,True,1,good,3750
+Tunis,Lac 1,145,4,1,False,True,0,good,3750
+Nabeul,Hammamet,350,5,5,True,True,0,good,3800
+Ben_Arous,Rads,112,1,1,False,False,0,good,3800
+Tunis,Lac 2,250,3,3,False,True,0,excellent,3800
+Tunis,Lac 2,280,3,3,False,True,0,good,3800
+Tunis,Tunis,200,2,2,True,False,0,good,3800
+Tunis,Lac 1,200,4,1,True,False,1,good,3800
+Tunis,La Marsa,160,3,1,True,True,1,good,3800
+Ariana,La Soukra,220,3,3,True,True,0,good,3900
+Tunis,Lac 2,100,2,2,True,True,1,good,3900
+Tunis,El Manar 2,500,5,3,False,True,0,good,3950
+Ariana,Chotrana 3,450,1,1,False,False,0,good,3999
+Ariana,Chotrana 3,450,1,1,False,False,0,good,4000
+Tunis,Gammarth,140,3,3,True,False,1,good,4000
+Ariana,Ariana,220,2,2,False,False,0,good,4000
+Tunis,Lac 2,320,3,2,True,True,0,good,4000
+Tunis,Lac 2,160,2,2,True,False,0,good,4000
+La_Manouba,Douar Hicher,180,3,2,False,False,0,good,4000
+Tunis,Gammarth,270,4,4,True,True,0,good,4000
+Tunis,Sidi Daoud,200,3,3,True,True,0,good,4000
+Tunis,La Marsa,231,4,2,False,False,0,good,4000
+Ariana,La Soukra,350,4,5,False,True,0,good,4000
+Tunis,La Marsa,120,2,1,False,False,0,good,4000
+Ariana,Mnihla,200,1,1,True,True,0,good,4000
+Tunis,Lac 2,160,3,3,False,True,0,excellent,4000
+Tunis,Tunis Belvedere,200,7,2,True,True,0,good,4000
+Ariana,El Menzah 5,350,8,3,False,True,0,good,4000
+Sfax,Route TANIOUR,200,3,2,True,False,0,good,4000
+Ariana,Ariana Essoughra,320,6,3,False,True,0,good,4000
+Ariana,Chotrana 3,345,4,5,False,True,0,good,4000
+Tunis,Lac 1,170,3,3,False,True,0,good,4000
+Sousse,Hammam Sousse,600,4,3,False,False,0,good,4000
+Tunis,La Marsa,200,3,2,True,False,0,good,4000
+Tunis,Sidi Daoud,250,2,2,False,True,0,good,4000
+Tunis,Carthage,150,3,2,True,False,0,good,4000
+Tunis,Centre Urbain Nord,189,4,1,True,True,2,good,4000
+Tunis,El Manar 2,600,7,3,False,True,0,good,4000
+Tunis,Lac 2,160,2,1,True,True,0,good,4000
+Tunis,Mutuelleville,350,5,3,False,True,0,good,4000
+Tunis,Montplaisir,273,2,1,False,True,0,good,4000
+Tunis,Lac 2,150,3,2,True,False,0,good,4000
+Tunis,Lac 2,220,3,3,False,True,0,good,4000
+Tunis,La Marsa,180,3,1,False,True,0,good,4000
+Tunis,La Marsa,150,2,2,False,False,0,good,4000
+Tunis,Lac 1,180,3,2,True,True,0,good,4000
+Tunis,L Aouina,300,3,3,True,False,0,good,4000
+Tunis,Centre Ville Lafayette,400,2,2,True,True,2,good,4000
+Tunis,Tunis,200,1,2,True,True,3,excellent,4200
+Ariana,Charguia 1,200,2,2,False,False,0,good,4200
+Tunis,Tunis,200,1,2,True,True,2,excellent,4200
+Tunis,Tunis,200,1,2,True,True,1,excellent,4200
+Tunis,Tunis,250,3,2,True,True,4,excellent,4200
+Tunis,La Marsa,220,4,2,False,False,0,good,4300
+Tunis,Lac 2,240,3,3,False,True,0,good,4400
+Tunis,Centre Urbain Nord,240,5,3,True,True,0,good,4500
+Tunis,Tunis Belvedere,200,1,2,True,False,0,good,4500
+Mahdia,Mahdia,251,2,1,False,False,0,good,4500
+Tunis,Alain Savary,600,6,3,False,True,0,good,4500
+Tunis,Lac 2,200,0,2,True,True,0,good,4500
+Tunis,Gammarth,400,5,4,False,True,0,good,4500
+Tunis,Gammarth,340,3,2,False,False,0,good,4500
+Tunis,Lac 2,400,5,3,True,False,0,good,4500
+Sousse,Zaouit Ksibat Thrayett,150,1,1,False,False,0,good,4500
+Tunis,Gammarth,140,1,2,False,True,0,good,4500
+Tunis,L Aouina,110,1,1,False,False,0,good,4500
+Tunis,Lac 1,252,3,3,False,True,0,good,4600
+Tunis,Lac 1,200,1,2,True,True,0,good,4750
+Tunis,Gammarth,200,4,2,False,False,0,good,4800
+Ariana,Ennasr,320,4,4,True,True,0,good,4800
+Tunis,Le Kram,266,0,2,True,True,0,excellent,4900
+Tunis,Gammarth,500,3,4,False,False,0,good,4900
+Tunis,Gammarth,340,5,2,True,False,0,excellent,5000
+Tunis,El Menzah 1,300,7,2,True,True,0,good,5000
+Tunis,Jardins De Carthage,180,3,2,True,True,0,good,5000
+Ariana,Ariana Essoughra,270,3,2,False,True,0,good,5000
+Tunis,Lac 2,220,3,2,True,False,0,good,5000
+Tunis,Jardins De Carthage,253,1,2,False,True,0,good,5000
+Nabeul,Hammamet Nord,200,3,2,True,False,0,good,5000
+Tunis,La Marsa,500,1,1,False,False,0,good,5000
+Ariana,La Soukra,400,4,3,True,True,0,excellent,5000
+Tunis,Montplaisir,260,8,3,True,False,0,good,5000
+Tunis,Lac 1,150,3,2,True,False,0,good,5000
+Ben_Arous,Ben Arous,270,3,3,False,False,0,good,5000
+Tunis,Lac 1,268,7,2,True,True,0,good,5025
+Tunis,Lac 1,245,6,2,True,False,1,good,5200
+Tunis,Lac 1,257,5,2,True,True,4,good,5300
+Tunis,Lac 2,268,3,4,False,True,0,good,5500
+Tunis,Tunis Belvedere,200,1,3,False,False,0,excellent,5500
+Tunis,Lac 2,194,3,2,True,True,0,good,5500
+Tunis,Lac 2,230,6,4,True,True,0,good,5500
+Tunis,Centre Urbain Nord,150,4,2,True,True,0,excellent,5500
+Tunis,Tunis Belvedere,250,1,3,False,False,0,excellent,5500
+Tunis,El Manar 2,157,1,1,False,False,0,good,5500
+Tunis,Mutuelleville,400,4,3,False,True,0,fair,5500
+Tunis,Mutuelleville,400,4,3,False,True,0,good,5500
+Tunis,Lac 2,173,0,1,True,False,7,good,5500
+Tunis,Mutuelleville,450,5,3,False,True,0,fair,5500
+Tunis,Alain Savary,340,0,2,True,False,0,good,5500
+Tunis,Lac 1,290,4,2,False,True,0,good,5500
+Tunis,Tunis,270,2,2,False,True,0,good,5600
+Tunis,Tunis,270,3,2,True,True,3,excellent,5600
+Nabeul,Hammamet,320,4,4,True,False,0,good,5650
+Sousse,Hammam Sousse,180,2,1,True,False,4,good,6000
+Tunis,Centre Urbain Nord,290,5,2,False,False,0,good,6000
+Tunis,Lac 2,220,2,2,True,True,5,good,6000
+Tunis,Lac 1,140,2,1,False,False,0,good,6000
+Mahdia,Mahdia,500,2,1,False,False,0,good,6000
+Tunis,Mutuelleville,500,6,3,False,True,0,good,6000
+Tunis,Alain Savary,320,1,1,True,False,3,good,6000
+Tunis,Mutuelleville,500,8,3,False,True,0,fair,6000
+Tunis,Jardins De Carthage,200,4,4,False,False,0,good,6000
+Tunis,L Aouina,200,1,1,False,False,0,good,6000
+Tunis,Lac 2,183,3,3,True,True,2,excellent,6100
+Tunis,Lac 1,250,8,2,False,True,0,good,6270
+Tunis,Lac 2,300,1,2,True,True,0,good,6500
+Tunis,Gammarth,400,4,3,True,False,0,good,6500
+Tunis,Lac 2,300,5,2,False,True,0,excellent,6500
+Tunis,Lac 2,270,3,2,True,True,1,good,6500
+Tunis,Gammarth,250,3,3,True,False,0,good,6500
+Tunis,Carthage,600,4,3,True,True,0,good,7000
+Tunis,Jardins De Carthage,250,5,3,False,False,0,good,7000
+Tunis,Lac 2,350,4,3,False,True,0,good,7000
+Tunis,Lac 1,350,5,2,False,True,0,good,7000
+Tunis,El Manar 2,450,5,4,False,False,0,fair,7000
+Tunis,Mutuelleville,600,8,3,False,True,0,good,7000
+Tunis,L Aouina,250,2,1,False,False,0,good,7000
+Tunis,Lac 2,348,1,2,True,False,0,good,7000
+Tunis,Mutuelleville,280,0,3,False,False,1,excellent,7000
+Tunis,El Menzah 1,338,1,4,True,True,1,good,7500
+Tunis,L Aouina,250,1,1,False,False,0,good,7500
+Tunis,Lac 1,295,3,2,True,True,0,good,7500
+Tunis,El Menzah 9,350,7,4,False,True,0,good,7500
+Tunis,Le Kram,418,1,4,True,True,0,excellent,7665
+Tunis,Centre Urbain Nord,278,7,2,True,True,5,good,7700
+Tunis,Centre Urbain Nord,278,7,2,True,False,0,good,7700
+Tunis,Centre Urbain Nord,278,5,2,True,True,5,good,7700
+Tunis,Lac 1,370,7,2,True,True,2,good,7700
+Tunis,Lac 2,331,8,4,True,True,6,good,7800
+Tunis,Lac 2,300,1,1,False,False,0,good,8000
+Tunis,Lac 1,400,8,2,False,True,0,good,8000
+Ariana,El Menzah 7,500,7,3,False,False,0,good,8000
+Tunis,Lac 1,350,8,2,False,True,0,good,8000
+Tunis,Gammarth,300,3,2,False,False,0,good,8000
+Tunis,Le Kram,492,1,4,True,False,0,good,8200
+Tunis,Lac 2,350,7,4,False,False,3,good,8200
+Tunis,Tunis,400,3,2,True,True,0,excellent,8300
+Tunis,Lac 1,357,6,4,True,False,0,good,8330
+Tunis,Lac 1,349,7,4,False,True,2,good,8441
+Tunis,Lac 1,360,7,4,True,True,0,good,8550
+Tunis,Lac 2,260,1,1,False,False,0,good,8900
+Tunis,Lac 1,345,0,2,True,True,0,good,9000
+Tunis,Lac 2,290,4,3,True,False,3,good,9200
+Tunis,Lac 1,250,0,4,True,True,1,good,9400
+Tunis,Lac 1,360,5,2,True,True,0,good,9500
+Tunis,Lac 2,289,4,3,True,True,2,excellent,9700
+Tunis,Lac 2,300,4,3,True,True,0,good,10000
+Tunis,Lac 2,350,1,4,True,True,0,good,10208
+Tunis,Jardins De Carthage,450,8,4,False,True,0,good,11000
+Tunis,Lac 2,550,2,4,False,False,0,good,16000

@@ -1,0 +1,128 @@
+
+
+<div class="container py-5">
+  <div class="row justify-content-center">
+    <div class="col-lg-9">
+
+      <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="h3 mb-0">
+          <i class="bi bi-plus-circle-fill me-2 text-primary"></i>
+          Add a Property
+        </h1>
+        <a routerLink="/properties" class="btn btn-outline-secondary btn-sm">
+          <i class="bi bi-arrow-left me-1"></i>Back to list
+        </a>
+      </div>
+
+      <div *ngIf="success" class="alert alert-success">
+        <i class="bi bi-check-circle-fill me-2"></i>
+        Property created successfully — redirecting...
+      </div>
+
+      <div *ngIf="error" class="alert alert-danger">
+        <i class="bi bi-exclamation-triangle-fill me-2"></i>{{ error }}
+      </div>
+
+      <div class="card shadow-sm border-0">
+        <div class="card-body p-4">
+          <form [formGroup]="form" (ngSubmit)="onSubmit()">
+
+            <!-- Location -->
+            <h5 class="text-primary mb-3 border-bottom pb-2">
+              <i class="bi bi-geo-alt-fill me-2"></i>Location
+            </h5>
+            <div class="row g-3 mb-4">
+              <div class="col-md-6">
+                <label class="form-label">Governorate *</label>
+                <select class="form-select" formControlName="governorate">
+                  <option *ngFor="let g of governorates" [value]="g">{{ g }}</option>
+                </select>
+              </div>
+              <div class="col-md-6">
+                <label class="form-label">City / Area *</label>
+                <select class="form-select" formControlName="city">
+                  <option *ngFor="let c of availableCities" [value]="c">{{ c }}</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Details -->
+            <h5 class="text-primary mb-3 border-bottom pb-2">
+              <i class="bi bi-house-fill me-2"></i>Details
+            </h5>
+            <div class="row g-3 mb-4">
+              <div class="col-md-4">
+                <label class="form-label">Surface (m²) *</label>
+                <input type="number" class="form-control" formControlName="surface"
+                       [class.is-invalid]="form.get('surface')?.invalid && form.get('surface')?.touched">
+                <div class="invalid-feedback">Enter a surface between 1 and 2000.</div>
+              </div>
+              <div class="col-md-2">
+                <label class="form-label">Bedrooms *</label>
+                <input type="number" class="form-control" formControlName="bedrooms"
+                       [class.is-invalid]="form.get('bedrooms')?.invalid && form.get('bedrooms')?.touched">
+              </div>
+              <div class="col-md-2">
+                <label class="form-label">Bathrooms *</label>
+                <input type="number" class="form-control" formControlName="bathrooms"
+                       [class.is-invalid]="form.get('bathrooms')?.invalid && form.get('bathrooms')?.touched">
+              </div>
+              <div class="col-md-2">
+                <label class="form-label">Floor</label>
+                <input type="number" class="form-control" formControlName="floor">
+              </div>
+              <div class="col-md-2">
+                <label class="form-label">Condition</label>
+                <select class="form-select" formControlName="condition">
+                  <option *ngFor="let c of conditions" [value]="c.value">{{ c.label }}</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Rent -->
+            <h5 class="text-primary mb-3 border-bottom pb-2">
+              <i class="bi bi-cash-coin me-2"></i>Rent
+            </h5>
+            <div class="row g-3 mb-4">
+              <div class="col-md-4">
+                <label class="form-label">Monthly Rent (TND) *</label>
+                <div class="input-group">
+                  <input type="number" class="form-control" formControlName="rent"
+                         [class.is-invalid]="form.get('rent')?.invalid && form.get('rent')?.touched">
+                  <span class="input-group-text">TND</span>
+                  <div class="invalid-feedback">Rent must be greater than 0.</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Amenities -->
+            <h5 class="text-primary mb-3 border-bottom pb-2">
+              <i class="bi bi-check2-square me-2"></i>Amenities
+            </h5>
+            <div class="row g-3 mb-4">
+              <div class="col-md-3 col-6" *ngFor="let a of amenities">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox"
+                         [formControlName]="a.key" [id]="'add-' + a.key">
+                  <label class="form-check-label" [for]="'add-' + a.key">{{ a.label }}</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="d-flex gap-2 justify-content-end">
+              <a routerLink="/properties" class="btn btn-light">Cancel</a>
+              <button type="submit" class="btn btn-primary" [disabled]="loading">
+                <span *ngIf="!loading">
+                  <i class="bi bi-save me-2"></i>Save Property
+                </span>
+                <span *ngIf="loading">
+                  <span class="spinner-border spinner-border-sm me-2"></span>Saving...
+                </span>
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

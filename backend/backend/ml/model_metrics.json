@@ -1,0 +1,21 @@
+{
+  "best_model": "Tier B \u00b7 LinearRegression",
+  "mae": 343.18,
+  "rmse": 471.28,
+  "r2": 0.5166,
+  "n_train": 3488,
+  "n_test": 872,
+  "features": [
+    "governorate",
+    "city",
+    "area",
+    "surface",
+    "bedrooms",
+    "bathrooms",
+    "furnished",
+    "parking",
+    "floor",
+    "condition"
+  ],
+  "log_target": true
+}

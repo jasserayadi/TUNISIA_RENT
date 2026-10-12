@@ -1,0 +1,39 @@
+{
+  "model_name": "Ridge",
+  "features": [
+    "governorate",
+    "city",
+    "surface",
+    "bedrooms",
+    "bathrooms"
+  ],
+  "target": "rent",
+  "log_target": false,
+  "n_rows": 4413,
+  "rent_mean": 1212.6147745297983,
+  "rent_median": 1000.0,
+  "metrics": [
+    {
+      "model": "Ridge",
+      "mae": 389.97,
+      "rmse": 536.03,
+      "r2": 0.4347,
+      "mape": 37.54
+    },
+    {
+      "model": "RandomForest",
+      "mae": 399.93,
+      "rmse": 559.21,
+      "r2": 0.3847,
+      "mape": 37.08
+    },
+    {
+      "model": "HistGradientBoosting",
+      "mae": 390.67,
+      "rmse": 551.36,
+      "r2": 0.4019,
+      "mape": 35.97
+    }
+  ],
+  "top_features": []
+}

@@ -1,0 +1,3390 @@
+governorate,city,surface,bedrooms,bathrooms,is_house,rent
+Ariana,Autres villes,80.0,2.0,1.0,0,380.0
+Ariana,Borj Louzir,100.0,2.0,1.0,0,670.0
+Ariana,Chotrana,220.0,5.0,3.0,1,2000.0
+Ariana,Borj Louzir,180.0,3.0,1.0,0,300.0
+Ariana,Ariana Ville,250.0,3.0,1.0,0,500.0
+Ariana,Ghazela,80.0,2.0,1.0,0,400.0
+Ariana,Ennasr,130.0,3.0,1.0,1,1250.0
+Ariana,Ghazela,90.0,1.0,1.0,0,175.0
+Ariana,Raoued,75.0,2.0,1.0,0,475.0
+Ariana,Autres villes,500.0,5.0,2.0,1,1000.0
+Ariana,Ennasr,80.0,2.0,1.0,0,90.0
+Ariana,Autres villes,450.0,5.0,2.0,1,2500.0
+Ariana,Ennasr,100.0,2.0,1.0,0,1000.0
+Ariana,Ghazela,80.0,2.0,1.0,0,420.0
+Ariana,Autres villes,110.0,1.0,2.0,0,1200.0
+Ariana,Ennasr,160.0,3.0,1.0,0,1200.0
+Ariana,Raoued,120.0,2.0,1.0,1,330.0
+Ariana,Autres villes,75.0,2.0,1.0,0,90.0
+Ariana,La Soukra,160.0,3.0,2.0,0,1360.0
+Ariana,Autres villes,108.0,2.0,1.0,0,90.0
+Ariana,Jardins D'el Menzah,130.0,3.0,1.0,1,1200.0
+Ariana,Ariana Ville,68.0,2.0,1.0,0,700.0
+Ariana,La Soukra,230.0,4.0,2.0,0,1800.0
+Ariana,Ghazela,100.0,2.0,1.0,0,490.0
+Ariana,Ariana,110.0,3.0,2.0,0,1000.0
+Ariana,Ennasr,65.0,1.0,1.0,0,800.0
+Ariana,La Soukra,83.0,1.0,1.0,0,950.0
+Ariana,Jardins D'el Menzah,120.0,2.0,2.0,0,1200.0
+Ariana,Borj Louzir,50.0,1.0,1.0,0,300.0
+Ariana,Ariana Ville,110.0,2.0,1.0,0,900.0
+Ariana,La Soukra,500.0,3.0,1.0,0,1360.0
+Ariana,Autres villes,200.0,2.0,1.0,1,130.0
+Ariana,Autres villes,27.0,1.0,1.0,0,70.0
+Ariana,Jardins D'el Menzah,70.0,1.0,1.0,0,830.0
+Ariana,Ennasr,120.0,2.0,2.0,0,100.0
+Ariana,Raoued,98.0,2.0,1.0,0,550.0
+Ariana,Borj Louzir,60.0,2.0,1.0,0,380.0
+Ariana,Ghazela,85.0,3.0,1.0,0,150.0
+Ariana,La Soukra,130.0,2.0,1.0,0,750.0
+Ariana,La Soukra,120.0,2.0,1.0,0,700.0
+Ariana,Autres villes,110.0,4.0,2.0,0,830.0
+Ariana,Autres villes,140.0,3.0,2.0,0,1400.0
+Ariana,Ghazela,130.0,2.0,1.0,1,650.0
+Ariana,Ennasr,110.0,4.0,1.0,1,1300.0
+Ariana,Autres villes,90.0,2.0,1.0,0,90.0
+Ariana,La Soukra,100.0,2.0,2.0,0,850.0
+Ariana,La Soukra,80.0,1.0,1.0,0,120.0
+Ariana,Jardins D'el Menzah,130.0,3.0,1.0,0,1400.0
+Ariana,La Soukra,90.0,3.0,1.0,1,470.0
+Ariana,La Soukra,85.0,1.0,1.0,0,950.0
+Ariana,Autres villes,130.0,3.0,1.0,0,120.0
+Ariana,Borj Louzir,80.0,3.0,1.0,0,450.0
+Ariana,Autres villes,350.0,4.0,2.0,1,1700.0
+Ariana,Autres villes,300.0,4.0,2.0,1,800.0
+Ariana,Ghazela,40.0,1.0,1.0,0,300.0
+Ariana,Chotrana,100.0,2.0,1.0,1,290.0
+Ariana,Ariana,80.0,2.0,1.0,1,380.0
+Ariana,Raoued,90.0,2.0,1.0,1,250.0
+Ariana,La Soukra,110.0,3.0,1.0,0,790.0
+Ariana,Raoued,100.0,2.0,1.0,0,400.0
+Ariana,La Soukra,130.0,3.0,1.0,1,370.0
+Ariana,Ariana,180.0,4.0,2.0,0,1200.0
+Ariana,Ariana,350.0,6.0,3.0,1,2850.0
+Ariana,Ariana,65.0,2.0,1.0,0,600.0
+Ariana,Borj Louzir,150.0,3.0,2.0,0,550.0
+Ariana,Ennasr,80.0,3.0,1.0,0,800.0
+Ariana,Ennasr,60.0,2.0,1.0,0,650.0
+Ariana,Mnihla,155.0,3.0,1.0,1,465.0
+Ariana,Autres villes,95.0,2.0,1.0,0,90.0
+Ariana,Ennasr,50.0,1.0,1.0,0,650.0
+Ariana,La Soukra,80.0,1.0,1.0,0,90.0
+Ariana,Mnihla,130.0,3.0,1.0,0,650.0
+Ariana,Ghazela,105.0,3.0,1.0,0,750.0
+Ariana,La Soukra,150.0,3.0,1.0,0,650.0
+Ariana,Autres villes,70.0,1.0,1.0,0,280.0
+Ariana,Ariana,90.0,2.0,1.0,0,750.0
+Ariana,Ghazela,100.0,4.0,1.0,1,530.0
+Ariana,Ariana,110.0,4.0,1.0,0,600.0
+Ariana,Ennasr,200.0,3.0,2.0,0,2300.0
+Ariana,Ennasr,140.0,2.0,2.0,0,1250.0
+Ariana,Ennasr,110.0,2.0,1.0,0,1100.0
+Ariana,Ennasr,150.0,2.0,2.0,0,1500.0
+Ariana,Raoued,85.0,3.0,1.0,0,330.0
+Ariana,La Soukra,135.0,3.0,2.0,0,900.0
+Ariana,La Soukra,130.0,3.0,2.0,0,1400.0
+Ariana,Jardins D'el Menzah,66.0,1.0,1.0,0,650.0
+Ariana,Ariana Ville,36.0,1.0,1.0,0,400.0
+Ariana,Autres villes,90.0,1.0,1.0,0,90.0
+Ariana,Ariana,80.0,2.0,1.0,0,580.0
+Ariana,Borj Louzir,100.0,2.0,1.0,0,230.0
+Ariana,Jardins D'el Menzah,60.0,1.0,1.0,0,650.0
+Ariana,La Soukra,100.0,2.0,1.0,0,800.0
+Ariana,Borj Louzir,100.0,3.0,1.0,0,700.0
+Ariana,Ennasr,190.0,3.0,3.0,0,2500.0
+Ariana,La Soukra,70.0,1.0,1.0,0,1350.0
+Ariana,La Soukra,100.0,2.0,1.0,0,850.0
+Ariana,Chotrana,140.0,3.0,2.0,0,1000.0
+Ariana,La Soukra,80.0,1.0,1.0,0,900.0
+Ariana,Jardins D'el Menzah,95.0,1.0,1.0,0,750.0
+Ariana,Ghazela,120.0,2.0,1.0,0,700.0
+Ariana,Ennasr,150.0,2.0,1.0,0,1400.0
+Ariana,Ennasr,50.0,1.0,1.0,0,500.0
+Ariana,Borj Louzir,70.0,2.0,1.0,0,480.0
+Ariana,Jardins D'el Menzah,130.0,3.0,2.0,0,950.0
+Ariana,Autres villes,85.0,3.0,1.0,0,900.0
+Ariana,Jardins D'el Menzah,45.0,1.0,1.0,0,500.0
+Ariana,La Soukra,80.0,1.0,1.0,0,750.0
+Ariana,Raoued,117.0,4.0,1.0,0,550.0
+Ariana,La Soukra,400.0,5.0,3.0,1,3700.0
+Ariana,La Soukra,350.0,4.0,3.0,1,3500.0
+Ariana,Ennasr,85.0,1.0,1.0,0,1000.0
+Ariana,Ariana,200.0,3.0,2.0,1,650.0
+Ariana,Ariana,90.0,2.0,1.0,0,800.0
+Ariana,La Soukra,130.0,3.0,2.0,0,1200.0
+Ariana,Chotrana,120.0,2.0,1.0,1,350.0
+Ariana,Raoued,160.0,3.0,2.0,1,310.0
+Ariana,La Soukra,110.0,3.0,1.0,1,750.0
+Ariana,Ariana Ville,150.0,4.0,2.0,0,1600.0
+Ariana,Ariana Ville,90.0,2.0,1.0,0,500.0
+Ariana,Ariana Ville,100.0,3.0,1.0,0,380.0
+Ariana,Autres villes,62.0,1.0,1.0,0,80.0
+Ariana,Ghazela,100.0,2.0,1.0,0,700.0
+Ariana,Ennasr,95.0,2.0,1.0,0,850.0
+Ariana,La Soukra,120.0,2.0,2.0,0,700.0
+Ariana,Autres villes,100.0,3.0,1.0,0,450.0
+Ariana,Borj Louzir,83.0,4.0,1.0,0,500.0
+Ariana,Borj Louzir,70.0,3.0,1.0,0,435.0
+Ariana,Borj Louzir,130.0,3.0,1.0,0,790.0
+Ariana,Ennasr,150.0,3.0,1.0,0,1200.0
+Ariana,Jardins D'el Menzah,140.0,3.0,2.0,1,1600.0
+Ariana,Borj Louzir,25.0,2.0,1.0,0,300.0
+Ariana,Ennasr,90.0,2.0,2.0,0,950.0
+Ariana,La Soukra,170.0,4.0,1.0,0,1250.0
+Ariana,La Soukra,164.0,3.0,2.0,0,1800.0
+Ariana,La Soukra,120.0,3.0,1.0,0,450.0
+Ariana,Raoued,85.0,2.0,1.0,0,300.0
+Ariana,Autres villes,130.0,3.0,2.0,0,800.0
+Ariana,La Soukra,130.0,3.0,1.0,0,130.0
+Ariana,Jardins D'el Menzah,145.0,3.0,3.0,0,610.0
+Ariana,Ennasr,130.0,4.0,1.0,0,1400.0
+Ariana,Ennasr,70.0,2.0,1.0,0,800.0
+Ariana,Ariana Ville,120.0,2.0,1.0,0,1200.0
+Ariana,Ennasr,175.0,3.0,2.0,0,1200.0
+Ariana,Jardins D'el Menzah,120.0,3.0,1.0,0,700.0
+Ariana,Ariana,240.0,3.0,3.0,1,1650.0
+Ariana,Raoued,90.0,2.0,1.0,1,300.0
+Ariana,La Soukra,120.0,3.0,3.0,0,1800.0
+Ariana,Autres villes,100.0,2.0,1.0,0,90.0
+Ariana,Jardins D'el Menzah,60.0,1.0,1.0,0,700.0
+Ariana,La Soukra,100.0,3.0,1.0,0,780.0
+Ariana,Ariana,100.0,2.0,1.0,0,400.0
+Ariana,La Soukra,120.0,3.0,1.0,1,450.0
+Ariana,Ariana Ville,140.0,3.0,1.0,0,900.0
+Ariana,Borj Louzir,110.0,4.0,2.0,0,790.0
+Ariana,Ariana Ville,150.0,4.0,1.0,0,250.0
+Ariana,Ghazela,120.0,2.0,1.0,0,800.0
+Ariana,Borj Louzir,120.0,3.0,1.0,0,500.0
+Ariana,La Soukra,130.0,4.0,2.0,0,820.0
+Ariana,Ghazela,147.0,3.0,2.0,0,1300.0
+Ariana,Autres villes,70.0,1.0,1.0,0,70.0
+Ariana,La Soukra,130.0,1.0,1.0,0,1000.0
+Ariana,La Soukra,119.0,2.0,1.0,0,1350.0
+Ariana,Ariana Ville,70.0,2.0,1.0,0,700.0
+Ariana,Chotrana,70.0,2.0,1.0,1,320.0
+Ariana,Mnihla,66.0,2.0,1.0,0,650.0
+Ariana,Autres villes,200.0,5.0,2.0,1,2000.0
+Ariana,Autres villes,80.0,2.0,1.0,0,400.0
+Ariana,La Soukra,140.0,4.0,2.0,0,1800.0
+Ariana,La Soukra,170.0,3.0,2.0,0,1800.0
+Ariana,Ghazela,100.0,2.0,1.0,0,800.0
+Ariana,Raoued,150.0,3.0,1.0,1,700.0
+Ariana,Raoued,70.0,1.0,1.0,0,260.0
+Ariana,Autres villes,110.0,3.0,1.0,0,600.0
+Ariana,Ariana Ville,110.0,3.0,1.0,0,650.0
+Ariana,Ghazela,75.0,2.0,1.0,0,370.0
+Ariana,Borj Louzir,92.0,2.0,1.0,0,480.0
+Ariana,Ghazela,45.0,1.0,1.0,0,500.0
+Ariana,Ghazela,147.0,4.0,2.0,0,1300.0
+Ariana,Ghazela,70.0,1.0,1.0,0,550.0
+Ariana,La Soukra,138.0,4.0,2.0,0,850.0
+Ariana,Autres villes,160.0,2.0,2.0,1,400.0
+Ariana,Autres villes,230.0,4.0,1.0,1,1720.0
+Ariana,Jardins D'el Menzah,100.0,2.0,1.0,0,850.0
+Ariana,Ghazela,120.0,3.0,2.0,1,500.0
+Ariana,Jardins D'el Menzah,85.0,2.0,1.0,0,420.0
+Ariana,Raoued,30.0,1.0,1.0,0,140.0
+Ariana,Borj Louzir,100.0,4.0,1.0,0,700.0
+Ariana,Jardins D'el Menzah,180.0,2.0,2.0,1,1200.0
+Ariana,Jardins D'el Menzah,247.0,3.0,2.0,1,1500.0
+Ariana,Borj Louzir,105.0,3.0,1.0,0,470.0
+Ariana,Ghazela,120.0,3.0,1.0,0,800.0
+Ariana,Ennasr,100.0,1.0,1.0,0,100.0
+Ariana,Ariana,200.0,2.0,1.0,0,800.0
+Ariana,La Soukra,120.0,4.0,2.0,0,650.0
+Ariana,Ennasr,300.0,7.0,4.0,1,1800.0
+Ariana,La Soukra,100.0,2.0,1.0,0,680.0
+Ariana,Ennasr,65.0,2.0,1.0,0,800.0
+Ariana,Ariana,90.0,1.0,1.0,0,450.0
+Ariana,Jardins D'el Menzah,330.0,6.0,4.0,1,2000.0
+Ariana,Ghazela,80.0,2.0,1.0,0,550.0
+Ariana,Autres villes,70.0,2.0,1.0,0,490.0
+Ariana,La Soukra,120.0,3.0,1.0,0,1400.0
+Ariana,Autres villes,100.0,3.0,1.0,0,700.0
+Ariana,La Soukra,230.0,3.0,2.0,0,800.0
+Ariana,Autres villes,65.0,2.0,1.0,0,800.0
+Ariana,Ennasr,80.0,2.0,2.0,0,90.0
+Ariana,Borj Louzir,90.0,3.0,1.0,1,600.0
+Ariana,Other,200.0,2.0,1.0,1,130.0
+Ariana,Ariana,110.0,3.0,1.0,0,600.0
+Ariana,Borj Louzir,99.0,3.0,1.0,0,650.0
+Ariana,Ariana Ville,160.0,3.0,1.0,0,850.0
+Ariana,Jardins D'el Menzah,152.0,4.0,2.0,1,1200.0
+Ariana,Autres villes,120.0,4.0,2.0,1,475.0
+Ariana,Ennasr,30.0,1.0,2.0,0,250.0
+Ariana,Ennasr,140.0,3.0,2.0,0,1500.0
+Ariana,Raoued,55.0,1.0,1.0,0,300.0
+Ariana,La Soukra,170.0,3.0,1.0,0,1300.0
+Ariana,Ennasr,55.0,1.0,1.0,0,800.0
+Ariana,Raoued,120.0,2.0,1.0,0,330.0
+Ariana,Ennasr,60.0,1.0,1.0,0,70.0
+Ariana,Ennasr,78.0,1.0,1.0,0,1050.0
+Ariana,La Soukra,65.0,1.0,1.0,0,400.0
+Ariana,Autres villes,100.0,2.0,2.0,0,700.0
+Ariana,Jardins D'el Menzah,130.0,4.0,1.0,1,1200.0
+Ariana,La Soukra,402.0,4.0,2.0,1,3800.0
+Ariana,La Soukra,60.0,1.0,1.0,0,900.0
+Ariana,Ennasr,40.0,1.0,1.0,0,800.0
+Ariana,Ghazela,300.0,3.0,2.0,1,1000.0
+Ariana,La Soukra,97.0,2.0,1.0,0,1200.0
+Ariana,Borj Louzir,80.0,3.0,1.0,0,480.0
+Ariana,Autres villes,120.0,1.0,1.0,0,550.0
+Ariana,Autres villes,120.0,3.0,2.0,0,1300.0
+Ariana,Jardins D'el Menzah,130.0,3.0,2.0,0,1400.0
+Ariana,Ghazela,60.0,2.0,1.0,0,700.0
+Ariana,Ennasr,105.0,3.0,1.0,0,800.0
+Ariana,Raoued,120.0,4.0,1.0,1,950.0
+Ariana,Autres villes,65.0,1.0,1.0,0,600.0
+Ariana,Autres villes,120.0,3.0,1.0,1,450.0
+Ariana,Autres villes,100.0,3.0,1.0,0,550.0
+Ariana,Ennasr,90.0,2.0,1.0,0,90.0
+Ariana,Ennasr,131.0,3.0,3.0,0,1750.0
+Ariana,Jardins D'el Menzah,115.0,3.0,1.0,0,735.0
+Ariana,Ennasr,83.0,3.0,1.0,0,700.0
+Ariana,Autres villes,120.0,2.0,1.0,0,500.0
+Ariana,La Soukra,750.0,5.0,3.0,1,3000.0
+Ariana,Ghazela,100.0,3.0,1.0,0,450.0
+Ariana,Ghazela,100.0,3.0,1.0,0,460.0
+Ariana,La Soukra,100.0,2.0,1.0,0,2300.0
+Ariana,Borj Louzir,70.0,2.0,1.0,0,450.0
+Ariana,Autres villes,165.0,3.0,2.0,0,180.0
+Ariana,Jardins D'el Menzah,110.0,3.0,1.0,0,700.0
+Ariana,Autres villes,160.0,2.0,1.0,1,750.0
+Ariana,Autres villes,60.0,1.0,1.0,0,700.0
+Ariana,Autres villes,150.0,3.0,2.0,0,900.0
+Ariana,Autres villes,60.0,2.0,1.0,0,400.0
+Ariana,Ghazela,120.0,2.0,1.0,0,550.0
+Ariana,Ennasr,50.0,2.0,1.0,0,800.0
+Ariana,Other,450.0,4.0,2.0,1,700.0
+Ariana,Ariana Ville,80.0,2.0,1.0,0,550.0
+Ariana,Autres villes,105.0,3.0,1.0,0,90.0
+Ariana,Jardins D'el Menzah,150.0,4.0,1.0,0,1050.0
+Ariana,Ennasr,120.0,3.0,1.0,0,700.0
+Ariana,Ariana,130.0,2.0,1.0,0,850.0
+Ariana,Ghazela,90.0,2.0,1.0,0,750.0
+Ariana,Ariana Ville,150.0,3.0,1.0,0,900.0
+Ariana,La Soukra,100.0,2.0,2.0,0,500.0
+Ariana,Borj Louzir,200.0,3.0,1.0,1,870.0
+Ariana,La Soukra,77.0,1.0,1.0,0,1100.0
+Ariana,La Soukra,90.0,1.0,1.0,0,800.0
+Ariana,La Soukra,110.0,2.0,2.0,0,1350.0
+Ariana,La Soukra,113.0,2.0,2.0,0,1400.0
+Ariana,La Soukra,83.0,2.0,1.0,0,900.0
+Ariana,La Soukra,120.0,2.0,2.0,0,1400.0
+Ariana,La Soukra,130.0,2.0,2.0,0,1450.0
+Ariana,Ariana,150.0,4.0,1.0,1,1150.0
+Ariana,Ariana,220.0,5.0,2.0,1,1450.0
+Ariana,La Soukra,110.0,2.0,2.0,1,850.0
+Ariana,Ennasr,130.0,2.0,1.0,0,1800.0
+Ariana,Ariana,120.0,2.0,2.0,0,700.0
+Ariana,Ennasr,70.0,1.0,1.0,0,800.0
+Ariana,Borj Louzir,200.0,4.0,1.0,0,870.0
+Ariana,Ennasr,200.0,3.0,2.0,0,2500.0
+Ariana,Ennasr,80.0,1.0,1.0,0,100.0
+Ariana,Ennasr,90.0,2.0,1.0,0,80.0
+Ariana,Jardins D'el Menzah,75.0,2.0,1.0,0,850.0
+Ariana,La Soukra,200.0,4.0,2.0,1,1600.0
+Ariana,Ennasr,70.0,2.0,1.0,0,80.0
+Ariana,Ennasr,120.0,4.0,2.0,0,1250.0
+Ariana,Autres villes,68.0,1.0,1.0,0,650.0
+Ariana,La Soukra,85.0,2.0,1.0,0,600.0
+Ariana,Ghazela,115.0,3.0,1.0,0,850.0
+Ariana,Ghazela,70.0,2.0,1.0,0,600.0
+Ariana,Chotrana,100.0,2.0,1.0,0,850.0
+Ariana,Ghazela,99.0,1.0,1.0,1,150.0
+Ariana,Ennasr,58.0,1.0,1.0,0,860.0
+Ariana,Ghazela,250.0,3.0,2.0,1,900.0
+Ariana,Ennasr,87.0,1.0,1.0,0,800.0
+Ariana,Autres villes,90.0,3.0,1.0,0,100.0
+Ariana,Borj Louzir,80.0,2.0,1.0,0,400.0
+Ariana,Raoued,80.0,1.0,1.0,1,350.0
+Ariana,Borj Louzir,80.0,3.0,1.0,0,400.0
+Ariana,Ariana Ville,120.0,2.0,1.0,0,700.0
+Ariana,Raoued,100.0,4.0,1.0,0,475.0
+Ariana,Ennasr,140.0,1.0,2.0,0,1250.0
+Ariana,Ennasr,150.0,3.0,1.0,0,900.0
+Ariana,Ghazela,70.0,2.0,1.0,0,900.0
+Ariana,Ariana Ville,120.0,3.0,1.0,0,650.0
+Ariana,Borj Louzir,200.0,5.0,1.0,1,870.0
+Ariana,Ennasr,22.0,1.0,1.0,0,70.0
+Ariana,Ariana,75.0,1.0,1.0,0,900.0
+Ariana,Autres villes,20.0,1.0,1.0,0,270.0
+Ariana,La Soukra,200.0,4.0,2.0,1,2500.0
+Ariana,Borj Louzir,90.0,3.0,1.0,1,500.0
+Ariana,Ariana,65.0,2.0,1.0,0,700.0
+Ariana,Autres villes,50.0,1.0,1.0,0,800.0
+Ariana,Ghazela,100.0,3.0,1.0,0,600.0
+Ariana,Ariana,100.0,3.0,1.0,0,600.0
+Ariana,Ariana,90.0,3.0,1.0,0,800.0
+Ariana,Borj Louzir,100.0,2.0,1.0,0,500.0
+Ariana,Autres villes,125.0,2.0,1.0,0,90.0
+Ariana,Autres villes,150.0,3.0,1.0,0,380.0
+Ariana,Jardins D'el Menzah,80.0,1.0,1.0,1,600.0
+Ariana,Borj Louzir,105.0,4.0,1.0,0,700.0
+Ariana,La Soukra,110.0,2.0,1.0,0,850.0
+Ariana,Jardins D'el Menzah,80.0,1.0,1.0,1,400.0
+Ariana,Borj Louzir,150.0,2.0,1.0,0,240.0
+Ariana,Borj Louzir,108.0,3.0,2.0,0,520.0
+Ariana,Ghazela,50.0,1.0,1.0,0,900.0
+Ariana,Autres villes,100.0,3.0,1.0,0,380.0
+Ariana,Jardins D'el Menzah,200.0,4.0,2.0,1,1050.0
+Ariana,La Soukra,140.0,2.0,2.0,1,850.0
+Ariana,Ariana,140.0,4.0,2.0,0,900.0
+Ariana,Ennasr,120.0,4.0,1.0,0,750.0
+Ariana,La Soukra,100.0,3.0,1.0,0,1200.0
+Ariana,Autres villes,80.0,3.0,1.0,0,550.0
+Ariana,Jardins D'el Menzah,115.0,3.0,2.0,0,830.0
+Ariana,Autres villes,200.0,4.0,1.0,1,650.0
+Ariana,Ennasr,110.0,2.0,1.0,0,2000.0
+Ariana,Autres villes,110.0,3.0,1.0,1,120.0
+Ariana,Jardins D'el Menzah,90.0,2.0,1.0,0,90.0
+Ariana,Jardins D'el Menzah,115.0,3.0,1.0,0,830.0
+Ariana,Ghazela,60.0,1.0,1.0,0,580.0
+Ariana,La Soukra,90.0,2.0,1.0,0,550.0
+Ariana,La Soukra,125.0,2.0,1.0,0,1500.0
+Ariana,Jardins D'el Menzah,210.0,3.0,1.0,1,2200.0
+Ariana,Autres villes,70.0,3.0,1.0,0,450.0
+Ariana,Autres villes,95.0,2.0,1.0,0,750.0
+Ariana,La Soukra,95.0,1.0,1.0,0,1350.0
+Ariana,La Soukra,105.0,1.0,1.0,0,1100.0
+Ariana,Borj Louzir,100.0,3.0,1.0,0,550.0
+Ariana,La Soukra,95.0,1.0,1.0,0,1000.0
+Ariana,Borj Louzir,100.0,3.0,1.0,0,600.0
+Ariana,Ghazela,70.0,1.0,1.0,0,600.0
+Ariana,Ariana,160.0,4.0,2.0,1,1650.0
+Ariana,Ennasr,120.0,2.0,1.0,0,1200.0
+Ariana,Jardins D'el Menzah,70.0,1.0,1.0,0,700.0
+Ariana,Borj Louzir,150.0,2.0,1.0,0,350.0
+Ariana,Jardins D'el Menzah,150.0,3.0,2.0,1,800.0
+Ariana,Ennasr,75.0,2.0,1.0,0,700.0
+Ariana,Ennasr,70.0,2.0,1.0,0,1380.0
+Ariana,La Soukra,100.0,3.0,1.0,0,750.0
+Ariana,La Soukra,70.0,1.0,1.0,0,900.0
+Ariana,Jardins D'el Menzah,100.0,4.0,1.0,0,600.0
+Ariana,La Soukra,90.0,2.0,1.0,0,780.0
+Ariana,La Soukra,102.0,2.0,1.0,0,780.0
+Ariana,Borj Louzir,80.0,2.0,1.0,0,500.0
+Ariana,Ennasr,100.0,3.0,2.0,0,120.0
+Ariana,La Soukra,140.0,3.0,2.0,1,900.0
+Ariana,Autres villes,150.0,2.0,1.0,0,680.0
+Ariana,La Soukra,120.0,2.0,1.0,1,150.0
+Ariana,Autres villes,120.0,4.0,1.0,0,850.0
+Ariana,Ghazela,110.0,2.0,1.0,0,840.0
+Ariana,Autres villes,100.0,3.0,1.0,1,300.0
+Ariana,Autres villes,125.0,3.0,2.0,0,850.0
+Ariana,Borj Louzir,100.0,3.0,1.0,0,170.0
+Ariana,Autres villes,120.0,3.0,1.0,0,650.0
+Ariana,La Soukra,150.0,3.0,2.0,0,950.0
+Ariana,Autres villes,150.0,4.0,2.0,1,700.0
+Ariana,La Soukra,400.0,5.0,2.0,1,3000.0
+Ariana,La Soukra,200.0,4.0,3.0,1,3000.0
+Ariana,Borj Louzir,400.0,3.0,1.0,1,168.0
+Ariana,Jardins D'el Menzah,120.0,3.0,1.0,0,600.0
+Ariana,Borj Louzir,100.0,2.0,1.0,0,450.0
+Ariana,Jardins D'el Menzah,120.0,3.0,1.0,0,750.0
+Ariana,Ennasr,100.0,2.0,1.0,0,1100.0
+Ariana,Ennasr,150.0,3.0,2.0,0,1550.0
+Ariana,La Soukra,100.0,2.0,1.0,0,1200.0
+Ariana,Borj Louzir,80.0,2.0,1.0,0,600.0
+Ariana,Borj Louzir,145.0,3.0,1.0,1,800.0
+Ariana,Ennasr,60.0,2.0,1.0,0,1100.0
+Ariana,Ariana,60.0,1.0,1.0,0,650.0
+Ariana,Autres villes,160.0,2.0,1.0,0,330.0
+Ariana,Ennasr,100.0,2.0,2.0,1,1000.0
+Ariana,La Soukra,130.0,3.0,1.0,0,1000.0
+Ariana,Ghazela,40.0,1.0,1.0,0,450.0
+Ariana,Borj Louzir,80.0,2.0,1.0,0,450.0
+Ariana,Ghazela,50.0,1.0,1.0,0,400.0
+Ariana,Jardins D'el Menzah,100.0,2.0,1.0,0,1000.0
+Ariana,Autres villes,100.0,2.0,1.0,1,380.0
+Ariana,Raoued,90.0,2.0,1.0,0,420.0
+Ariana,Autres villes,120.0,3.0,2.0,0,1200.0
+Ariana,Ennasr,290.0,7.0,4.0,1,2500.0
+Ariana,Ennasr,160.0,3.0,2.0,0,1480.0
+Ariana,La Soukra,130.0,2.0,1.0,0,500.0
+Ariana,Borj Louzir,100.0,2.0,1.0,0,350.0
+Ariana,Ennasr,300.0,7.0,3.0,1,2300.0
+Ariana,Ennasr,400.0,7.0,3.0,1,2300.0
+Ariana,Ennasr,50.0,1.0,1.0,0,70.0
+Ariana,Borj Louzir,70.0,2.0,1.0,0,360.0
+Ariana,La Soukra,85.0,3.0,1.0,0,650.0
+Ariana,La Soukra,100.0,2.0,1.0,1,850.0
+Ariana,Ariana Ville,110.0,2.0,1.0,0,950.0
+Ariana,Borj Louzir,120.0,3.0,1.0,0,600.0
+Ariana,Ghazela,100.0,3.0,1.0,0,550.0
+Ariana,La Soukra,116.0,3.0,2.0,0,1400.0
+Ariana,Mnihla,85.0,3.0,1.0,0,430.0
+Ariana,Borj Louzir,130.0,2.0,1.0,1,550.0
+Ariana,Jardins D'el Menzah,260.0,3.0,2.0,1,1500.0
+Ariana,La Soukra,116.0,3.0,3.0,0,1400.0
+Ariana,Jardins D'el Menzah,80.0,2.0,1.0,1,450.0
+Ariana,Ghazela,100.0,3.0,1.0,0,680.0
+Ariana,Ariana Ville,80.0,2.0,1.0,1,400.0
+Ariana,Autres villes,80.0,3.0,1.0,1,280.0
+Ariana,Jardins D'el Menzah,65.0,2.0,1.0,0,500.0
+Ariana,Ennasr,100.0,3.0,2.0,0,900.0
+Ariana,Ghazela,100.0,2.0,1.0,0,750.0
+Ariana,Ariana Ville,180.0,3.0,1.0,1,1200.0
+Ariana,Mnihla,130.0,3.0,2.0,0,600.0
+Ariana,La Soukra,45.0,1.0,1.0,0,670.0
+Ariana,Ariana Ville,60.0,2.0,1.0,0,600.0
+Ariana,La Soukra,180.0,3.0,3.0,0,2000.0
+Ariana,Borj Louzir,40.0,1.0,1.0,0,320.0
+Ariana,Ennasr,100.0,2.0,1.0,0,950.0
+Ariana,Autres villes,128.0,4.0,2.0,0,800.0
+Ariana,Raoued,140.0,2.0,1.0,1,450.0
+Ariana,La Soukra,150.0,3.0,2.0,0,1350.0
+Ariana,Ennasr,70.0,1.0,1.0,0,80.0
+Ariana,Ennasr,65.0,1.0,1.0,0,80.0
+Ariana,Ariana Ville,120.0,2.0,1.0,0,850.0
+Ariana,La Soukra,35.0,1.0,1.0,0,1100.0
+Ariana,Jardins D'el Menzah,180.0,4.0,1.0,1,550.0
+Ariana,Ghazela,70.0,1.0,1.0,0,180.0
+Ariana,Jardins D'el Menzah,70.0,1.0,1.0,0,1100.0
+Ariana,La Soukra,170.0,4.0,1.0,1,600.0
+Ariana,Ariana,200.0,3.0,1.0,1,250.0
+Ariana,La Soukra,170.0,4.0,2.0,1,1500.0
+Ariana,Mnihla,150.0,2.0,1.0,0,270.0
+Ariana,La Soukra,240.0,4.0,2.0,1,1700.0
+Ariana,La Soukra,150.0,3.0,2.0,0,1300.0
+Ariana,La Soukra,203.0,4.0,3.0,0,1500.0
+Ariana,Ghazela,80.0,2.0,1.0,0,470.0
+Ariana,La Soukra,80.0,2.0,1.0,0,1000.0
+Ariana,Ennasr,100.0,4.0,3.0,0,1500.0
+Ariana,Ennasr,80.0,1.0,1.0,0,90.0
+Ariana,Ghazela,120.0,4.0,1.0,1,1000.0
+Ariana,La Soukra,100.0,2.0,1.0,0,1800.0
+Ariana,Jardins D'el Menzah,130.0,2.0,2.0,0,1150.0
+Ariana,Jardins D'el Menzah,140.0,3.0,2.0,0,1235.0
+Ariana,La Soukra,110.0,2.0,1.0,0,1400.0
+Ariana,Ennasr,70.0,1.0,1.0,0,550.0
+Ariana,Raoued,363.0,4.0,2.0,1,650.0
+Ariana,Jardins D'el Menzah,150.0,2.0,1.0,1,850.0
+Ariana,La Soukra,80.0,2.0,1.0,0,650.0
+Ariana,Ariana,200.0,3.0,1.0,0,580.0
+Ariana,Ariana Ville,110.0,2.0,1.0,0,750.0
+Ariana,La Soukra,50.0,2.0,1.0,0,550.0
+Ariana,Raoued,200.0,3.0,2.0,1,1500.0
+Ariana,Autres villes,240.0,3.0,2.0,1,1000.0
+Ariana,Ennasr,65.0,1.0,1.0,0,75.0
+Ariana,Borj Louzir,300.0,2.0,1.0,1,500.0
+Ariana,Mnihla,100.0,2.0,1.0,1,350.0
+Ariana,La Soukra,140.0,3.0,3.0,0,1500.0
+Ariana,La Soukra,110.0,3.0,2.0,0,1060.0
+Ariana,Borj Louzir,120.0,3.0,1.0,1,350.0
+Ariana,Jardins D'el Menzah,60.0,1.0,1.0,0,1200.0
+Ariana,Ghazela,56.0,1.0,1.0,0,900.0
+Ariana,Ennasr,170.0,3.0,1.0,0,1100.0
+Ariana,Jardins D'el Menzah,52.0,1.0,1.0,0,600.0
+Ariana,Ariana,105.0,2.0,1.0,0,840.0
+Ariana,Borj Louzir,100.0,3.0,1.0,1,350.0
+Ariana,Autres villes,100.0,2.0,1.0,0,520.0
+Ariana,La Soukra,90.0,1.0,1.0,0,350.0
+Ariana,Ghazela,500.0,5.0,2.0,1,800.0
+Ariana,Autres villes,110.0,3.0,1.0,0,750.0
+Ariana,Raoued,540.0,3.0,1.0,1,500.0
+Ariana,Borj Louzir,90.0,2.0,1.0,0,600.0
+Ariana,Autres villes,90.0,2.0,1.0,0,570.0
+Ariana,Autres villes,100.0,4.0,1.0,0,750.0
+Ariana,Autres villes,40.0,2.0,1.0,0,600.0
+Ariana,Ariana,105.0,3.0,1.0,0,840.0
+Ariana,Autres villes,80.0,2.0,1.0,0,470.0
+Ariana,Autres villes,70.0,2.0,1.0,0,300.0
+Ariana,Borj Louzir,100.0,3.0,1.0,0,250.0
+Ariana,La Soukra,116.0,3.0,3.0,0,1500.0
+Ariana,Autres villes,150.0,3.0,1.0,1,480.0
+Ariana,Autres villes,65.0,2.0,1.0,0,90.0
+Ariana,Autres villes,138.0,4.0,3.0,0,1100.0
+Ariana,Borj Louzir,100.0,3.0,2.0,1,550.0
+Ariana,Ennasr,120.0,2.0,1.0,1,1650.0
+Ariana,Borj Louzir,72.0,3.0,1.0,0,380.0
+Ariana,Ennasr,70.0,1.0,1.0,0,1100.0
+Ariana,Ennasr,115.0,2.0,2.0,0,1600.0
+Ariana,Chotrana,95.0,3.0,1.0,0,560.0
+Ariana,Autres villes,95.0,3.0,1.0,0,275.0
+Ariana,Chotrana,85.0,2.0,1.0,0,600.0
+Ariana,Ghazela,140.0,2.0,1.0,1,700.0
+Ariana,Ariana Ville,130.0,3.0,1.0,0,900.0
+Ariana,Ennasr,160.0,3.0,2.0,0,1100.0
+Ariana,La Soukra,600.0,5.0,1.0,1,4500.0
+Ariana,Ghazela,110.0,3.0,2.0,0,900.0
+Ariana,La Soukra,140.0,4.0,1.0,0,1250.0
+Ariana,Borj Louzir,111.0,2.0,1.0,0,180.0
+Ariana,Ennasr,80.0,3.0,1.0,0,1100.0
+Ariana,La Soukra,90.0,3.0,2.0,0,750.0
+Ariana,Autres villes,58.0,2.0,1.0,0,720.0
+Ariana,Borj Louzir,75.0,2.0,1.0,0,340.0
+Ariana,Autres villes,80.0,2.0,1.0,1,80.0
+Ariana,Autres villes,100.0,3.0,1.0,0,90.0
+Ariana,Ennasr,120.0,2.0,2.0,0,1650.0
+Ariana,La Soukra,300.0,3.0,2.0,0,1250.0
+Ariana,La Soukra,55.0,2.0,1.0,0,750.0
+Ariana,Autres villes,30.0,1.0,1.0,0,350.0
+Ariana,Ennasr,70.0,2.0,1.0,0,90.0
+Ariana,Ennasr,100.0,2.0,1.0,0,110.0
+Ariana,Ariana,75.0,3.0,1.0,0,900.0
+Ariana,Raoued,140.0,5.0,1.0,1,700.0
+Ariana,La Soukra,70.0,2.0,1.0,0,60.0
+Ariana,La Soukra,90.0,1.0,1.0,0,430.0
+Ariana,Autres villes,90.0,2.0,1.0,1,320.0
+Ariana,Ghazela,110.0,2.0,1.0,0,730.0
+Ariana,Ariana,100.0,3.0,1.0,1,800.0
+Ariana,Borj Louzir,150.0,3.0,1.0,0,480.0
+Ariana,Ennasr,340.0,5.0,2.0,1,1800.0
+Ariana,Ennasr,105.0,2.0,1.0,0,1500.0
+Ariana,Autres villes,65.0,2.0,1.0,0,1100.0
+Ariana,Ariana Ville,60.0,1.0,1.0,0,500.0
+Ariana,Ennasr,55.0,1.0,1.0,0,900.0
+Ariana,Autres villes,70.0,1.0,2.0,0,1200.0
+Ariana,Raoued,100.0,3.0,1.0,0,520.0
+Ariana,Ariana,97.0,2.0,1.0,0,600.0
+Ariana,Ennasr,100.0,2.0,1.0,0,120.0
+Ariana,Ennasr,70.0,1.0,1.0,0,90.0
+Ariana,La Soukra,120.0,2.0,1.0,0,800.0
+Ariana,Ghazela,240.0,4.0,3.0,1,1500.0
+Ariana,Chotrana,220.0,4.0,2.0,1,690.0
+Ariana,Chotrana,220.0,4.0,2.0,1,700.0
+Ariana,Ariana Ville,97.0,3.0,1.0,0,600.0
+Ariana,Ennasr,30.0,1.0,2.0,0,400.0
+Ariana,Raoued,120.0,3.0,1.0,1,250.0
+Ariana,Ariana,110.0,2.0,1.0,0,550.0
+Ariana,Autres villes,50.0,2.0,1.0,0,100.0
+Ariana,La Soukra,190.0,3.0,2.0,0,1500.0
+Ariana,La Soukra,90.0,1.0,1.0,0,1050.0
+Ariana,Ennasr,100.0,3.0,2.0,1,1000.0
+Ariana,Autres villes,38.0,2.0,2.0,0,120.0
+Ariana,Ennasr,130.0,3.0,1.0,0,850.0
+Ariana,Autres villes,100.0,2.0,2.0,1,550.0
+Ariana,La Soukra,140.0,3.0,1.0,0,1100.0
+Ariana,Ghazela,80.0,2.0,1.0,0,500.0
+Ariana,Ghazela,100.0,3.0,1.0,0,360.0
+Ariana,La Soukra,140.0,3.0,1.0,1,700.0
+Ariana,Ennasr,90.0,2.0,1.0,0,850.0
+Ariana,Ariana,200.0,4.0,2.0,0,1500.0
+Ariana,Borj Louzir,110.0,3.0,1.0,0,800.0
+Ariana,Ariana,80.0,2.0,1.0,0,520.0
+Ariana,Autres villes,60.0,1.0,1.0,0,70.0
+Ariana,Autres villes,110.0,3.0,2.0,0,100.0
+Ariana,Autres villes,450.0,5.0,4.0,1,4000.0
+Ariana,La Soukra,80.0,3.0,1.0,0,680.0
+Ariana,La Soukra,80.0,3.0,1.0,0,700.0
+Ariana,Ennasr,200.0,3.0,1.0,0,1800.0
+Ariana,Ennasr,78.0,2.0,1.0,0,1050.0
+Ariana,Ennasr,130.0,4.0,1.0,0,1500.0
+Ariana,Ariana,80.0,3.0,1.0,1,500.0
+Ariana,Autres villes,45.0,1.0,1.0,0,100.0
+Ariana,Autres villes,100.0,2.0,1.0,0,150.0
+Ariana,Autres villes,150.0,2.0,1.0,1,90.0
+Ariana,Ghazela,110.0,3.0,1.0,0,535.0
+Ariana,Chotrana,120.0,3.0,1.0,0,350.0
+Ariana,Jardins D'el Menzah,188.0,3.0,2.0,1,700.0
+Ariana,Chotrana,150.0,3.0,2.0,0,1000.0
+Ariana,Raoued,92.0,3.0,1.0,0,530.0
+Ariana,Ariana,146.0,4.0,2.0,0,750.0
+Ariana,Ennasr,70.0,1.0,1.0,0,1050.0
+Ariana,Ennasr,165.0,4.0,3.0,0,2500.0
+Ariana,La Soukra,80.0,1.0,1.0,0,1200.0
+Ariana,Borj Louzir,180.0,3.0,2.0,0,1150.0
+Ariana,La Soukra,85.0,3.0,1.0,0,750.0
+Ariana,La Soukra,180.0,3.0,3.0,0,2200.0
+Ariana,Autres villes,85.0,3.0,1.0,0,600.0
+Ariana,Ariana,170.0,3.0,2.0,0,1300.0
+Ariana,Ghazela,70.0,2.0,1.0,0,350.0
+Ariana,Ennasr,180.0,4.0,2.0,0,1600.0
+Ariana,Ennasr,58.0,1.0,1.0,0,750.0
+Ariana,Ennasr,148.0,3.0,2.0,0,1480.0
+Ariana,Autres villes,70.0,1.0,1.0,1,325.0
+Ariana,Ennasr,80.0,2.0,1.0,0,1050.0
+Ariana,Ennasr,90.0,3.0,1.0,0,900.0
+Ariana,Ennasr,112.0,3.0,1.0,0,900.0
+Ariana,Ennasr,65.0,2.0,1.0,0,750.0
+Ariana,Borj Louzir,600.0,3.0,1.0,1,168.0
+Ariana,Ennasr,60.0,2.0,1.0,0,750.0
+Ariana,Borj Louzir,120.0,3.0,2.0,0,850.0
+Ariana,Autres villes,40.0,1.0,1.0,0,100.0
+Ariana,Jardins D'el Menzah,130.0,2.0,2.0,1,700.0
+Ariana,Ennasr,150.0,2.0,2.0,0,1800.0
+Ariana,Autres villes,75.0,2.0,1.0,0,550.0
+Ariana,La Soukra,300.0,8.0,4.0,1,4000.0
+Ariana,Ariana,160.0,3.0,1.0,0,850.0
+Ariana,Ghazela,50.0,1.0,1.0,0,350.0
+Ariana,Ariana Ville,30.0,1.0,1.0,0,70.0
+Ariana,La Soukra,110.0,3.0,1.0,0,1200.0
+Ariana,Ennasr,115.0,2.0,2.0,1,1600.0
+Ariana,Ennasr,110.0,2.0,1.0,0,1200.0
+Ariana,Ennasr,120.0,2.0,2.0,0,1200.0
+Ariana,La Soukra,90.0,2.0,1.0,0,600.0
+Ariana,Ghazela,140.0,4.0,1.0,1,700.0
+Ariana,Ennasr,140.0,4.0,1.0,1,1200.0
+Ariana,La Soukra,140.0,2.0,1.0,0,550.0
+Ariana,Ennasr,75.0,3.0,1.0,0,450.0
+Ariana,Autres villes,100.0,3.0,1.0,1,500.0
+Ariana,Autres villes,55.0,1.0,1.0,0,55.0
+Ariana,Borj Louzir,60.0,2.0,1.0,0,500.0
+Ariana,Autres villes,140.0,3.0,1.0,1,400.0
+Ariana,Raoued,105.0,3.0,1.0,1,400.0
+Ariana,Autres villes,101.0,2.0,1.0,0,700.0
+Ariana,Autres villes,180.0,4.0,2.0,1,800.0
+Ariana,Autres villes,250.0,3.0,3.0,0,3500.0
+Ariana,Jardins D'el Menzah,100.0,3.0,1.0,1,540.0
+Ariana,Ennasr,120.0,2.0,2.0,0,1300.0
+Ariana,Autres villes,30.0,2.0,1.0,0,350.0
+Ariana,Borj Louzir,130.0,3.0,2.0,0,790.0
+Ariana,Ennasr,80.0,1.0,1.0,0,990.0
+Ariana,Ennasr,120.0,2.0,2.0,0,2000.0
+Ariana,Jardins D'el Menzah,140.0,1.0,1.0,0,1150.0
+Ariana,Raoued,180.0,4.0,3.0,1,500.0
+Ariana,La Soukra,60.0,2.0,1.0,0,770.0
+Ariana,Chotrana,148.0,2.0,1.0,0,800.0
+Ariana,Ennasr,80.0,2.0,2.0,0,1050.0
+Ariana,Ghazela,94.0,1.0,1.0,0,750.0
+Ariana,Ennasr,70.0,2.0,1.0,0,1300.0
+Ariana,Autres villes,170.0,3.0,2.0,0,900.0
+Ariana,Jardins D'el Menzah,112.0,2.0,1.0,0,850.0
+Ariana,Jardins D'el Menzah,112.0,3.0,1.0,0,850.0
+Ariana,La Soukra,120.0,3.0,1.0,0,800.0
+Ariana,Ghazela,100.0,3.0,1.0,1,600.0
+Ariana,Ennasr,70.0,2.0,1.0,0,1200.0
+Ariana,Ennasr,220.0,4.0,2.0,1,1200.0
+Ariana,Borj Louzir,110.0,2.0,1.0,0,400.0
+Ariana,Autres villes,300.0,2.0,1.0,1,300.0
+Ariana,Ennasr,70.0,1.0,2.0,0,1300.0
+Ariana,Ariana Ville,95.0,2.0,1.0,0,800.0
+Ariana,Ariana,120.0,3.0,1.0,0,600.0
+Ariana,Autres villes,100.0,3.0,1.0,1,400.0
+Ariana,Jardins D'el Menzah,125.0,2.0,1.0,0,750.0
+Ariana,La Soukra,80.0,1.0,1.0,0,400.0
+Ariana,Autres villes,110.0,4.0,1.0,0,550.0
+Ariana,Autres villes,70.0,1.0,1.0,1,350.0
+Ariana,Ghazela,90.0,1.0,1.0,0,550.0
+Ariana,Ennasr,130.0,3.0,1.0,0,800.0
+Ariana,Ariana Ville,50.0,2.0,1.0,0,530.0
+Ariana,Chotrana,350.0,4.0,1.0,1,300.0
+Ariana,Ennasr,180.0,3.0,3.0,1,2200.0
+Ariana,La Soukra,120.0,2.0,2.0,0,1200.0
+Ariana,Ghazela,100.0,3.0,1.0,0,430.0
+Béja,Other,70.0,1.0,1.0,0,250.0
+Béja,Other,100.0,2.0,1.0,1,250.0
+Béja,Autres villes,150.0,2.0,1.0,0,300.0
+Béja,Other,50.0,2.0,1.0,0,250.0
+Béja,Other,100.0,3.0,1.0,0,270.0
+Béja,Other,75.0,3.0,1.0,1,400.0
+Béja,Other,100.0,3.0,1.0,0,500.0
+Béja,Other,100.0,2.0,1.0,0,270.0
+Béja,Other,70.0,1.0,1.0,1,130.0
+Ben arous,El Mourouj,100.0,3.0,1.0,1,450.0
+Ben arous,El Mourouj,120.0,3.0,1.0,0,550.0
+Ben arous,Other,90.0,3.0,1.0,0,680.0
+Ben arous,Autres villes,90.0,2.0,1.0,0,460.0
+Ben arous,El Mourouj,82.0,3.0,2.0,1,600.0
+Ben arous,El Mourouj,76.0,2.0,1.0,0,450.0
+Ben arous,Radès,160.0,3.0,1.0,1,750.0
+Ben arous,El Mourouj,100.0,2.0,1.0,1,420.0
+Ben arous,Autres villes,75.0,2.0,1.0,0,350.0
+Ben arous,Boumhel,200.0,5.0,2.0,1,750.0
+Ben arous,El Mourouj,50.0,2.0,1.0,0,70.0
+Ben arous,El Mourouj,100.0,2.0,1.0,0,80.0
+Ben arous,El Mourouj,115.0,4.0,2.0,0,550.0
+Ben arous,El Mourouj,100.0,3.0,1.0,1,420.0
+Ben arous,Boumhel,150.0,3.0,1.0,1,550.0
+Ben arous,Radès,500.0,5.0,2.0,1,900.0
+Ben arous,Autres villes,100.0,3.0,1.0,1,500.0
+Ben arous,Hammam Chott,80.0,3.0,1.0,0,650.0
+Ben arous,Medina Jedida,100.0,1.0,1.0,0,420.0
+Ben arous,Hammam Chott,80.0,3.0,1.0,0,600.0
+Ben arous,Mégrine,60.0,1.0,1.0,0,300.0
+Ben arous,Boumhel,200.0,3.0,1.0,1,750.0
+Ben arous,Radès,180.0,2.0,1.0,0,750.0
+Ben arous,Radès,150.0,3.0,2.0,0,800.0
+Ben arous,Ezzahra,100.0,2.0,1.0,1,850.0
+Ben arous,Boumhel,150.0,3.0,2.0,1,75.0
+Ben arous,Boumhel,300.0,5.0,2.0,1,1600.0
+Ben arous,Ezzahra,200.0,3.0,2.0,1,1050.0
+Ben arous,Boumhel,230.0,3.0,2.0,1,800.0
+Ben arous,Autres villes,100.0,2.0,1.0,1,400.0
+Ben arous,Radès,90.0,2.0,1.0,0,600.0
+Ben arous,Ezzahra,100.0,3.0,2.0,1,1200.0
+Ben arous,Ezzahra,150.0,3.0,1.0,1,140.0
+Ben arous,Boumhel,100.0,3.0,1.0,0,850.0
+Ben arous,Ezzahra,100.0,3.0,1.0,1,140.0
+Ben arous,El Mourouj,82.0,2.0,1.0,0,350.0
+Ben arous,Fouchana,120.0,3.0,1.0,1,450.0
+Ben arous,Autres villes,125.0,3.0,1.0,0,570.0
+Ben arous,Hammam Chott,100.0,3.0,1.0,0,550.0
+Ben arous,El Mourouj,50.0,1.0,1.0,0,350.0
+Ben arous,Radès,80.0,2.0,1.0,0,500.0
+Ben arous,Autres villes,180.0,3.0,2.0,1,650.0
+Ben arous,Ezzahra,55.0,2.0,1.0,0,550.0
+Ben arous,Hammam Chott,100.0,3.0,1.0,0,600.0
+Ben arous,Boumhel,125.0,4.0,2.0,0,500.0
+Ben arous,Ezzahra,75.0,2.0,1.0,0,750.0
+Ben arous,Ezzahra,100.0,3.0,1.0,0,550.0
+Ben arous,El Mourouj,110.0,3.0,1.0,0,550.0
+Ben arous,Ezzahra,100.0,2.0,1.0,1,350.0
+Ben arous,Boumhel,130.0,4.0,2.0,0,650.0
+Ben arous,Boumhel,150.0,4.0,2.0,1,750.0
+Ben arous,Boumhel,250.0,3.0,1.0,1,700.0
+Ben arous,Boumhel,130.0,4.0,2.0,1,800.0
+Ben arous,Boumhel,130.0,4.0,2.0,0,600.0
+Ben arous,Boumhel,85.0,3.0,1.0,0,380.0
+Ben arous,Boumhel,100.0,3.0,1.0,0,100.0
+Ben arous,Boumhel,85.0,3.0,1.0,1,90.0
+Ben arous,El Mourouj,80.0,3.0,1.0,0,60.0
+Ben arous,Boumhel,75.0,2.0,1.0,1,200.0
+Ben arous,Boumhel,80.0,2.0,1.0,0,450.0
+Ben arous,Boumhel,220.0,3.0,1.0,1,1500.0
+Ben arous,Boumhel,150.0,3.0,1.0,1,700.0
+Ben arous,Boumhel,150.0,3.0,1.0,1,600.0
+Ben arous,Other,120.0,2.0,2.0,0,1000.0
+Ben arous,Boumhel,150.0,4.0,2.0,1,700.0
+Ben arous,Boumhel,130.0,4.0,1.0,0,650.0
+Ben arous,Boumhel,120.0,3.0,1.0,1,650.0
+Ben arous,Boumhel,140.0,4.0,2.0,1,700.0
+Ben arous,Ezzahra,180.0,5.0,1.0,1,750.0
+Ben arous,Boumhel,150.0,4.0,2.0,1,770.0
+Ben arous,Boumhel,120.0,3.0,1.0,1,450.0
+Ben arous,Ezzahra,120.0,3.0,1.0,1,550.0
+Ben arous,Ezzahra,85.0,3.0,1.0,1,1100.0
+Ben arous,El Mourouj,125.0,3.0,1.0,0,500.0
+Ben arous,Boumhel,105.0,3.0,1.0,0,550.0
+Ben arous,El Mourouj,80.0,3.0,1.0,0,70.0
+Ben arous,Boumhel,140.0,4.0,2.0,0,700.0
+Ben arous,Ezzahra,100.0,3.0,1.0,0,1200.0
+Ben arous,Ezzahra,140.0,4.0,2.0,1,700.0
+Ben arous,Ezzahra,78.0,3.0,1.0,0,650.0
+Ben arous,Ezzahra,130.0,3.0,1.0,0,900.0
+Ben arous,Boumhel,75.0,3.0,1.0,1,400.0
+Ben arous,Ezzahra,120.0,2.0,2.0,1,80.0
+Ben arous,Hammam Chott,120.0,2.0,2.0,0,70.0
+Ben arous,El Mourouj,150.0,4.0,1.0,1,650.0
+Ben arous,Ezzahra,200.0,5.0,1.0,1,780.0
+Ben arous,Ezzahra,95.0,1.0,1.0,0,350.0
+Ben arous,Boumhel,170.0,4.0,2.0,1,750.0
+Ben arous,Boumhel,175.0,3.0,2.0,1,800.0
+Ben arous,Ezzahra,100.0,3.0,1.0,0,900.0
+Ben arous,Radès,100.0,2.0,1.0,0,250.0
+Ben arous,El Mourouj,66.0,2.0,1.0,0,350.0
+Ben arous,Ezzahra,70.0,1.0,1.0,0,350.0
+Ben arous,El Mourouj,100.0,2.0,1.0,1,350.0
+Ben arous,El Mourouj,98.0,3.0,1.0,0,450.0
+Ben arous,Boumhel,100.0,3.0,1.0,1,650.0
+Ben arous,Autres villes,100.0,3.0,1.0,1,350.0
+Ben arous,Boumhel,100.0,2.0,1.0,0,550.0
+Ben arous,El Mourouj,50.0,2.0,1.0,0,80.0
+Ben arous,Boumhel,150.0,4.0,2.0,1,800.0
+Ben arous,Boumhel,120.0,3.0,2.0,1,800.0
+Ben arous,Ezzahra,200.0,2.0,1.0,1,800.0
+Ben arous,El Mourouj,160.0,2.0,1.0,1,400.0
+Ben arous,Mégrine,150.0,3.0,2.0,0,1000.0
+Ben arous,Hammam Chott,150.0,3.0,1.0,1,850.0
+Ben arous,El Mourouj,72.0,2.0,1.0,0,370.0
+Ben arous,Boumhel,135.0,3.0,1.0,0,1000.0
+Ben arous,Radès,65.0,2.0,1.0,0,500.0
+Ben arous,Hammam Chott,150.0,3.0,1.0,1,900.0
+Ben arous,Boumhel,140.0,4.0,2.0,0,1000.0
+Ben arous,Boumhel,130.0,3.0,1.0,0,650.0
+Ben arous,El Mourouj,120.0,2.0,1.0,1,550.0
+Ben arous,Autres villes,90.0,3.0,1.0,0,450.0
+Ben arous,Other,100.0,2.0,1.0,0,680.0
+Ben arous,Medina Jedida,130.0,3.0,2.0,0,750.0
+Ben arous,Radès,100.0,2.0,2.0,1,550.0
+Ben arous,Ezzahra,80.0,2.0,1.0,1,750.0
+Ben arous,Ezzahra,120.0,4.0,1.0,1,750.0
+Ben arous,El Mourouj,70.0,2.0,1.0,0,500.0
+Ben arous,Radès,70.0,2.0,1.0,0,500.0
+Ben arous,Boumhel,66.0,1.0,1.0,0,550.0
+Ben arous,Other,120.0,3.0,1.0,0,600.0
+Ben arous,El Mourouj,120.0,3.0,1.0,0,500.0
+Ben arous,Autres villes,80.0,1.0,1.0,0,550.0
+Ben arous,El Mourouj,78.0,2.0,1.0,0,500.0
+Ben arous,El Mourouj,150.0,4.0,1.0,1,480.0
+Ben arous,Autres villes,150.0,4.0,2.0,1,1000.0
+Ben arous,Other,200.0,3.0,2.0,1,650.0
+Ben arous,Boumhel,160.0,3.0,2.0,1,700.0
+Ben arous,Ezzahra,150.0,4.0,1.0,1,750.0
+Ben arous,Mégrine,130.0,3.0,1.0,1,1200.0
+Ben arous,Fouchana,45.0,1.0,1.0,0,150.0
+Ben arous,Mégrine,120.0,2.0,1.0,0,1000.0
+Ben arous,Medina Jedida,114.0,5.0,2.0,1,500.0
+Ben arous,El Mourouj,90.0,4.0,1.0,0,1100.0
+Ben arous,Radès,60.0,1.0,1.0,0,330.0
+Ben arous,El Mourouj,170.0,4.0,2.0,1,900.0
+Ben arous,El Mourouj,180.0,4.0,2.0,0,160.0
+Ben arous,Other,80.0,2.0,1.0,0,400.0
+Ben arous,Ezzahra,110.0,3.0,1.0,0,650.0
+Ben arous,Other,120.0,3.0,1.0,1,280.0
+Ben arous,Boumhel,100.0,2.0,1.0,0,600.0
+Ben arous,Ezzahra,120.0,2.0,1.0,0,800.0
+Ben arous,Radès,130.0,3.0,2.0,0,900.0
+Ben arous,El Mourouj,160.0,3.0,2.0,1,700.0
+Ben arous,El Mourouj,90.0,2.0,1.0,0,950.0
+Ben arous,Ezzahra,50.0,2.0,1.0,0,300.0
+Ben arous,Autres villes,80.0,2.0,1.0,0,580.0
+Ben arous,Radès,150.0,2.0,1.0,1,350.0
+Ben arous,Autres villes,100.0,3.0,1.0,0,520.0
+Ben arous,Autres villes,110.0,2.0,1.0,0,550.0
+Ben arous,El Mourouj,100.0,2.0,1.0,0,380.0
+Ben arous,Autres villes,70.0,1.0,1.0,0,350.0
+Ben arous,Radès,100.0,2.0,1.0,0,600.0
+Ben arous,Medina Jedida,300.0,5.0,2.0,1,1300.0
+Ben arous,Mégrine,110.0,2.0,2.0,0,1000.0
+Ben arous,Fouchana,100.0,2.0,1.0,1,110.0
+Ben arous,Radès,145.0,3.0,1.0,1,350.0
+Ben arous,El Mourouj,50.0,1.0,1.0,0,70.0
+Ben arous,Radès,120.0,3.0,1.0,0,900.0
+Ben arous,Hammam Chott,80.0,2.0,1.0,0,400.0
+Ben arous,Autres villes,100.0,2.0,1.0,1,600.0
+Ben arous,Radès,120.0,3.0,2.0,0,900.0
+Ben arous,El Mourouj,100.0,2.0,1.0,1,80.0
+Ben arous,Boumhel,150.0,3.0,2.0,1,770.0
+Ben arous,Other,65.0,2.0,1.0,0,350.0
+Ben arous,El Mourouj,104.0,3.0,1.0,1,350.0
+Ben arous,Boumhel,90.0,2.0,1.0,0,1200.0
+Ben arous,Mégrine,165.0,3.0,1.0,1,1000.0
+Ben arous,El Mourouj,100.0,4.0,1.0,1,600.0
+Ben arous,Fouchana,300.0,2.0,1.0,1,400.0
+Ben arous,El Mourouj,130.0,2.0,1.0,1,100.0
+Ben arous,Hammam Chott,110.0,2.0,1.0,0,450.0
+Ben arous,Medina Jedida,80.0,2.0,1.0,1,320.0
+Ben arous,Boumhel,100.0,3.0,1.0,0,500.0
+Ben arous,El Mourouj,72.0,2.0,1.0,0,80.0
+Ben arous,Ezzahra,100.0,2.0,1.0,0,580.0
+Ben arous,El Mourouj,30.0,1.0,1.0,0,320.0
+Ben arous,El Mourouj,100.0,3.0,1.0,1,500.0
+Ben arous,Mégrine,200.0,3.0,2.0,0,1200.0
+Ben arous,Mégrine,150.0,4.0,1.0,0,1250.0
+Ben arous,Ezzahra,60.0,1.0,1.0,0,550.0
+Ben arous,El Mourouj,80.0,3.0,1.0,0,50.0
+Ben arous,El Mourouj,110.0,2.0,1.0,1,400.0
+Ben arous,Ezzahra,89.0,2.0,1.0,0,450.0
+Ben arous,Mégrine,120.0,3.0,1.0,0,800.0
+Ben arous,Other,95.0,2.0,1.0,0,400.0
+Ben arous,Boumhel,91.0,2.0,1.0,0,700.0
+Ben arous,Autres villes,70.0,2.0,1.0,0,550.0
+Ben arous,Mégrine,70.0,2.0,1.0,0,550.0
+Ben arous,Mégrine,80.0,2.0,1.0,0,500.0
+Ben arous,Autres villes,125.0,4.0,1.0,0,540.0
+Ben arous,Other,90.0,4.0,1.0,0,400.0
+Ben arous,Other,110.0,2.0,1.0,0,580.0
+Ben arous,Hammam Chott,60.0,2.0,1.0,0,270.0
+Ben arous,Medina Jedida,75.0,2.0,1.0,1,320.0
+Ben arous,El Mourouj,80.0,3.0,1.0,1,500.0
+Ben arous,Radès,72.0,2.0,1.0,0,470.0
+Ben arous,El Mourouj,105.0,3.0,1.0,0,600.0
+Ben arous,Ezzahra,130.0,2.0,1.0,1,400.0
+Ben arous,Hammam Chott,137.0,4.0,2.0,0,750.0
+Ben arous,Autres villes,250.0,3.0,1.0,1,450.0
+Ben arous,Medina Jedida,100.0,1.0,1.0,1,400.0
+Ben arous,Mégrine,165.0,3.0,2.0,1,1000.0
+Ben arous,Autres villes,79.0,3.0,1.0,0,530.0
+Ben arous,El Mourouj,70.0,2.0,1.0,1,400.0
+Ben arous,Ezzahra,106.0,3.0,1.0,0,580.0
+Ben arous,Medina Jedida,90.0,3.0,1.0,0,520.0
+Ben arous,Boumhel,85.0,3.0,1.0,0,500.0
+Ben arous,El Mourouj,50.0,1.0,1.0,0,50.0
+Ben arous,Fouchana,100.0,2.0,1.0,1,480.0
+Ben arous,Autres villes,80.0,2.0,1.0,1,650.0
+Ben arous,Hammam Chott,230.0,3.0,2.0,0,2000.0
+Ben arous,Boumhel,82.0,1.0,1.0,0,1000.0
+Ben arous,El Mourouj,70.0,2.0,1.0,0,400.0
+Ben arous,Hammam Chott,70.0,2.0,1.0,0,111.0
+Ben arous,El Mourouj,110.0,4.0,1.0,0,580.0
+Ben arous,Ezzahra,120.0,3.0,1.0,0,680.0
+Ben arous,El Mourouj,250.0,3.0,2.0,1,700.0
+Ben arous,Other,100.0,2.0,1.0,0,450.0
+Ben arous,Boumhel,80.0,1.0,1.0,1,650.0
+Ben arous,El Mourouj,110.0,3.0,1.0,0,580.0
+Ben arous,Boumhel,80.0,2.0,1.0,0,500.0
+Ben arous,El Mourouj,120.0,3.0,1.0,1,530.0
+Ben arous,Radès,90.0,3.0,1.0,0,250.0
+Ben arous,El Mourouj,90.0,3.0,1.0,1,500.0
+Ben arous,El Mourouj,120.0,2.0,1.0,0,100.0
+Ben arous,El Mourouj,100.0,3.0,1.0,0,580.0
+Ben arous,Medina Jedida,158.0,4.0,3.0,0,1100.0
+Ben arous,Radès,100.0,2.0,1.0,1,400.0
+Ben arous,Radès,120.0,3.0,1.0,1,600.0
+Ben arous,El Mourouj,40.0,2.0,1.0,0,350.0
+Ben arous,Autres villes,100.0,3.0,1.0,0,1100.0
+Ben arous,Fouchana,85.0,3.0,1.0,0,350.0
+Ben arous,Radès,120.0,4.0,2.0,0,900.0
+Ben arous,Radès,120.0,3.0,1.0,0,700.0
+Ben arous,El Mourouj,85.0,2.0,1.0,0,420.0
+Ben arous,El Mourouj,120.0,3.0,1.0,1,450.0
+Ben arous,Ezzahra,120.0,3.0,1.0,0,700.0
+Ben arous,El Mourouj,35.0,2.0,1.0,0,320.0
+Ben arous,Autres villes,120.0,3.0,1.0,1,470.0
+Ben arous,Ezzahra,100.0,3.0,1.0,1,350.0
+Ben arous,El Mourouj,150.0,4.0,2.0,1,700.0
+Ben arous,Ezzahra,80.0,2.0,1.0,0,500.0
+Ben arous,El Mourouj,90.0,4.0,1.0,0,550.0
+Ben arous,Autres villes,80.0,3.0,1.0,1,280.0
+Ben arous,Autres villes,70.0,2.0,1.0,0,420.0
+Ben arous,El Mourouj,90.0,3.0,1.0,1,90.0
+Ben arous,Boumhel,65.0,2.0,1.0,0,620.0
+Ben arous,El Mourouj,95.0,3.0,1.0,0,540.0
+Ben arous,Mégrine,50.0,1.0,1.0,0,650.0
+Ben arous,Mégrine,110.0,3.0,1.0,0,750.0
+Ben arous,Hammam Chott,90.0,2.0,1.0,0,450.0
+Ben arous,Mégrine,100.0,2.0,1.0,0,75.0
+Ben arous,El Mourouj,100.0,3.0,1.0,1,380.0
+Ben arous,Mégrine,130.0,4.0,1.0,1,100.0
+Ben arous,Other,200.0,3.0,2.0,1,880.0
+Ben arous,Ezzahra,80.0,2.0,1.0,0,750.0
+Ben arous,El Mourouj,100.0,3.0,1.0,0,350.0
+Ben arous,El Mourouj,80.0,4.0,1.0,0,550.0
+Ben arous,Radès,140.0,4.0,2.0,0,560.0
+Ben arous,Other,85.0,3.0,1.0,0,350.0
+Ben arous,El Mourouj,150.0,3.0,1.0,0,630.0
+Ben arous,El Mourouj,120.0,4.0,1.0,1,600.0
+Ben arous,Autres villes,106.0,3.0,1.0,0,600.0
+Ben arous,Mégrine,130.0,2.0,1.0,1,120.0
+Ben arous,Autres villes,120.0,2.0,1.0,1,250.0
+Ben arous,Mégrine,130.0,3.0,1.0,1,1250.0
+Ben arous,El Mourouj,60.0,2.0,1.0,0,500.0
+Ben arous,El Mourouj,50.0,2.0,1.0,0,500.0
+Ben arous,El Mourouj,150.0,4.0,1.0,1,550.0
+Ben arous,Mégrine,100.0,2.0,1.0,1,120.0
+Ben arous,Radès,150.0,3.0,1.0,1,900.0
+Ben arous,Radès,140.0,3.0,1.0,1,150.0
+Ben arous,Other,270.0,3.0,1.0,1,650.0
+Ben arous,Mégrine,50.0,1.0,1.0,0,700.0
+Ben arous,Radès,100.0,2.0,1.0,0,480.0
+Ben arous,Medina Jedida,70.0,1.0,1.0,0,1200.0
+Ben arous,Boumhel,70.0,1.0,1.0,0,1100.0
+Ben arous,Medina Jedida,150.0,3.0,1.0,1,700.0
+Ben arous,El Mourouj,70.0,2.0,1.0,0,600.0
+Ben arous,El Mourouj,120.0,3.0,1.0,1,300.0
+Ben arous,Autres villes,50.0,2.0,1.0,0,350.0
+Ben arous,Radès,200.0,3.0,1.0,1,620.0
+Ben arous,Boumhel,120.0,3.0,1.0,0,700.0
+Ben arous,Mégrine,150.0,2.0,1.0,1,750.0
+Ben arous,Hammam Chott,100.0,2.0,1.0,1,600.0
+Ben arous,Medina Jedida,150.0,3.0,2.0,1,700.0
+Ben arous,Boumhel,120.0,3.0,2.0,0,650.0
+Ben arous,Radès,40.0,1.0,1.0,0,280.0
+Ben arous,Other,40.0,1.0,1.0,0,290.0
+Ben arous,Hammam Chott,110.0,3.0,1.0,0,490.0
+Ben arous,Hammam Chott,97.0,3.0,1.0,0,450.0
+Ben arous,Hammam Chott,90.0,3.0,1.0,0,370.0
+Ben arous,Other,135.0,3.0,1.0,0,700.0
+Ben arous,Autres villes,170.0,4.0,2.0,1,650.0
+Ben arous,El Mourouj,150.0,3.0,1.0,0,600.0
+Ben arous,Medina Jedida,110.0,3.0,1.0,0,700.0
+Ben arous,El Mourouj,57.0,1.0,1.0,0,400.0
+Ben arous,Medina Jedida,77.0,1.0,1.0,0,600.0
+Ben arous,El Mourouj,90.0,3.0,1.0,0,560.0
+Ben arous,Hammam Chott,130.0,3.0,2.0,0,750.0
+Ben arous,El Mourouj,90.0,2.0,1.0,1,460.0
+Ben arous,El Mourouj,100.0,3.0,1.0,0,550.0
+Ben arous,Radès,180.0,4.0,1.0,1,600.0
+Ben arous,El Mourouj,100.0,2.0,1.0,0,600.0
+Ben arous,El Mourouj,100.0,2.0,1.0,1,450.0
+Ben arous,El Mourouj,150.0,3.0,1.0,0,650.0
+Ben arous,El Mourouj,100.0,2.0,1.0,0,420.0
+Ben arous,Hammam Chott,98.0,2.0,1.0,0,390.0
+Ben arous,Autres villes,220.0,6.0,2.0,1,2000.0
+Ben arous,Autres villes,50.0,2.0,1.0,0,300.0
+Ben arous,El Mourouj,500.0,5.0,2.0,1,900.0
+Ben arous,Autres villes,160.0,3.0,1.0,1,570.0
+Ben arous,Radès,80.0,2.0,1.0,0,280.0
+Ben arous,Fouchana,70.0,1.0,1.0,1,300.0
+Ben arous,Fouchana,125.0,4.0,1.0,0,500.0
+Ben arous,Autres villes,75.0,3.0,1.0,0,500.0
+Ben arous,Hammam Chott,150.0,4.0,2.0,0,550.0
+Ben arous,Mégrine,90.0,2.0,1.0,1,520.0
+Ben arous,Radès,120.0,2.0,1.0,1,500.0
+Ben arous,Other,100.0,3.0,1.0,1,270.0
+Ben arous,Fouchana,100.0,2.0,1.0,1,390.0
+Ben arous,Other,115.0,3.0,1.0,0,750.0
+Ben arous,Mégrine,80.0,1.0,1.0,0,650.0
+Ben arous,Medina Jedida,140.0,3.0,1.0,0,680.0
+Ben arous,Boumhel,85.0,3.0,1.0,0,550.0
+Ben arous,Autres villes,220.0,3.0,2.0,1,1400.0
+Ben arous,Medina Jedida,110.0,2.0,1.0,1,600.0
+Ben arous,El Mourouj,130.0,2.0,1.0,1,480.0
+Ben arous,Autres villes,125.0,2.0,1.0,0,400.0
+Ben arous,Ezzahra,160.0,3.0,1.0,0,1000.0
+Ben arous,Radès,150.0,3.0,1.0,1,750.0
+Ben arous,El Mourouj,90.0,3.0,1.0,1,110.0
+Ben arous,Autres villes,80.0,3.0,1.0,0,350.0
+Ben arous,Other,100.0,2.0,1.0,1,250.0
+Ben arous,Mégrine,115.0,2.0,1.0,0,780.0
+Ben arous,Mégrine,170.0,3.0,2.0,0,1100.0
+Ben arous,Boumhel,125.0,3.0,1.0,1,580.0
+Ben arous,Boumhel,60.0,1.0,1.0,0,1000.0
+Ben arous,Boumhel,120.0,3.0,1.0,1,900.0
+Ben arous,El Mourouj,125.0,4.0,1.0,1,552.0
+Ben arous,Radès,90.0,2.0,1.0,0,460.0
+Ben arous,Boumhel,107.0,2.0,1.0,0,850.0
+Ben arous,Fouchana,140.0,3.0,1.0,1,310.0
+Ben arous,El Mourouj,130.0,4.0,1.0,1,450.0
+Ben arous,Autres villes,140.0,3.0,1.0,1,280.0
+Ben arous,Medina Jedida,140.0,3.0,1.0,0,700.0
+Ben arous,Boumhel,60.0,1.0,1.0,0,350.0
+Ben arous,Medina Jedida,130.0,4.0,1.0,0,500.0
+Ben arous,Boumhel,250.0,4.0,2.0,1,850.0
+Ben arous,El Mourouj,160.0,4.0,2.0,0,550.0
+Ben arous,El Mourouj,110.0,2.0,1.0,1,480.0
+Ben arous,El Mourouj,100.0,3.0,1.0,0,450.0
+Ben arous,El Mourouj,100.0,2.0,1.0,1,320.0
+Ben arous,El Mourouj,500.0,4.0,2.0,1,700.0
+Ben arous,El Mourouj,80.0,2.0,1.0,0,400.0
+Ben arous,Radès,100.0,3.0,1.0,1,400.0
+Ben arous,Hammam Chott,50.0,1.0,1.0,0,300.0
+Ben arous,Autres villes,55.0,1.0,1.0,0,350.0
+Ben arous,El Mourouj,85.0,2.0,1.0,0,350.0
+Ben arous,El Mourouj,90.0,2.0,1.0,0,400.0
+Ben arous,Boumhel,120.0,3.0,1.0,0,600.0
+Ben arous,Ezzahra,65.0,1.0,1.0,0,1000.0
+Ben arous,El Mourouj,113.0,2.0,1.0,0,900.0
+Ben arous,Boumhel,52.0,1.0,1.0,0,1100.0
+Ben arous,Boumhel,110.0,2.0,1.0,0,1600.0
+Ben arous,Boumhel,75.0,1.0,1.0,0,1300.0
+Ben arous,Other,80.0,1.0,1.0,1,1500.0
+Ben arous,Mégrine,150.0,4.0,2.0,0,1250.0
+Ben arous,El Mourouj,100.0,2.0,1.0,1,550.0
+Ben arous,Medina Jedida,139.0,4.0,2.0,0,700.0
+Ben arous,El Mourouj,120.0,3.0,1.0,1,500.0
+Ben arous,Radès,70.0,2.0,1.0,0,450.0
+Ben arous,Mégrine,97.0,2.0,2.0,0,550.0
+Ben arous,Ezzahra,100.0,2.0,1.0,0,500.0
+Ben arous,Mégrine,195.0,4.0,1.0,1,1200.0
+Bizerte,Bizerte,50.0,1.0,1.0,0,280.0
+Bizerte,Autres villes,140.0,3.0,1.0,1,850.0
+Bizerte,Bizerte Nord,120.0,3.0,1.0,1,430.0
+Bizerte,Autres villes,70.0,1.0,1.0,1,480.0
+Bizerte,Autres villes,140.0,4.0,2.0,0,750.0
+Bizerte,Bizerte Nord,60.0,2.0,1.0,0,250.0
+Bizerte,Other,105.0,3.0,1.0,0,550.0
+Bizerte,Autres villes,200.0,4.0,1.0,1,70.0
+Bizerte,Bizerte,122.0,2.0,1.0,0,700.0
+Bizerte,Bizerte Nord,100.0,4.0,1.0,1,520.0
+Bizerte,Bizerte Nord,100.0,2.0,1.0,0,420.0
+Bizerte,Bizerte Nord,300.0,4.0,2.0,1,350.0
+Bizerte,Autres villes,70.0,2.0,1.0,0,450.0
+Bizerte,Bizerte Nord,80.0,2.0,1.0,1,450.0
+Bizerte,Bizerte Nord,130.0,4.0,1.0,0,600.0
+Bizerte,Bizerte,100.0,2.0,1.0,0,900.0
+Bizerte,Autres villes,90.0,3.0,1.0,0,150.0
+Bizerte,Bizerte,140.0,3.0,1.0,0,460.0
+Bizerte,Bizerte Nord,100.0,6.0,2.0,1,900.0
+Bizerte,Autres villes,100.0,3.0,1.0,0,720.0
+Bizerte,Bizerte Nord,80.0,3.0,1.0,0,400.0
+Bizerte,Bizerte Nord,80.0,2.0,1.0,1,350.0
+Bizerte,Bizerte Nord,60.0,2.0,1.0,0,300.0
+Bizerte,Autres villes,120.0,3.0,1.0,0,220.0
+Bizerte,Bizerte,170.0,4.0,2.0,1,300.0
+Bizerte,Autres villes,200.0,3.0,1.0,1,300.0
+Bizerte,Bizerte Nord,200.0,2.0,2.0,1,600.0
+Bizerte,Autres villes,80.0,3.0,1.0,1,280.0
+Bizerte,Bizerte,80.0,3.0,1.0,0,100.0
+Bizerte,Other,110.0,3.0,1.0,0,350.0
+Bizerte,Autres villes,112.0,3.0,1.0,0,350.0
+Bizerte,Bizerte,80.0,2.0,1.0,0,320.0
+Bizerte,Bizerte,300.0,3.0,1.0,1,550.0
+Bizerte,Other,300.0,3.0,1.0,1,230.0
+Bizerte,Autres villes,50.0,2.0,1.0,0,320.0
+Bizerte,Autres villes,60.0,1.0,1.0,0,420.0
+Bizerte,Bizerte Nord,60.0,1.0,1.0,0,400.0
+Bizerte,Autres villes,130.0,3.0,1.0,1,350.0
+Bizerte,Other,100.0,3.0,1.0,0,300.0
+Bizerte,Bizerte Nord,70.0,2.0,1.0,0,300.0
+Bizerte,Bizerte Nord,100.0,2.0,1.0,0,400.0
+Bizerte,Bizerte Nord,80.0,1.0,1.0,1,330.0
+Bizerte,Bizerte Nord,60.0,2.0,1.0,0,380.0
+Bizerte,Bizerte,87.0,3.0,1.0,0,500.0
+Bizerte,Other,60.0,3.0,1.0,0,300.0
+Bizerte,Other,120.0,3.0,2.0,0,530.0
+Bizerte,Bizerte Nord,90.0,2.0,1.0,0,500.0
+Bizerte,Bizerte,170.0,4.0,1.0,1,550.0
+Bizerte,Other,150.0,3.0,1.0,1,300.0
+Bizerte,Other,70.0,1.0,1.0,1,200.0
+Bizerte,Bizerte Nord,115.0,2.0,1.0,1,600.0
+Bizerte,Other,80.0,3.0,1.0,1,250.0
+Bizerte,Bizerte,80.0,1.0,1.0,0,150.0
+Bizerte,Bizerte,100.0,2.0,1.0,0,200.0
+Bizerte,Bizerte,402.0,2.0,1.0,0,75.0
+Bizerte,Autres villes,120.0,3.0,1.0,0,750.0
+Bizerte,Bizerte,150.0,4.0,1.0,1,580.0
+Bizerte,Bizerte Nord,160.0,3.0,1.0,0,350.0
+Bizerte,Autres villes,150.0,4.0,1.0,1,580.0
+Bizerte,Autres villes,60.0,1.0,1.0,0,400.0
+Bizerte,Other,80.0,2.0,1.0,0,500.0
+Bizerte,Bizerte Nord,500.0,4.0,2.0,1,1500.0
+Bizerte,Bizerte Nord,90.0,3.0,1.0,1,380.0
+Bizerte,Bizerte Nord,80.0,2.0,1.0,0,300.0
+Bizerte,Bizerte Nord,90.0,3.0,1.0,0,450.0
+Bizerte,Autres villes,100.0,3.0,1.0,1,650.0
+Bizerte,Bizerte Nord,250.0,5.0,3.0,1,1200.0
+Bizerte,Bizerte Nord,40.0,2.0,1.0,0,60.0
+Bizerte,Bizerte Nord,70.0,2.0,1.0,0,400.0
+Bizerte,Bizerte,100.0,1.0,1.0,0,150.0
+Gabès,Gabès,90.0,3.0,1.0,0,250.0
+Gabès,Other,90.0,3.0,1.0,1,250.0
+Gabès,Other,130.0,2.0,1.0,0,300.0
+Gabès,Autres villes,150.0,3.0,1.0,0,350.0
+Gabès,Other,90.0,3.0,1.0,1,200.0
+Gabès,Autres villes,100.0,3.0,1.0,0,250.0
+Gabès,Gabès Sud,150.0,3.0,2.0,1,400.0
+Gabès,Gabès,70.0,2.0,1.0,0,420.0
+Gabès,Gabès Sud,200.0,4.0,1.0,1,400.0
+Gabès,Autres villes,70.0,2.0,1.0,1,300.0
+Gabès,Autres villes,110.0,3.0,1.0,0,550.0
+Gabès,Gabès Sud,160.0,3.0,2.0,1,500.0
+Gabès,Gabès Sud,150.0,3.0,2.0,0,600.0
+Gabès,Autres villes,85.0,3.0,1.0,0,300.0
+Gabès,Autres villes,90.0,1.0,1.0,0,370.0
+Gabès,Gabès Sud,150.0,2.0,1.0,0,70.0
+Gabès,Autres villes,70.0,2.0,1.0,0,350.0
+Gabès,Gabès,160.0,3.0,1.0,0,400.0
+Gabès,Autres villes,70.0,2.0,1.0,0,220.0
+Gabès,Gabès Sud,400.0,4.0,2.0,1,550.0
+Gabès,Other,80.0,1.0,1.0,0,600.0
+Gabès,Autres villes,115.0,3.0,1.0,0,550.0
+Gabès,Other,90.0,2.0,1.0,0,520.0
+Gabès,Gabès Sud,60.0,2.0,1.0,0,250.0
+Gabès,Autres villes,100.0,2.0,1.0,0,350.0
+Gabès,Gabès,70.0,4.0,1.0,1,1200.0
+Gabès,Gabès Sud,80.0,2.0,1.0,0,400.0
+Gabès,Autres villes,160.0,3.0,2.0,0,450.0
+Gabès,Other,100.0,2.0,1.0,1,220.0
+Gabès,Autres villes,110.0,2.0,2.0,1,450.0
+Gabès,Autres villes,250.0,2.0,1.0,0,75.0
+Gabès,Gabès Sud,100.0,2.0,1.0,0,480.0
+Gabès,Gabès Sud,30.0,1.0,1.0,0,250.0
+Gabès,Gabès Sud,200.0,3.0,1.0,1,650.0
+Gabès,Other,100.0,3.0,1.0,1,700.0
+Gabès,Autres villes,300.0,1.0,3.0,1,350.0
+Gabès,Autres villes,40.0,1.0,1.0,0,180.0
+Gabès,Other,150.0,4.0,1.0,0,450.0
+Gabès,Autres villes,90.0,3.0,1.0,0,300.0
+Gabès,Gabès Sud,120.0,2.0,1.0,1,170.0
+Gabès,Autres villes,250.0,3.0,1.0,1,400.0
+Gabès,Gabès,100.0,2.0,1.0,0,400.0
+Gabès,Gabès,120.0,2.0,1.0,1,330.0
+Gabès,Autres villes,150.0,3.0,1.0,0,50.0
+Gabès,Other,70.0,2.0,1.0,1,420.0
+Gabès,Other,100.0,2.0,1.0,0,600.0
+Gabès,Gabès Sud,130.0,2.0,1.0,1,380.0
+Gabès,Gabès,45.0,1.0,1.0,0,60.0
+Gabès,Other,100.0,3.0,1.0,0,300.0
+Gabès,Gabès,88.0,2.0,1.0,0,70.0
+Gabès,Gabès Sud,111.0,2.0,1.0,1,100.0
+Gabès,Gabès Sud,125.0,2.0,1.0,0,100.0
+Gabès,Gabès,77.0,3.0,1.0,1,70.0
+Gabès,Autres villes,88.0,2.0,1.0,0,70.0
+Gabès,Other,70.0,2.0,1.0,0,300.0
+Gabès,Autres villes,90.0,2.0,1.0,0,350.0
+Gafsa,Gafsa Sud,140.0,4.0,1.0,1,350.0
+Gafsa,Gafsa Sud,110.0,3.0,1.0,0,370.0
+Gafsa,Gafsa Sud,100.0,1.0,1.0,0,150.0
+Gafsa,Gafsa Sud,150.0,3.0,1.0,0,380.0
+Gafsa,Autres villes,420.0,4.0,1.0,1,280.0
+Gafsa,Gafsa Sud,150.0,3.0,1.0,1,240.0
+Gafsa,Gafsa Sud,40.0,1.0,1.0,0,300.0
+Gafsa,Gafsa Sud,200.0,4.0,1.0,0,350.0
+Gafsa,Gafsa Sud,110.0,3.0,1.0,0,390.0
+Gafsa,Gafsa Sud,120.0,3.0,1.0,1,320.0
+Gafsa,Autres villes,80.0,3.0,1.0,0,350.0
+Gafsa,Gafsa Sud,140.0,3.0,1.0,1,350.0
+Gafsa,Autres villes,500.0,3.0,1.0,1,470.0
+Gafsa,Autres villes,160.0,2.0,1.0,0,200.0
+Gafsa,Autres villes,200.0,5.0,2.0,1,650.0
+Gafsa,Gafsa Sud,400.0,4.0,1.0,1,450.0
+Jendouba,Autres villes,120.0,4.0,1.0,0,350.0
+Jendouba,Other,50.0,2.0,1.0,0,60.0
+Jendouba,Other,50.0,2.0,1.0,0,200.0
+Jendouba,Other,120.0,3.0,1.0,0,400.0
+Jendouba,Other,70.0,4.0,1.0,0,70.0
+Jendouba,Other,160.0,4.0,1.0,1,400.0
+Jendouba,Autres villes,180.0,4.0,1.0,1,400.0
+Jendouba,Autres villes,200.0,4.0,2.0,1,400.0
+Jendouba,Other,150.0,3.0,1.0,1,400.0
+Jendouba,Other,50.0,1.0,1.0,0,50.0
+Kairouan,Other,250.0,3.0,2.0,1,350.0
+Kairouan,Other,160.0,4.0,1.0,0,400.0
+Kairouan,Other,95.0,3.0,1.0,1,230.0
+Kairouan,Other,100.0,3.0,1.0,1,350.0
+Kairouan,Other,50.0,1.0,1.0,0,220.0
+Kairouan,Autres villes,70.0,1.0,1.0,0,400.0
+Kairouan,Autres villes,150.0,2.0,1.0,0,230.0
+Kairouan,Other,80.0,2.0,1.0,0,300.0
+Kairouan,Other,30.0,2.0,1.0,0,130.0
+Kairouan,Other,150.0,4.0,1.0,1,280.0
+Kairouan,Other,120.0,2.0,1.0,0,350.0
+Kairouan,Autres villes,120.0,3.0,1.0,1,300.0
+Kairouan,Other,200.0,4.0,1.0,1,350.0
+Kairouan,Other,95.0,3.0,1.0,0,400.0
+Kairouan,Other,300.0,5.0,2.0,1,800.0
+Kairouan,Other,50.0,2.0,1.0,0,350.0
+Kairouan,Other,200.0,4.0,1.0,1,500.0
+Kairouan,Other,100.0,3.0,1.0,1,600.0
+Kairouan,Autres villes,54.0,2.0,1.0,0,330.0
+Kairouan,Autres villes,45.0,2.0,1.0,0,200.0
+Kairouan,Autres villes,150.0,2.0,1.0,1,250.0
+Kairouan,Other,140.0,2.0,1.0,0,450.0
+Kairouan,Other,60.0,2.0,1.0,0,250.0
+La manouba,Oued Ellil,100.0,3.0,1.0,1,400.0
+La manouba,Douar Hicher,80.0,3.0,1.0,0,350.0
+La manouba,Autres villes,100.0,3.0,1.0,1,600.0
+La manouba,Other,90.0,2.0,1.0,1,350.0
+La manouba,Manouba Ville,120.0,3.0,2.0,0,700.0
+La manouba,Denden,100.0,2.0,1.0,0,600.0
+La manouba,Oued Ellil,170.0,3.0,2.0,1,600.0
+La manouba,La manouba,130.0,3.0,1.0,1,500.0
+La manouba,Douar Hicher,80.0,3.0,1.0,1,350.0
+La manouba,La manouba,100.0,2.0,1.0,1,320.0
+La manouba,Douar Hicher,60.0,2.0,1.0,0,260.0
+La manouba,La manouba,180.0,5.0,1.0,1,950.0
+La manouba,La manouba,100.0,4.0,1.0,1,1000.0
+La manouba,La manouba,60.0,2.0,1.0,0,75.0
+La manouba,Oued Ellil,100.0,3.0,1.0,1,350.0
+La manouba,La manouba,130.0,3.0,1.0,0,550.0
+La manouba,Autres villes,75.0,3.0,1.0,0,300.0
+La manouba,Oued Ellil,90.0,3.0,1.0,0,360.0
+La manouba,Denden,62.0,2.0,1.0,0,370.0
+La manouba,Autres villes,150.0,5.0,1.0,1,510.0
+La manouba,Manouba Ville,110.0,4.0,2.0,1,650.0
+La manouba,Manouba Ville,170.0,5.0,1.0,1,1300.0
+La manouba,Autres villes,90.0,2.0,1.0,0,600.0
+La manouba,Manouba Ville,90.0,3.0,1.0,0,400.0
+La manouba,Oued Ellil,70.0,2.0,1.0,0,330.0
+La manouba,Autres villes,80.0,3.0,1.0,1,350.0
+La manouba,Other,150.0,4.0,1.0,1,1500.0
+La manouba,Manouba Ville,120.0,3.0,2.0,0,750.0
+La manouba,Autres villes,176.0,4.0,2.0,0,750.0
+La manouba,Manouba Ville,80.0,3.0,1.0,1,350.0
+La manouba,La manouba,140.0,3.0,2.0,0,950.0
+La manouba,Denden,140.0,3.0,2.0,0,950.0
+La manouba,Denden,105.0,3.0,1.0,0,850.0
+La manouba,Denden,65.0,2.0,1.0,0,600.0
+La manouba,Denden,55.0,1.0,1.0,0,370.0
+La manouba,Manouba Ville,100.0,3.0,2.0,0,500.0
+La manouba,Autres villes,120.0,3.0,1.0,1,350.0
+La manouba,Autres villes,140.0,3.0,1.0,1,400.0
+La manouba,Manouba Ville,80.0,2.0,1.0,0,450.0
+La manouba,Douar Hicher,90.0,3.0,1.0,1,280.0
+La manouba,La manouba,65.0,2.0,1.0,0,520.0
+La manouba,Manouba Ville,65.0,2.0,1.0,0,500.0
+La manouba,Autres villes,80.0,3.0,1.0,1,600.0
+La manouba,Autres villes,150.0,3.0,1.0,1,350.0
+La manouba,Denden,50.0,2.0,1.0,0,140.0
+La manouba,La manouba,180.0,4.0,2.0,1,580.0
+La manouba,Autres villes,370.0,3.0,1.0,1,800.0
+La manouba,La manouba,130.0,3.0,1.0,1,450.0
+La manouba,Autres villes,100.0,2.0,1.0,1,300.0
+La manouba,Oued Ellil,90.0,3.0,1.0,0,450.0
+La manouba,Manouba Ville,60.0,2.0,1.0,0,500.0
+La manouba,Oued Ellil,94.0,2.0,1.0,0,400.0
+La manouba,Manouba Ville,100.0,4.0,2.0,1,650.0
+La manouba,Manouba Ville,90.0,3.0,1.0,0,580.0
+La manouba,Other,200.0,2.0,1.0,1,400.0
+La manouba,Autres villes,120.0,1.0,1.0,0,250.0
+La manouba,Denden,120.0,5.0,2.0,1,680.0
+La manouba,Manouba Ville,75.0,4.0,1.0,0,650.0
+La manouba,Douar Hicher,100.0,2.0,1.0,1,280.0
+La manouba,La manouba,150.0,2.0,1.0,1,750.0
+La manouba,Manouba Ville,200.0,2.0,1.0,1,600.0
+La manouba,Autres villes,110.0,3.0,1.0,1,350.0
+La manouba,Douar Hicher,90.0,3.0,1.0,0,320.0
+La manouba,Other,90.0,2.0,1.0,1,400.0
+La manouba,Denden,70.0,2.0,1.0,0,380.0
+La manouba,Manouba Ville,35.0,2.0,1.0,0,290.0
+La manouba,La manouba,100.0,2.0,1.0,0,320.0
+La manouba,Autres villes,120.0,4.0,1.0,1,400.0
+La manouba,Manouba Ville,90.0,3.0,1.0,0,500.0
+La manouba,Denden,80.0,2.0,1.0,0,600.0
+La manouba,Autres villes,90.0,3.0,1.0,0,500.0
+La manouba,Manouba Ville,89.0,3.0,1.0,0,500.0
+La manouba,La manouba,143.0,3.0,1.0,0,1000.0
+La manouba,Manouba Ville,98.0,2.0,1.0,0,650.0
+La manouba,Manouba Ville,100.0,3.0,1.0,1,430.0
+La manouba,Denden,100.0,2.0,1.0,0,500.0
+La manouba,Denden,80.0,2.0,1.0,1,430.0
+La manouba,La manouba,120.0,3.0,1.0,1,150.0
+La manouba,La manouba,120.0,4.0,1.0,1,150.0
+La manouba,Denden,150.0,4.0,1.0,1,650.0
+La manouba,La manouba,120.0,3.0,1.0,0,550.0
+La manouba,La manouba,110.0,2.0,1.0,0,600.0
+La manouba,La manouba,75.0,3.0,1.0,0,550.0
+La manouba,La manouba,100.0,3.0,1.0,1,400.0
+La manouba,Autres villes,100.0,3.0,1.0,1,430.0
+La manouba,Manouba Ville,65.0,2.0,1.0,0,400.0
+La manouba,La manouba,150.0,3.0,1.0,1,600.0
+La manouba,Manouba Ville,190.0,4.0,3.0,1,1100.0
+La manouba,Manouba Ville,150.0,4.0,1.0,1,850.0
+La manouba,Denden,95.0,3.0,1.0,0,430.0
+La manouba,Manouba Ville,100.0,3.0,1.0,0,600.0
+La manouba,Manouba Ville,40.0,1.0,1.0,0,280.0
+La manouba,Other,180.0,4.0,1.0,1,300.0
+La manouba,Autres villes,156.0,4.0,1.0,0,700.0
+La manouba,Douar Hicher,120.0,5.0,2.0,1,450.0
+La manouba,La manouba,80.0,1.0,1.0,0,450.0
+La manouba,Denden,140.0,3.0,1.0,0,400.0
+La manouba,La manouba,100.0,2.0,1.0,0,640.0
+La manouba,Denden,55.0,2.0,1.0,0,350.0
+La manouba,La manouba,65.0,2.0,1.0,0,640.0
+La manouba,Denden,100.0,1.0,1.0,1,150.0
+La manouba,Denden,120.0,3.0,1.0,0,370.0
+La manouba,Autres villes,180.0,3.0,2.0,1,400.0
+La manouba,Manouba Ville,116.0,3.0,1.0,0,620.0
+La manouba,Autres villes,150.0,3.0,1.0,1,300.0
+La manouba,Autres villes,140.0,4.0,2.0,1,750.0
+La manouba,La manouba,70.0,2.0,1.0,0,450.0
+La manouba,La manouba,76.0,2.0,1.0,1,430.0
+La manouba,La manouba,93.0,3.0,1.0,0,700.0
+La manouba,La manouba,90.0,3.0,1.0,0,700.0
+La manouba,Other,600.0,4.0,1.0,1,380.0
+La manouba,Other,100.0,2.0,1.0,0,400.0
+La manouba,La manouba,20.0,1.0,1.0,0,200.0
+La manouba,La manouba,100.0,2.0,1.0,1,600.0
+La manouba,Oued Ellil,80.0,3.0,1.0,0,300.0
+La manouba,La manouba,45.0,2.0,1.0,0,450.0
+La manouba,Autres villes,94.0,3.0,1.0,0,450.0
+La manouba,La manouba,200.0,4.0,2.0,1,950.0
+La manouba,Oued Ellil,75.0,2.0,1.0,0,300.0
+La manouba,Denden,110.0,3.0,1.0,0,800.0
+La manouba,La manouba,70.0,2.0,1.0,1,500.0
+La manouba,La manouba,100.0,3.0,1.0,0,75.0
+La manouba,La manouba,100.0,3.0,1.0,1,650.0
+La manouba,Oued Ellil,90.0,2.0,1.0,0,350.0
+La manouba,Denden,70.0,2.0,1.0,1,360.0
+La manouba,Denden,107.0,3.0,1.0,0,480.0
+La manouba,Manouba Ville,70.0,1.0,1.0,0,450.0
+La manouba,Manouba Ville,50.0,2.0,1.0,0,400.0
+La manouba,Other,205.0,4.0,1.0,1,480.0
+La manouba,Autres villes,80.0,3.0,1.0,0,500.0
+La manouba,La manouba,160.0,3.0,1.0,1,750.0
+La manouba,La manouba,100.0,2.0,1.0,0,350.0
+La manouba,Denden,160.0,2.0,1.0,1,600.0
+La manouba,Manouba Ville,95.0,2.0,1.0,0,500.0
+La manouba,Manouba Ville,100.0,3.0,1.0,0,495.0
+La manouba,Manouba Ville,98.0,3.0,1.0,0,550.0
+La manouba,Denden,110.0,4.0,1.0,0,550.0
+La manouba,Oued Ellil,100.0,3.0,1.0,1,300.0
+La manouba,Autres villes,120.0,4.0,1.0,1,450.0
+La manouba,Oued Ellil,100.0,3.0,1.0,1,220.0
+La manouba,Oued Ellil,120.0,3.0,1.0,1,400.0
+La manouba,Manouba Ville,300.0,4.0,1.0,1,1000.0
+La manouba,Autres villes,110.0,4.0,1.0,1,600.0
+La manouba,Denden,50.0,1.0,1.0,0,320.0
+La manouba,Oued Ellil,130.0,2.0,1.0,1,400.0
+La manouba,La manouba,83.0,2.0,1.0,0,550.0
+La manouba,Manouba Ville,85.0,2.0,1.0,0,400.0
+La manouba,Manouba Ville,50.0,1.0,1.0,0,290.0
+La manouba,Autres villes,90.0,3.0,1.0,0,300.0
+La manouba,La manouba,50.0,1.0,1.0,0,650.0
+La manouba,Manouba Ville,120.0,2.0,1.0,0,500.0
+La manouba,Manouba Ville,90.0,1.0,1.0,0,480.0
+La manouba,Denden,110.0,2.0,1.0,0,550.0
+La manouba,La manouba,70.0,1.0,1.0,0,380.0
+La manouba,La manouba,83.0,2.0,1.0,0,460.0
+La manouba,Denden,70.0,2.0,1.0,0,400.0
+La manouba,Autres villes,150.0,4.0,1.0,0,500.0
+La manouba,Manouba Ville,100.0,4.0,1.0,0,600.0
+La manouba,La manouba,80.0,3.0,1.0,0,450.0
+La manouba,Denden,150.0,4.0,1.0,1,150.0
+La manouba,Other,130.0,3.0,1.0,1,550.0
+La manouba,Autres villes,100.0,3.0,1.0,1,300.0
+La manouba,La manouba,110.0,2.0,1.0,0,500.0
+La manouba,Manouba Ville,70.0,3.0,1.0,0,420.0
+La manouba,La manouba,71.0,1.0,1.0,0,700.0
+La manouba,La manouba,110.0,4.0,1.0,1,600.0
+Le kef,Autres villes,220.0,2.0,1.0,1,550.0
+Le kef,Other,100.0,2.0,1.0,1,230.0
+Le kef,Other,150.0,4.0,1.0,1,400.0
+Le kef,Other,110.0,2.0,1.0,1,300.0
+Le kef,Other,573.0,5.0,2.0,1,650.0
+Le kef,Other,36.0,1.0,1.0,0,200.0
+Le kef,Other,200.0,2.0,1.0,1,550.0
+Le kef,Other,250.0,3.0,1.0,1,60.0
+Le kef,Autres villes,80.0,3.0,1.0,0,280.0
+Le kef,Other,110.0,3.0,1.0,1,250.0
+Mahdia,Mahdia,75.0,1.0,1.0,0,350.0
+Mahdia,Mahdia,143.0,3.0,2.0,0,750.0
+Mahdia,Mahdia,97.0,2.0,1.0,0,300.0
+Mahdia,Mahdia,150.0,2.0,3.0,0,800.0
+Mahdia,Mahdia,136.0,2.0,2.0,0,750.0
+Mahdia,Mahdia,46.0,1.0,1.0,0,450.0
+Mahdia,Mahdia,80.0,1.0,1.0,0,370.0
+Mahdia,Mahdia,110.0,2.0,1.0,0,400.0
+Mahdia,Mahdia,60.0,1.0,1.0,0,500.0
+Mahdia,Mahdia,65.0,1.0,1.0,0,350.0
+Mahdia,Mahdia,140.0,3.0,2.0,0,600.0
+Mahdia,Mahdia,98.0,2.0,1.0,0,350.0
+Mahdia,Mahdia,75.0,1.0,1.0,0,400.0
+Mahdia,Mahdia,60.0,1.0,1.0,0,250.0
+Mahdia,Mahdia,70.0,3.0,1.0,1,240.0
+Mahdia,Mahdia,90.0,1.0,1.0,0,350.0
+Mahdia,Mahdia,60.0,2.0,1.0,0,250.0
+Mahdia,Mahdia,100.0,3.0,1.0,0,50.0
+Mahdia,Mahdia,200.0,3.0,1.0,1,550.0
+Mahdia,Autres villes,90.0,2.0,1.0,1,350.0
+Mahdia,Mahdia,20.0,1.0,1.0,0,300.0
+Mahdia,Autres villes,100.0,1.0,1.0,1,250.0
+Mahdia,Mahdia,200.0,3.0,2.0,1,600.0
+Mahdia,Autres villes,70.0,2.0,1.0,1,300.0
+Mahdia,Mahdia,70.0,1.0,1.0,0,370.0
+Mahdia,Mahdia,60.0,1.0,1.0,0,280.0
+Mahdia,Mahdia,60.0,1.0,1.0,0,400.0
+Mahdia,Other,200.0,3.0,1.0,1,600.0
+Mahdia,Mahdia,120.0,2.0,2.0,0,70.0
+Mahdia,Mahdia,100.0,2.0,1.0,0,50.0
+Mahdia,Mahdia,430.0,2.0,1.0,1,180.0
+Mahdia,Mahdia,80.0,2.0,1.0,0,80.0
+Mahdia,Mahdia,430.0,2.0,2.0,1,200.0
+Mahdia,Mahdia,120.0,3.0,1.0,0,450.0
+Mahdia,Mahdia,124.0,2.0,2.0,0,500.0
+Mahdia,Mahdia,150.0,3.0,1.0,0,500.0
+Mahdia,Mahdia,90.0,2.0,1.0,0,550.0
+Mahdia,Mahdia,90.0,2.0,1.0,0,460.0
+Mahdia,Mahdia,76.0,2.0,1.0,0,800.0
+Mahdia,Autres villes,90.0,2.0,2.0,0,50.0
+Mahdia,Autres villes,100.0,2.0,2.0,0,50.0
+Mahdia,Mahdia,80.0,2.0,1.0,0,380.0
+Mahdia,Mahdia,125.0,2.0,1.0,0,850.0
+Mahdia,Mahdia,120.0,2.0,1.0,0,420.0
+Mahdia,Mahdia,486.0,4.0,2.0,1,450.0
+Mahdia,Mahdia,100.0,2.0,1.0,0,330.0
+Mahdia,Mahdia,100.0,2.0,2.0,0,600.0
+Mahdia,Autres villes,160.0,3.0,1.0,1,200.0
+Mahdia,Mahdia,102.0,2.0,1.0,0,650.0
+Mahdia,Autres villes,166.0,3.0,2.0,0,480.0
+Mahdia,Mahdia,100.0,2.0,1.0,0,550.0
+Mahdia,Mahdia,80.0,1.0,1.0,0,500.0
+Mahdia,Mahdia,90.0,1.0,1.0,0,600.0
+Mahdia,Mahdia,65.0,1.0,1.0,0,450.0
+Mahdia,Mahdia,102.0,2.0,1.0,0,550.0
+Mahdia,Mahdia,150.0,3.0,1.0,1,370.0
+Mahdia,Mahdia,120.0,2.0,1.0,0,850.0
+Mahdia,Mahdia,102.0,2.0,1.0,0,500.0
+Mahdia,Autres villes,85.0,2.0,1.0,0,500.0
+Médenine,Djerba - Midoun,28.0,1.0,1.0,0,200.0
+Médenine,Djerba - Midoun,90.0,2.0,1.0,1,70.0
+Médenine,Djerba - Midoun,120.0,4.0,2.0,1,1100.0
+Médenine,Djerba - Midoun,500.0,3.0,1.0,1,1500.0
+Médenine,Djerba - Midoun,80.0,2.0,1.0,1,600.0
+Médenine,Other,120.0,2.0,1.0,1,400.0
+Médenine,Djerba - Midoun,350.0,3.0,2.0,1,1300.0
+Médenine,Other,100.0,2.0,1.0,1,650.0
+Médenine,Djerba - Midoun,300.0,3.0,2.0,1,750.0
+Médenine,Djerba - Midoun,75.0,2.0,1.0,1,700.0
+Médenine,Other,100.0,2.0,1.0,0,50.0
+Médenine,Autres villes,600.0,5.0,3.0,1,750.0
+Médenine,Djerba - Midoun,100.0,3.0,1.0,1,500.0
+Médenine,Other,175.0,2.0,1.0,1,600.0
+Médenine,Autres villes,150.0,3.0,2.0,1,750.0
+Médenine,Autres villes,120.0,2.0,1.0,1,800.0
+Médenine,Djerba - Midoun,350.0,4.0,2.0,1,950.0
+Médenine,Other,150.0,3.0,1.0,1,1500.0
+Médenine,Autres villes,70.0,1.0,1.0,1,650.0
+Médenine,Djerba - Midoun,50.0,2.0,1.0,0,50.0
+Médenine,Autres villes,145.0,3.0,2.0,1,170.0
+Médenine,Djerba - Midoun,120.0,2.0,2.0,1,1000.0
+Médenine,Autres villes,81.0,3.0,1.0,1,600.0
+Médenine,Djerba - Midoun,500.0,3.0,1.0,1,550.0
+Médenine,Djerba - Midoun,100.0,2.0,1.0,1,450.0
+Médenine,Djerba - Midoun,220.0,4.0,3.0,1,3200.0
+Médenine,Djerba - Midoun,100.0,2.0,1.0,1,400.0
+Médenine,Djerba - Midoun,120.0,3.0,1.0,0,550.0
+Médenine,Djerba - Midoun,170.0,3.0,2.0,1,350.0
+Médenine,Djerba - Midoun,250.0,2.0,1.0,1,250.0
+Médenine,Djerba - Midoun,120.0,3.0,1.0,1,450.0
+Médenine,Autres villes,55.0,2.0,1.0,0,350.0
+Médenine,Other,210.0,3.0,2.0,1,1200.0
+Médenine,Autres villes,138.0,2.0,1.0,1,350.0
+Médenine,Other,120.0,3.0,1.0,1,350.0
+Médenine,Other,140.0,2.0,2.0,1,1600.0
+Monastir,Monastir,80.0,2.0,1.0,0,320.0
+Monastir,Autres villes,90.0,2.0,1.0,0,550.0
+Monastir,Monastir,100.0,2.0,1.0,0,500.0
+Monastir,Autres villes,65.0,1.0,1.0,0,450.0
+Monastir,Monastir,100.0,2.0,1.0,1,50.0
+Monastir,Autres villes,125.0,3.0,1.0,1,549.0
+Monastir,Autres villes,130.0,2.0,2.0,0,450.0
+Monastir,Monastir,75.0,1.0,1.0,0,450.0
+Monastir,Monastir,65.0,1.0,1.0,0,380.0
+Monastir,Monastir,100.0,2.0,1.0,1,330.0
+Monastir,Autres villes,45.0,1.0,1.0,0,170.0
+Monastir,Monastir,100.0,3.0,1.0,0,400.0
+Monastir,Monastir,60.0,2.0,1.0,0,390.0
+Monastir,Autres villes,80.0,1.0,1.0,0,50.0
+Monastir,Other,100.0,2.0,1.0,0,350.0
+Monastir,Autres villes,70.0,1.0,1.0,0,340.0
+Monastir,Monastir,102.0,3.0,1.0,0,550.0
+Monastir,Monastir,55.0,1.0,1.0,0,370.0
+Monastir,Monastir,100.0,2.0,1.0,0,600.0
+Monastir,Autres villes,50.0,1.0,1.0,0,320.0
+Monastir,Monastir,100.0,2.0,1.0,0,800.0
+Monastir,Autres villes,50.0,2.0,1.0,0,320.0
+Monastir,Monastir,100.0,2.0,1.0,1,600.0
+Monastir,Monastir,54.0,1.0,1.0,0,400.0
+Monastir,Monastir,110.0,2.0,1.0,0,800.0
+Monastir,Monastir,70.0,1.0,1.0,0,60.0
+Monastir,Monastir,100.0,3.0,2.0,0,400.0
+Monastir,Monastir,70.0,1.0,1.0,0,420.0
+Monastir,Monastir,200.0,4.0,2.0,1,1000.0
+Monastir,Monastir,100.0,2.0,2.0,0,500.0
+Monastir,Monastir,83.0,3.0,1.0,0,450.0
+Monastir,Monastir,120.0,3.0,1.0,0,600.0
+Monastir,Autres villes,105.0,2.0,1.0,0,1200.0
+Monastir,Monastir,60.0,1.0,1.0,0,330.0
+Monastir,Monastir,65.0,1.0,1.0,0,550.0
+Monastir,Monastir,100.0,3.0,1.0,0,450.0
+Monastir,Monastir,90.0,2.0,1.0,0,600.0
+Monastir,Monastir,50.0,1.0,1.0,0,260.0
+Monastir,Autres villes,250.0,2.0,1.0,1,80.0
+Monastir,Monastir,120.0,3.0,2.0,0,700.0
+Monastir,Monastir,70.0,1.0,1.0,0,600.0
+Monastir,Monastir,100.0,2.0,1.0,0,1200.0
+Monastir,Monastir,200.0,3.0,1.0,0,1200.0
+Monastir,Monastir,600.0,4.0,3.0,1,1000.0
+Monastir,Monastir,200.0,3.0,1.0,0,500.0
+Monastir,Monastir,50.0,1.0,1.0,0,500.0
+Monastir,Monastir,92.0,2.0,1.0,0,420.0
+Monastir,Autres villes,70.0,3.0,1.0,0,70.0
+Monastir,Monastir,160.0,3.0,2.0,1,650.0
+Monastir,Autres villes,65.0,1.0,1.0,0,350.0
+Monastir,Monastir,220.0,3.0,1.0,0,1500.0
+Monastir,Monastir,150.0,3.0,1.0,0,900.0
+Monastir,Monastir,95.0,2.0,1.0,0,420.0
+Monastir,Monastir,100.0,2.0,1.0,0,750.0
+Monastir,Monastir,60.0,1.0,1.0,0,1000.0
+Monastir,Monastir,500.0,2.0,1.0,0,500.0
+Monastir,Monastir,75.0,1.0,1.0,0,350.0
+Monastir,Monastir,95.0,2.0,1.0,0,400.0
+Monastir,Monastir,90.0,2.0,1.0,0,380.0
+Monastir,Monastir,85.0,2.0,1.0,0,350.0
+Monastir,Monastir,60.0,1.0,1.0,0,750.0
+Monastir,Autres villes,65.0,2.0,1.0,0,300.0
+Monastir,Monastir,80.0,2.0,1.0,0,220.0
+Monastir,Autres villes,120.0,3.0,1.0,0,380.0
+Monastir,Autres villes,100.0,1.0,1.0,1,260.0
+Monastir,Monastir,100.0,5.0,2.0,1,360.0
+Monastir,Monastir,90.0,2.0,1.0,0,630.0
+Monastir,Monastir,80.0,2.0,1.0,0,500.0
+Monastir,Monastir,420.0,4.0,4.0,1,1500.0
+Monastir,Monastir,75.0,2.0,1.0,0,350.0
+Monastir,Monastir,60.0,2.0,1.0,0,330.0
+Monastir,Monastir,60.0,2.0,1.0,0,900.0
+Monastir,Monastir,70.0,1.0,1.0,0,320.0
+Monastir,Autres villes,110.0,2.0,1.0,1,300.0
+Monastir,Monastir,100.0,2.0,1.0,1,950.0
+Monastir,Autres villes,65.0,1.0,1.0,0,400.0
+Monastir,Other,85.0,2.0,1.0,0,550.0
+Monastir,Monastir,82.0,2.0,1.0,0,850.0
+Monastir,Autres villes,45.0,1.0,1.0,0,270.0
+Monastir,Monastir,140.0,2.0,1.0,0,500.0
+Monastir,Autres villes,120.0,4.0,1.0,0,520.0
+Monastir,Monastir,80.0,1.0,1.0,0,250.0
+Monastir,Monastir,90.0,1.0,1.0,0,800.0
+Monastir,Monastir,90.0,2.0,1.0,0,700.0
+Monastir,Autres villes,110.0,1.0,1.0,0,310.0
+Monastir,Monastir,200.0,4.0,2.0,1,650.0
+Monastir,Monastir,400.0,4.0,2.0,1,650.0
+Monastir,Monastir,90.0,2.0,1.0,0,500.0
+Monastir,Autres villes,40.0,1.0,1.0,0,60.0
+Monastir,Autres villes,60.0,2.0,1.0,0,280.0
+Monastir,Monastir,150.0,2.0,1.0,0,500.0
+Monastir,Monastir,55.0,2.0,1.0,0,320.0
+Monastir,Monastir,150.0,1.0,1.0,1,250.0
+Monastir,Monastir,80.0,2.0,1.0,0,370.0
+Monastir,Monastir,50.0,1.0,1.0,0,400.0
+Monastir,Monastir,70.0,1.0,1.0,0,650.0
+Monastir,Monastir,200.0,3.0,1.0,1,700.0
+Monastir,Monastir,100.0,2.0,1.0,0,370.0
+Monastir,Monastir,90.0,2.0,1.0,0,400.0
+Monastir,Monastir,45.0,1.0,1.0,0,50.0
+Monastir,Autres villes,120.0,3.0,1.0,0,100.0
+Monastir,Other,70.0,1.0,1.0,0,220.0
+Monastir,Monastir,200.0,3.0,1.0,1,1200.0
+Monastir,Monastir,50.0,2.0,1.0,0,350.0
+Monastir,Autres villes,50.0,1.0,1.0,0,400.0
+Monastir,Monastir,40.0,1.0,1.0,0,200.0
+Monastir,Other,60.0,1.0,1.0,0,250.0
+Monastir,Other,100.0,2.0,1.0,0,300.0
+Monastir,Monastir,50.0,1.0,1.0,0,320.0
+Monastir,Monastir,105.0,3.0,1.0,0,800.0
+Monastir,Monastir,71.0,2.0,1.0,0,300.0
+Monastir,Other,150.0,1.0,1.0,1,300.0
+Monastir,Monastir,85.0,2.0,1.0,0,380.0
+Monastir,Monastir,50.0,1.0,1.0,0,550.0
+Monastir,Monastir,80.0,2.0,1.0,0,800.0
+Monastir,Monastir,50.0,2.0,1.0,0,280.0
+Monastir,Autres villes,35.0,1.0,1.0,0,320.0
+Monastir,Monastir,60.0,2.0,1.0,0,450.0
+Monastir,Autres villes,150.0,3.0,1.0,1,450.0
+Monastir,Monastir,90.0,2.0,1.0,0,420.0
+Monastir,Monastir,30.0,1.0,1.0,0,250.0
+Monastir,Monastir,120.0,3.0,1.0,0,530.0
+Monastir,Monastir,200.0,3.0,2.0,1,650.0
+Monastir,Autres villes,80.0,2.0,1.0,0,1100.0
+Monastir,Autres villes,120.0,2.0,1.0,0,80.0
+Monastir,Other,145.0,3.0,1.0,0,500.0
+Monastir,Monastir,85.0,3.0,1.0,0,350.0
+Monastir,Monastir,45.0,1.0,1.0,0,310.0
+Monastir,Autres villes,230.0,4.0,2.0,1,1500.0
+Monastir,Monastir,120.0,3.0,1.0,1,450.0
+Monastir,Autres villes,55.0,2.0,1.0,0,500.0
+Monastir,Autres villes,70.0,2.0,1.0,0,380.0
+Monastir,Monastir,70.0,2.0,1.0,0,460.0
+Monastir,Autres villes,80.0,2.0,1.0,0,550.0
+Monastir,Autres villes,100.0,2.0,2.0,0,900.0
+Monastir,Other,250.0,3.0,1.0,1,320.0
+Monastir,Autres villes,50.0,1.0,1.0,0,300.0
+Monastir,Other,250.0,4.0,1.0,1,250.0
+Monastir,Monastir,85.0,2.0,1.0,0,400.0
+Monastir,Monastir,100.0,2.0,1.0,0,390.0
+Monastir,Monastir,85.0,1.0,1.0,0,50.0
+Monastir,Monastir,92.0,2.0,1.0,0,600.0
+Monastir,Monastir,88.0,1.0,1.0,0,280.0
+Monastir,Monastir,48.0,1.0,1.0,0,420.0
+Monastir,Monastir,250.0,2.0,1.0,1,750.0
+Monastir,Monastir,70.0,1.0,1.0,0,450.0
+Monastir,Monastir,70.0,2.0,1.0,0,500.0
+Monastir,Monastir,430.0,3.0,1.0,1,900.0
+Monastir,Monastir,112.0,3.0,1.0,0,800.0
+Monastir,Monastir,123.0,4.0,2.0,0,500.0
+Monastir,Monastir,75.0,1.0,1.0,0,70.0
+Monastir,Monastir,50.0,1.0,1.0,0,600.0
+Monastir,Autres villes,100.0,2.0,1.0,0,450.0
+Monastir,Autres villes,60.0,1.0,1.0,0,350.0
+Sousse,Sahloul,90.0,2.0,1.0,0,450.0
+Sousse,Hammam Sousse,130.0,3.0,1.0,0,800.0
+Sousse,Hergla,70.0,2.0,1.0,0,60.0
+Sousse,Autres villes,65.0,1.0,1.0,0,650.0
+Sousse,Akouda,113.0,2.0,1.0,0,850.0
+Sousse,Sousse Jawhara,80.0,2.0,1.0,0,400.0
+Sousse,Autres villes,35.0,1.0,1.0,0,400.0
+Sousse,Sahloul,56.0,1.0,1.0,0,600.0
+Sousse,Autres villes,100.0,3.0,1.0,1,600.0
+Sousse,Hammam Sousse,80.0,1.0,1.0,0,380.0
+Sousse,Kantaoui,40.0,1.0,1.0,0,60.0
+Sousse,Sahloul,95.0,2.0,1.0,0,650.0
+Sousse,Autres villes,100.0,2.0,1.0,0,650.0
+Sousse,Sahloul,200.0,3.0,1.0,0,1100.0
+Sousse,Sahloul,150.0,3.0,2.0,0,950.0
+Sousse,Sahloul,120.0,2.0,1.0,0,800.0
+Sousse,Autres villes,200.0,3.0,1.0,0,500.0
+Sousse,Sahloul,90.0,2.0,1.0,0,850.0
+Sousse,Autres villes,80.0,2.0,1.0,0,750.0
+Sousse,Sousse Riadh,60.0,1.0,1.0,0,350.0
+Sousse,Sousse Riadh,250.0,3.0,1.0,1,800.0
+Sousse,Sahloul,240.0,3.0,1.0,0,1000.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,1150.0
+Sousse,Sahloul,100.0,2.0,1.0,1,650.0
+Sousse,Sahloul,150.0,3.0,1.0,0,1200.0
+Sousse,Hammam Sousse,300.0,3.0,1.0,1,1200.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,650.0
+Sousse,Kantaoui,400.0,5.0,2.0,1,1800.0
+Sousse,Sahloul,90.0,2.0,1.0,0,690.0
+Sousse,Sousse Jawhara,200.0,4.0,1.0,1,900.0
+Sousse,Sousse Riadh,86.0,2.0,1.0,0,450.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,1200.0
+Sousse,Sahloul,100.0,2.0,1.0,0,450.0
+Sousse,Sousse Riadh,190.0,4.0,1.0,1,770.0
+Sousse,Sahloul,50.0,1.0,1.0,0,520.0
+Sousse,Autres villes,100.0,2.0,1.0,0,1100.0
+Sousse,Kantaoui,100.0,2.0,2.0,0,1300.0
+Sousse,Kantaoui,100.0,2.0,1.0,0,1200.0
+Sousse,Kantaoui,450.0,3.0,1.0,1,1000.0
+Sousse,Hammam Sousse,150.0,2.0,1.0,0,900.0
+Sousse,Kantaoui,100.0,2.0,1.0,0,800.0
+Sousse,Sahloul,160.0,3.0,1.0,0,950.0
+Sousse,Kantaoui,100.0,2.0,1.0,0,1000.0
+Sousse,Kantaoui,52.0,1.0,1.0,0,450.0
+Sousse,Kantaoui,75.0,1.0,1.0,0,900.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,450.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,1,550.0
+Sousse,Autres villes,60.0,1.0,1.0,0,750.0
+Sousse,Sahloul,70.0,3.0,1.0,0,500.0
+Sousse,Autres villes,45.0,2.0,1.0,0,400.0
+Sousse,Sousse Jawhara,60.0,1.0,1.0,0,550.0
+Sousse,Autres villes,220.0,3.0,2.0,0,820.0
+Sousse,Sahloul,220.0,3.0,2.0,0,900.0
+Sousse,Hammam Sousse,500.0,4.0,1.0,1,2100.0
+Sousse,Sahloul,90.0,2.0,1.0,0,750.0
+Sousse,Sousse Jawhara,95.0,2.0,1.0,0,450.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,550.0
+Sousse,Sahloul,62.0,1.0,1.0,0,750.0
+Sousse,Sahloul,60.0,1.0,1.0,0,600.0
+Sousse,Other,55.0,1.0,1.0,0,200.0
+Sousse,Sahloul,80.0,1.0,1.0,0,700.0
+Sousse,Sousse Riadh,99.0,2.0,1.0,0,450.0
+Sousse,Sousse Jawhara,80.0,1.0,1.0,0,750.0
+Sousse,Sousse Médina,100.0,2.0,1.0,0,1250.0
+Sousse,Autres villes,75.0,1.0,1.0,0,350.0
+Sousse,Sousse Médina,100.0,2.0,1.0,0,1150.0
+Sousse,Sahloul,110.0,2.0,1.0,0,400.0
+Sousse,Hammam Sousse,130.0,2.0,1.0,0,550.0
+Sousse,Sousse Jawhara,80.0,2.0,1.0,0,750.0
+Sousse,Sahloul,130.0,2.0,1.0,0,800.0
+Sousse,Sousse Riadh,130.0,2.0,1.0,0,650.0
+Sousse,Sahloul,76.0,1.0,1.0,0,700.0
+Sousse,Sousse Riadh,120.0,2.0,1.0,0,1100.0
+Sousse,Sahloul,120.0,2.0,1.0,1,400.0
+Sousse,Sahloul,130.0,3.0,2.0,0,1300.0
+Sousse,Sousse Jawhara,130.0,2.0,1.0,0,750.0
+Sousse,Sousse Jawhara,125.0,3.0,1.0,0,1050.0
+Sousse,Autres villes,120.0,2.0,1.0,0,1100.0
+Sousse,Autres villes,70.0,1.0,1.0,0,750.0
+Sousse,Autres villes,220.0,3.0,1.0,0,600.0
+Sousse,Other,270.0,4.0,1.0,0,450.0
+Sousse,Kantaoui,200.0,3.0,3.0,1,1400.0
+Sousse,Sahloul,100.0,2.0,1.0,0,800.0
+Sousse,Sousse,80.0,1.0,1.0,0,1000.0
+Sousse,Sahloul,90.0,2.0,1.0,0,700.0
+Sousse,Sousse Médina,56.0,2.0,1.0,0,300.0
+Sousse,Kantaoui,70.0,1.0,1.0,0,1111.0
+Sousse,Autres villes,90.0,2.0,1.0,0,300.0
+Sousse,Sousse Médina,120.0,2.0,1.0,0,1100.0
+Sousse,Sousse Médina,70.0,1.0,1.0,0,750.0
+Sousse,Hammam Sousse,170.0,3.0,1.0,0,1600.0
+Sousse,Sousse Médina,100.0,2.0,1.0,0,800.0
+Sousse,Sahloul,85.0,2.0,1.0,0,450.0
+Sousse,Hammam Sousse,120.0,3.0,1.0,0,1200.0
+Sousse,Sousse Jawhara,70.0,1.0,1.0,0,700.0
+Sousse,Sousse,140.0,2.0,1.0,0,550.0
+Sousse,Hammam Sousse,70.0,1.0,1.0,0,650.0
+Sousse,Autres villes,120.0,2.0,1.0,0,1250.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,450.0
+Sousse,Hammam Sousse,180.0,3.0,2.0,0,900.0
+Sousse,Sahloul,149.0,3.0,2.0,0,1000.0
+Sousse,Hammam Sousse,80.0,1.0,1.0,0,650.0
+Sousse,Sousse Médina,60.0,2.0,1.0,0,800.0
+Sousse,Hammam Sousse,85.0,2.0,1.0,0,800.0
+Sousse,Autres villes,90.0,2.0,1.0,0,800.0
+Sousse,Hammam Sousse,60.0,1.0,1.0,0,1000.0
+Sousse,Akouda,50.0,1.0,1.0,0,1500.0
+Sousse,Sahloul,80.0,2.0,1.0,0,550.0
+Sousse,Sousse,100.0,2.0,1.0,0,500.0
+Sousse,Sahloul,125.0,3.0,1.0,0,800.0
+Sousse,Sousse,113.0,2.0,1.0,0,1100.0
+Sousse,Sousse Riadh,100.0,2.0,1.0,0,350.0
+Sousse,Autres villes,75.0,1.0,1.0,0,450.0
+Sousse,Hammam Sousse,40.0,1.0,1.0,0,650.0
+Sousse,Hammam Sousse,100.0,3.0,1.0,0,600.0
+Sousse,Hammam Sousse,115.0,3.0,1.0,0,800.0
+Sousse,Sousse Jawhara,400.0,5.0,2.0,1,1300.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,800.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,700.0
+Sousse,Sahloul,110.0,2.0,1.0,0,700.0
+Sousse,Kantaoui,60.0,1.0,1.0,0,300.0
+Sousse,Sousse Médina,90.0,4.0,1.0,1,450.0
+Sousse,Sousse Jawhara,52.0,1.0,1.0,0,700.0
+Sousse,Hammam Sousse,90.0,2.0,2.0,0,600.0
+Sousse,Sousse,80.0,2.0,1.0,0,1000.0
+Sousse,Sousse Jawhara,45.0,1.0,1.0,0,350.0
+Sousse,Sahloul,150.0,3.0,2.0,0,700.0
+Sousse,Sahloul,140.0,3.0,2.0,0,730.0
+Sousse,Sousse Riadh,150.0,5.0,1.0,1,450.0
+Sousse,Sousse Jawhara,150.0,3.0,2.0,0,800.0
+Sousse,Other,120.0,4.0,1.0,1,240.0
+Sousse,Other,120.0,4.0,1.0,0,300.0
+Sousse,Sousse Jawhara,180.0,2.0,1.0,0,620.0
+Sousse,Autres villes,90.0,2.0,1.0,0,450.0
+Sousse,Sousse Jawhara,150.0,2.0,1.0,0,450.0
+Sousse,Hammam Sousse,250.0,3.0,2.0,1,1200.0
+Sousse,Sahloul,130.0,3.0,2.0,1,800.0
+Sousse,Sahloul,120.0,3.0,2.0,0,950.0
+Sousse,Sahloul,200.0,3.0,2.0,1,1250.0
+Sousse,Autres villes,150.0,3.0,1.0,0,800.0
+Sousse,Hammam Sousse,90.0,2.0,1.0,0,500.0
+Sousse,Sahloul,120.0,3.0,1.0,0,1000.0
+Sousse,Hammam Sousse,120.0,2.0,1.0,0,1200.0
+Sousse,Sahloul,140.0,4.0,1.0,0,900.0
+Sousse,Sousse Jawhara,90.0,2.0,1.0,0,1000.0
+Sousse,Sousse,220.0,1.0,1.0,0,800.0
+Sousse,Hammam Sousse,100.0,1.0,1.0,0,350.0
+Sousse,Sousse,150.0,2.0,2.0,0,710.0
+Sousse,Hergla,65.0,1.0,1.0,0,70.0
+Sousse,Sousse Riadh,100.0,2.0,1.0,0,390.0
+Sousse,Other,95.0,3.0,1.0,0,350.0
+Sousse,Other,120.0,2.0,1.0,1,300.0
+Sousse,Autres villes,70.0,2.0,1.0,0,380.0
+Sousse,Sousse Riadh,80.0,2.0,1.0,0,450.0
+Sousse,Autres villes,80.0,1.0,1.0,0,450.0
+Sousse,Autres villes,120.0,2.0,1.0,0,1000.0
+Sousse,Sahloul,50.0,1.0,1.0,0,370.0
+Sousse,Kantaoui,200.0,2.0,2.0,0,1800.0
+Sousse,Autres villes,120.0,2.0,1.0,0,570.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,770.0
+Sousse,Sousse Médina,120.0,3.0,1.0,0,600.0
+Sousse,Sousse Jawhara,1000.0,6.0,4.0,1,2200.0
+Sousse,Kantaoui,60.0,1.0,1.0,0,1200.0
+Sousse,Hammam Sousse,120.0,2.0,1.0,0,750.0
+Sousse,Sousse,120.0,2.0,1.0,0,390.0
+Sousse,Autres villes,100.0,2.0,1.0,0,300.0
+Sousse,Sousse Riadh,95.0,2.0,1.0,0,480.0
+Sousse,Autres villes,300.0,5.0,3.0,1,1400.0
+Sousse,Sousse Jawhara,170.0,2.0,1.0,0,500.0
+Sousse,Other,40.0,1.0,1.0,0,200.0
+Sousse,Sahloul,130.0,3.0,1.0,0,900.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,850.0
+Sousse,Autres villes,70.0,1.0,1.0,0,70.0
+Sousse,Autres villes,80.0,2.0,1.0,0,350.0
+Sousse,Other,100.0,4.0,1.0,1,300.0
+Sousse,Sahloul,160.0,4.0,2.0,0,850.0
+Sousse,Sahloul,85.0,3.0,1.0,0,550.0
+Sousse,Hammam Sousse,150.0,2.0,1.0,0,750.0
+Sousse,Sousse,78.0,2.0,1.0,0,600.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,600.0
+Sousse,Hammam Sousse,55.0,1.0,1.0,0,450.0
+Sousse,Sousse Riadh,80.0,3.0,1.0,0,300.0
+Sousse,Sousse Jawhara,220.0,4.0,2.0,1,800.0
+Sousse,Hammam Sousse,80.0,1.0,1.0,0,70.0
+Sousse,Hammam Sousse,60.0,1.0,1.0,0,60.0
+Sousse,Kantaoui,300.0,3.0,1.0,1,1800.0
+Sousse,Hammam Sousse,75.0,1.0,1.0,0,450.0
+Sousse,Sousse,90.0,2.0,1.0,0,650.0
+Sousse,Sousse,100.0,2.0,1.0,0,750.0
+Sousse,Sousse,110.0,3.0,1.0,0,1200.0
+Sousse,Autres villes,80.0,2.0,1.0,0,650.0
+Sousse,Kantaoui,500.0,4.0,4.0,1,1700.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,1100.0
+Sousse,Kantaoui,55.0,1.0,1.0,0,520.0
+Sousse,Other,70.0,1.0,1.0,0,280.0
+Sousse,Sousse,115.0,3.0,1.0,0,1000.0
+Sousse,Sahloul,130.0,3.0,1.0,0,850.0
+Sousse,Sousse Jawhara,200.0,3.0,2.0,1,650.0
+Sousse,Sousse Jawhara,150.0,3.0,2.0,0,700.0
+Sousse,Autres villes,60.0,2.0,1.0,0,700.0
+Sousse,Hammam Sousse,60.0,1.0,1.0,0,650.0
+Sousse,Hammam Sousse,180.0,3.0,2.0,1,850.0
+Sousse,Sahloul,200.0,3.0,2.0,1,1200.0
+Sousse,Other,50.0,1.0,1.0,0,180.0
+Sousse,Hammam Sousse,120.0,2.0,1.0,0,1000.0
+Sousse,Hammam Sousse,85.0,2.0,1.0,0,590.0
+Sousse,Hammam Sousse,120.0,2.0,1.0,1,750.0
+Sousse,Sahloul,135.0,3.0,1.0,0,1000.0
+Sousse,Hammam Sousse,65.0,1.0,1.0,0,700.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,620.0
+Sousse,Hergla,70.0,1.0,1.0,0,70.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,500.0
+Sousse,Sousse Jawhara,115.0,2.0,1.0,0,850.0
+Sousse,Sahloul,75.0,1.0,1.0,0,700.0
+Sousse,Sahloul,130.0,2.0,1.0,0,900.0
+Sousse,Hammam Sousse,55.0,1.0,1.0,0,400.0
+Sousse,Sahloul,115.0,2.0,1.0,0,900.0
+Sousse,Sahloul,145.0,4.0,2.0,0,1200.0
+Sousse,Sousse Médina,80.0,2.0,1.0,0,600.0
+Sousse,Kantaoui,120.0,2.0,1.0,0,750.0
+Sousse,Other,120.0,3.0,1.0,0,290.0
+Sousse,Kantaoui,70.0,2.0,1.0,0,650.0
+Sousse,Sousse Jawhara,120.0,2.0,1.0,0,850.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,850.0
+Sousse,Sousse,120.0,2.0,1.0,1,300.0
+Sousse,Hammam Sousse,34.0,1.0,1.0,0,450.0
+Sousse,Sousse,200.0,4.0,2.0,0,800.0
+Sousse,Kantaoui,60.0,1.0,1.0,0,550.0
+Sousse,Sahloul,110.0,2.0,1.0,0,600.0
+Sousse,Sousse,65.0,1.0,1.0,0,520.0
+Sousse,Kantaoui,150.0,3.0,2.0,0,1600.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,600.0
+Sousse,Sousse Riadh,85.0,2.0,1.0,0,700.0
+Sousse,Other,160.0,2.0,1.0,0,320.0
+Sousse,Sahloul,170.0,3.0,1.0,0,800.0
+Sousse,Hammam Sousse,55.0,1.0,1.0,0,800.0
+Sousse,Sousse Jawhara,120.0,2.0,1.0,0,700.0
+Sousse,Autres villes,100.0,2.0,1.0,0,450.0
+Sousse,Sousse Jawhara,50.0,1.0,1.0,0,290.0
+Sousse,Sahloul,140.0,3.0,1.0,0,1000.0
+Sousse,Sousse Médina,200.0,3.0,1.0,1,800.0
+Sousse,Kantaoui,200.0,3.0,2.0,0,1000.0
+Sousse,Hammam Sousse,50.0,2.0,1.0,0,300.0
+Sousse,Kantaoui,100.0,2.0,2.0,0,1200.0
+Sousse,Akouda,410.0,3.0,3.0,1,3500.0
+Sousse,Sousse Jawhara,150.0,2.0,2.0,0,1500.0
+Sousse,Sousse Jawhara,130.0,2.0,1.0,0,850.0
+Sousse,Kantaoui,200.0,3.0,3.0,1,1700.0
+Sousse,Kantaoui,100.0,2.0,1.0,0,650.0
+Sousse,Sahloul,115.0,2.0,1.0,0,700.0
+Sousse,Hammam Sousse,140.0,2.0,1.0,0,600.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,600.0
+Sousse,Hammam Sousse,100.0,2.0,2.0,0,850.0
+Sousse,Sousse,120.0,2.0,1.0,1,600.0
+Sousse,Autres villes,50.0,1.0,1.0,0,350.0
+Sousse,Autres villes,50.0,1.0,1.0,0,240.0
+Sousse,Sousse,100.0,2.0,1.0,0,900.0
+Sousse,Sahloul,110.0,2.0,1.0,0,670.0
+Sousse,Hammam Sousse,80.0,2.0,1.0,0,600.0
+Sousse,Kantaoui,250.0,3.0,2.0,1,1800.0
+Sousse,Hammam Sousse,150.0,3.0,2.0,0,700.0
+Sousse,Sahloul,83.0,1.0,1.0,0,550.0
+Sousse,Autres villes,80.0,2.0,1.0,0,800.0
+Sousse,Sousse,100.0,2.0,1.0,0,550.0
+Sousse,Sahloul,90.0,2.0,1.0,0,800.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,1000.0
+Sousse,Akouda,100.0,1.0,1.0,0,350.0
+Sousse,Sousse Jawhara,50.0,1.0,1.0,0,300.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,1400.0
+Sousse,Sousse Jawhara,145.0,3.0,1.0,0,700.0
+Sousse,Kantaoui,120.0,2.0,2.0,0,1300.0
+Sousse,Sousse,95.0,2.0,1.0,0,600.0
+Sousse,Akouda,400.0,5.0,3.0,1,1500.0
+Sousse,Hammam Sousse,150.0,3.0,2.0,0,1100.0
+Sousse,Hammam Sousse,140.0,2.0,2.0,0,900.0
+Sousse,Autres villes,120.0,3.0,2.0,0,850.0
+Sousse,Sahloul,130.0,3.0,2.0,0,1000.0
+Sousse,Kantaoui,75.0,2.0,1.0,0,1000.0
+Sousse,Autres villes,25.0,1.0,1.0,0,250.0
+Sousse,Autres villes,100.0,2.0,1.0,0,750.0
+Sousse,Hergla,60.0,1.0,1.0,0,700.0
+Sousse,Sousse,40.0,1.0,1.0,0,400.0
+Sousse,Sousse Jawhara,230.0,2.0,1.0,0,1800.0
+Sousse,Hammam Sousse,200.0,2.0,1.0,1,1800.0
+Sousse,Sousse Jawhara,200.0,4.0,1.0,1,1000.0
+Sousse,Hammam Sousse,90.0,1.0,1.0,0,550.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,900.0
+Sousse,Sousse Jawhara,200.0,3.0,1.0,0,1100.0
+Sousse,Sahloul,55.0,1.0,1.0,0,700.0
+Sousse,Sousse,120.0,2.0,1.0,0,1250.0
+Sousse,Sahloul,90.0,3.0,1.0,0,650.0
+Sousse,Akouda,95.0,2.0,1.0,0,550.0
+Sousse,Sahloul,120.0,2.0,1.0,0,600.0
+Sousse,Hergla,50.0,1.0,1.0,0,800.0
+Sousse,Akouda,42.0,1.0,1.0,0,1100.0
+Sousse,Sahloul,200.0,3.0,2.0,0,900.0
+Sousse,Sahloul,148.0,3.0,1.0,0,1200.0
+Sousse,Hammam Sousse,120.0,2.0,1.0,0,950.0
+Sousse,Hammam Sousse,115.0,2.0,1.0,0,800.0
+Sousse,Sousse,300.0,2.0,1.0,1,2500.0
+Sousse,Sousse Riadh,130.0,3.0,1.0,1,400.0
+Sousse,Sahloul,130.0,2.0,1.0,0,1000.0
+Sousse,Hammam Sousse,55.0,1.0,1.0,0,500.0
+Sousse,Sahloul,200.0,3.0,1.0,1,900.0
+Sousse,Hammam Sousse,250.0,3.0,1.0,1,1200.0
+Sousse,Other,100.0,2.0,1.0,1,320.0
+Sousse,Sousse,276.0,4.0,2.0,0,2300.0
+Sousse,Sousse Jawhara,250.0,3.0,1.0,1,1200.0
+Sousse,Hammam Sousse,100.0,3.0,1.0,0,550.0
+Sousse,Hammam Sousse,180.0,3.0,1.0,1,550.0
+Sousse,Autres villes,70.0,2.0,1.0,0,120.0
+Sousse,Sahloul,100.0,2.0,1.0,1,400.0
+Sousse,Sousse,60.0,2.0,1.0,0,400.0
+Sousse,Hammam Sousse,150.0,2.0,1.0,0,1100.0
+Sousse,Sousse Riadh,70.0,2.0,1.0,0,280.0
+Sousse,Sahloul,150.0,3.0,2.0,0,1100.0
+Sousse,Sousse,100.0,3.0,1.0,0,800.0
+Sousse,Sahloul,115.0,4.0,1.0,0,630.0
+Sousse,Autres villes,170.0,3.0,1.0,0,800.0
+Sousse,Sahloul,100.0,2.0,1.0,0,750.0
+Sousse,Sousse Riadh,90.0,2.0,1.0,0,390.0
+Sousse,Sousse Jawhara,160.0,3.0,2.0,0,1500.0
+Sousse,Kantaoui,150.0,2.0,1.0,0,1500.0
+Sousse,Hammam Sousse,120.0,2.0,2.0,0,900.0
+Sousse,Hammam Sousse,65.0,1.0,1.0,0,850.0
+Sousse,Sousse,32.0,1.0,1.0,0,500.0
+Sousse,Sousse Jawhara,100.0,3.0,1.0,0,550.0
+Sousse,Kantaoui,200.0,3.0,2.0,1,950.0
+Sousse,Sousse Jawhara,120.0,2.0,2.0,0,1800.0
+Sousse,Hergla,100.0,2.0,1.0,0,600.0
+Sousse,Kantaoui,140.0,3.0,2.0,0,1100.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,650.0
+Sousse,Kantaoui,27.0,1.0,1.0,0,350.0
+Sousse,Sahloul,160.0,3.0,2.0,0,1300.0
+Sousse,Sousse,100.0,2.0,1.0,0,450.0
+Sousse,Sousse Jawhara,80.0,2.0,1.0,0,500.0
+Sousse,Kantaoui,80.0,1.0,1.0,0,500.0
+Sousse,Hammam Sousse,1000.0,4.0,1.0,1,3500.0
+Sousse,Sahloul,120.0,3.0,1.0,0,620.0
+Sousse,Sousse Riadh,150.0,4.0,1.0,1,450.0
+Sousse,Other,100.0,4.0,1.0,0,240.0
+Sousse,Sousse,165.0,4.0,1.0,0,1800.0
+Sousse,Sahloul,100.0,2.0,1.0,0,700.0
+Sousse,Sousse,230.0,2.0,1.0,0,1800.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,550.0
+Sousse,Sahloul,120.0,3.0,1.0,0,900.0
+Sousse,Sousse Jawhara,110.0,3.0,1.0,0,1050.0
+Sousse,Autres villes,75.0,3.0,1.0,0,320.0
+Sousse,Sahloul,100.0,2.0,1.0,0,650.0
+Sousse,Kantaoui,110.0,2.0,1.0,0,1100.0
+Sousse,Sousse,100.0,2.0,1.0,0,650.0
+Sousse,Sahloul,80.0,2.0,1.0,0,500.0
+Sousse,Kantaoui,150.0,2.0,2.0,0,800.0
+Sousse,Sahloul,100.0,2.0,1.0,0,1000.0
+Sousse,Hammam Sousse,80.0,1.0,1.0,0,280.0
+Sousse,Sousse,70.0,2.0,1.0,0,600.0
+Sousse,Sousse,40.0,1.0,1.0,0,650.0
+Sousse,Hammam Sousse,75.0,1.0,1.0,0,800.0
+Sousse,Autres villes,42.0,1.0,1.0,0,250.0
+Sousse,Hammam Sousse,60.0,1.0,1.0,0,850.0
+Sousse,Hammam Sousse,95.0,2.0,1.0,0,800.0
+Sousse,Hammam Sousse,200.0,3.0,1.0,1,1250.0
+Sousse,Sousse,89.0,2.0,1.0,0,600.0
+Sousse,Hammam Sousse,120.0,3.0,1.0,0,1000.0
+Sousse,Sousse Jawhara,70.0,1.0,1.0,0,550.0
+Sousse,Sousse Jawhara,140.0,2.0,1.0,0,350.0
+Sousse,Sousse,60.0,1.0,1.0,0,600.0
+Sousse,Sahloul,125.0,3.0,2.0,0,800.0
+Sousse,Sousse Jawhara,60.0,1.0,1.0,0,70.0
+Sousse,Kantaoui,90.0,2.0,1.0,0,900.0
+Sousse,Sousse Jawhara,160.0,3.0,1.0,0,1050.0
+Sousse,Kantaoui,1000.0,5.0,4.0,1,4200.0
+Sousse,Hammam Sousse,120.0,3.0,1.0,0,1400.0
+Sousse,Sousse Jawhara,90.0,2.0,1.0,0,700.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,1000.0
+Sousse,Kantaoui,180.0,3.0,1.0,1,1650.0
+Sousse,Sousse Jawhara,130.0,2.0,1.0,0,400.0
+Sousse,Hammam Sousse,150.0,3.0,1.0,0,1200.0
+Sousse,Sahloul,140.0,3.0,2.0,0,850.0
+Sousse,Autres villes,100.0,2.0,1.0,0,1050.0
+Sousse,Sousse,200.0,4.0,2.0,0,850.0
+Sousse,Sahloul,100.0,2.0,2.0,0,500.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,100.0
+Sousse,Autres villes,95.0,2.0,1.0,0,750.0
+Sousse,Autres villes,100.0,2.0,1.0,0,700.0
+Sousse,Sousse Jawhara,130.0,2.0,2.0,0,700.0
+Sousse,Sousse Jawhara,150.0,3.0,1.0,0,1000.0
+Sousse,Sousse Jawhara,75.0,2.0,1.0,0,400.0
+Sousse,Kantaoui,415.0,5.0,3.0,1,1800.0
+Sousse,Sousse Jawhara,130.0,2.0,1.0,0,600.0
+Sousse,Hammam Sousse,50.0,1.0,1.0,0,420.0
+Sousse,Sousse,62.0,1.0,1.0,0,750.0
+Sousse,Sousse,70.0,1.0,1.0,0,750.0
+Sousse,Sousse Médina,220.0,3.0,2.0,1,700.0
+Sousse,Autres villes,50.0,1.0,1.0,0,360.0
+Sousse,Kantaoui,40.0,1.0,1.0,0,65.0
+Sousse,Autres villes,120.0,3.0,1.0,0,660.0
+Sousse,Autres villes,150.0,4.0,1.0,1,370.0
+Sousse,Hergla,60.0,1.0,1.0,0,450.0
+Sousse,Hammam Sousse,79.0,1.0,1.0,0,650.0
+Sousse,Akouda,180.0,2.0,1.0,1,500.0
+Sousse,Hammam Sousse,156.0,3.0,1.0,0,1000.0
+Sousse,Sahloul,55.0,1.0,1.0,0,1000.0
+Sousse,Sousse Jawhara,120.0,2.0,1.0,0,1000.0
+Sousse,Sousse,90.0,3.0,1.0,0,250.0
+Sousse,Sousse Jawhara,95.0,2.0,1.0,0,850.0
+Sousse,Sousse Jawhara,120.0,2.0,1.0,0,600.0
+Sousse,Kantaoui,35.0,1.0,1.0,0,350.0
+Sousse,Sousse,170.0,3.0,1.0,0,650.0
+Sousse,Akouda,180.0,1.0,1.0,1,180.0
+Sousse,Autres villes,120.0,2.0,1.0,1,400.0
+Sousse,Autres villes,55.0,2.0,1.0,0,60.0
+Sousse,Sousse,200.0,4.0,1.0,1,1000.0
+Sousse,Sousse Jawhara,165.0,3.0,1.0,0,1800.0
+Sousse,Sahloul,100.0,2.0,1.0,0,560.0
+Sousse,Autres villes,70.0,1.0,1.0,0,350.0
+Sousse,Other,200.0,3.0,1.0,0,450.0
+Sousse,Sahloul,90.0,1.0,1.0,0,450.0
+Sousse,Sousse Médina,70.0,2.0,1.0,1,600.0
+Sousse,Sahloul,90.0,1.0,1.0,0,350.0
+Sousse,Kantaoui,40.0,1.0,1.0,0,350.0
+Sousse,Hammam Sousse,100.0,2.0,2.0,0,650.0
+Sousse,Kantaoui,40.0,2.0,2.0,0,1500.0
+Sousse,Sousse Jawhara,140.0,3.0,1.0,1,600.0
+Sousse,Other,170.0,3.0,1.0,0,500.0
+Sousse,Sahloul,140.0,4.0,2.0,0,1200.0
+Sousse,Sahloul,400.0,3.0,1.0,1,600.0
+Sousse,Sousse Jawhara,150.0,3.0,3.0,0,1500.0
+Sousse,Sahloul,150.0,4.0,1.0,0,1500.0
+Sousse,Sahloul,130.0,4.0,1.0,0,1000.0
+Sousse,Sousse,25.0,1.0,1.0,0,280.0
+Sousse,Hammam Sousse,94.0,2.0,1.0,0,550.0
+Sousse,Sahloul,148.0,3.0,2.0,0,1300.0
+Sousse,Sahloul,70.0,3.0,1.0,0,850.0
+Sousse,Kantaoui,170.0,3.0,1.0,1,1100.0
+Sousse,Sousse,50.0,1.0,1.0,0,600.0
+Sousse,Autres villes,80.0,2.0,1.0,0,500.0
+Sousse,Sousse Jawhara,70.0,2.0,1.0,0,850.0
+Sousse,Sousse,110.0,2.0,1.0,0,500.0
+Sousse,Sousse,110.0,2.0,1.0,0,400.0
+Sousse,Hammam Sousse,200.0,3.0,2.0,0,1500.0
+Sousse,Akouda,200.0,4.0,2.0,1,1200.0
+Sousse,Hammam Sousse,95.0,2.0,1.0,0,600.0
+Sousse,Sousse Jawhara,100.0,3.0,1.0,0,650.0
+Sousse,Sousse,65.0,1.0,1.0,0,300.0
+Sousse,Sousse,150.0,3.0,2.0,1,1200.0
+Sousse,Sousse,80.0,2.0,1.0,0,750.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,700.0
+Sousse,Akouda,210.0,2.0,1.0,1,400.0
+Sousse,Kantaoui,300.0,3.0,2.0,1,150.0
+Sousse,Akouda,350.0,5.0,3.0,1,1300.0
+Sousse,Autres villes,45.0,1.0,1.0,0,430.0
+Sousse,Kantaoui,500.0,4.0,2.0,1,1800.0
+Sousse,Sousse Riadh,35.0,1.0,1.0,0,240.0
+Sousse,Hammam Sousse,140.0,3.0,1.0,0,1000.0
+Sousse,Hammam Sousse,95.0,2.0,1.0,0,700.0
+Sousse,Sousse,46.0,2.0,1.0,0,700.0
+Sousse,Hammam Sousse,150.0,3.0,2.0,0,1300.0
+Sousse,Sousse Jawhara,50.0,1.0,1.0,0,350.0
+Sousse,Kantaoui,60.0,1.0,1.0,0,500.0
+Sousse,Kantaoui,120.0,2.0,1.0,0,1300.0
+Sousse,Hammam Sousse,70.0,2.0,1.0,0,600.0
+Sousse,Kantaoui,140.0,2.0,2.0,0,1250.0
+Sousse,Kantaoui,90.0,2.0,1.0,0,400.0
+Sousse,Hammam Sousse,200.0,3.0,2.0,0,1800.0
+Sousse,Autres villes,110.0,2.0,1.0,0,800.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,500.0
+Sousse,Sousse,150.0,3.0,3.0,0,1500.0
+Sousse,Hammam Sousse,99.0,3.0,1.0,0,700.0
+Sousse,Sousse Jawhara,100.0,3.0,1.0,0,800.0
+Sousse,Autres villes,70.0,2.0,1.0,1,500.0
+Sousse,Sousse Riadh,120.0,3.0,1.0,1,390.0
+Sousse,Hammam Sousse,250.0,3.0,1.0,1,1800.0
+Sousse,Sahloul,55.0,1.0,1.0,0,500.0
+Sousse,Sousse Jawhara,95.0,2.0,1.0,0,750.0
+Sousse,Sousse,160.0,4.0,2.0,0,900.0
+Sousse,Sousse Jawhara,90.0,2.0,1.0,0,450.0
+Sousse,Hammam Sousse,75.0,2.0,1.0,0,900.0
+Sousse,Sousse Jawhara,120.0,4.0,1.0,0,500.0
+Sousse,Hammam Sousse,100.0,3.0,2.0,0,700.0
+Sousse,Hammam Sousse,180.0,4.0,2.0,1,650.0
+Sousse,Kantaoui,120.0,2.0,1.0,0,1000.0
+Sousse,Kantaoui,80.0,1.0,1.0,0,700.0
+Sousse,Kantaoui,80.0,1.0,1.0,0,900.0
+Sousse,Sousse,89.0,2.0,1.0,0,800.0
+Sousse,Kantaoui,1000.0,5.0,3.0,1,3000.0
+Sousse,Hammam Sousse,61.0,1.0,1.0,0,1000.0
+Sousse,Autres villes,100.0,3.0,1.0,1,370.0
+Sousse,Akouda,150.0,2.0,1.0,0,70.0
+Sousse,Kantaoui,100.0,2.0,1.0,0,350.0
+Sousse,Sousse Riadh,100.0,2.0,1.0,1,480.0
+Sousse,Other,100.0,3.0,1.0,0,350.0
+Sousse,Sousse Jawhara,150.0,2.0,1.0,0,500.0
+Sousse,Autres villes,107.0,2.0,1.0,0,300.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,700.0
+Sousse,Autres villes,56.0,3.0,1.0,0,350.0
+Sousse,Sousse Riadh,162.0,4.0,1.0,0,420.0
+Sousse,Hergla,200.0,3.0,1.0,1,650.0
+Sousse,Sousse Médina,120.0,2.0,1.0,0,150.0
+Sousse,Kantaoui,40.0,1.0,1.0,0,400.0
+Sousse,Hammam Sousse,350.0,3.0,1.0,1,1500.0
+Sousse,Autres villes,55.0,1.0,1.0,0,850.0
+Sousse,Akouda,32.0,1.0,1.0,0,50.0
+Sousse,Sahloul,65.0,1.0,1.0,0,750.0
+Sousse,Sousse Riadh,80.0,2.0,1.0,0,400.0
+Sousse,Autres villes,200.0,3.0,1.0,1,1000.0
+Sousse,Sousse,139.0,2.0,1.0,0,1500.0
+Sousse,Sahloul,120.0,1.0,1.0,1,900.0
+Sousse,Sahloul,70.0,2.0,1.0,0,550.0
+Sousse,Hergla,75.0,1.0,1.0,0,600.0
+Sousse,Sahloul,200.0,3.0,1.0,0,900.0
+Sousse,Sousse,155.0,3.0,1.0,0,680.0
+Sousse,Hammam Sousse,55.0,1.0,1.0,0,600.0
+Sousse,Sahloul,180.0,3.0,1.0,0,1000.0
+Sousse,Akouda,200.0,3.0,2.0,1,1000.0
+Sousse,Autres villes,150.0,3.0,1.0,1,350.0
+Sousse,Autres villes,100.0,2.0,2.0,0,500.0
+Sousse,Hammam Sousse,200.0,2.0,2.0,0,70.0
+Sousse,Hammam Sousse,110.0,2.0,1.0,0,60.0
+Sousse,Sahloul,100.0,2.0,1.0,0,400.0
+Sousse,Sousse,149.0,3.0,2.0,0,1500.0
+Sousse,Sousse Jawhara,95.0,2.0,1.0,0,700.0
+Sousse,Autres villes,60.0,1.0,1.0,0,1000.0
+Sousse,Sousse,125.0,3.0,1.0,0,1050.0
+Sousse,Hammam Sousse,200.0,2.0,2.0,0,2300.0
+Sousse,Hammam Sousse,120.0,3.0,2.0,1,1600.0
+Sousse,Hammam Sousse,114.0,2.0,1.0,0,900.0
+Sousse,Autres villes,110.0,2.0,1.0,0,500.0
+Sousse,Hammam Sousse,200.0,3.0,1.0,1,700.0
+Sousse,Sousse,129.0,2.0,1.0,0,1100.0
+Sousse,Sahloul,150.0,3.0,1.0,1,620.0
+Sousse,Hergla,100.0,1.0,1.0,0,450.0
+Sousse,Hammam Sousse,90.0,1.0,1.0,0,530.0
+Sousse,Hammam Sousse,55.0,1.0,1.0,0,1000.0
+Sousse,Sahloul,100.0,2.0,1.0,1,700.0
+Sousse,Sousse,120.0,2.0,1.0,0,1000.0
+Sousse,Hammam Sousse,100.0,2.0,1.0,0,500.0
+Sousse,Hammam Sousse,80.0,1.0,1.0,0,600.0
+Sousse,Akouda,150.0,3.0,1.0,1,1200.0
+Sousse,Sahloul,60.0,1.0,1.0,0,700.0
+Sousse,Sousse,70.0,1.0,1.0,0,320.0
+Sousse,Other,100.0,2.0,1.0,0,240.0
+Sousse,Hammam Sousse,33.0,1.0,1.0,0,350.0
+Sousse,Kantaoui,55.0,1.0,1.0,0,150.0
+Sousse,Sousse,144.0,3.0,1.0,0,800.0
+Sousse,Sahloul,200.0,2.0,1.0,1,1000.0
+Sousse,Sahloul,115.0,3.0,1.0,0,800.0
+Sousse,Sousse Jawhara,120.0,2.0,2.0,0,1000.0
+Sousse,Sahloul,200.0,3.0,1.0,1,1800.0
+Sousse,Kantaoui,200.0,2.0,1.0,0,1800.0
+Sousse,Autres villes,200.0,3.0,1.0,1,700.0
+Sousse,Hammam Sousse,80.0,1.0,1.0,0,1000.0
+Sousse,Akouda,200.0,3.0,2.0,1,750.0
+Sousse,Hammam Sousse,70.0,1.0,1.0,0,1000.0
+Sousse,Sahloul,85.0,1.0,1.0,0,850.0
+Sousse,Hammam Sousse,1000.0,4.0,4.0,1,4800.0
+Sousse,Sahloul,70.0,1.0,1.0,0,700.0
+Sousse,Sousse Médina,75.0,4.0,1.0,0,700.0
+Sousse,Sahloul,45.0,1.0,1.0,0,600.0
+Sousse,Hammam Sousse,65.0,1.0,1.0,0,750.0
+Sousse,Sahloul,200.0,5.0,1.0,1,1900.0
+Sousse,Autres villes,70.0,1.0,1.0,0,800.0
+Sousse,Sahloul,150.0,2.0,2.0,0,720.0
+Sousse,Other,80.0,3.0,1.0,1,350.0
+Sousse,Hammam Sousse,63.0,1.0,1.0,0,750.0
+Sousse,Sousse Jawhara,57.0,1.0,1.0,0,750.0
+Sousse,Hergla,140.0,3.0,2.0,0,1000.0
+Sousse,Hammam Sousse,70.0,2.0,1.0,0,300.0
+Sousse,Autres villes,70.0,3.0,1.0,0,550.0
+Sousse,Hammam Sousse,90.0,2.0,1.0,0,550.0
+Sousse,Hergla,120.0,2.0,1.0,1,400.0
+Sousse,Autres villes,120.0,2.0,1.0,0,750.0
+Sousse,Autres villes,70.0,1.0,1.0,0,200.0
+Sousse,Sousse Jawhara,160.0,3.0,1.0,0,650.0
+Sousse,Sousse Jawhara,115.0,2.0,2.0,0,750.0
+Sousse,Sousse Jawhara,100.0,3.0,2.0,0,750.0
+Sousse,Sousse Jawhara,125.0,3.0,2.0,0,1050.0
+Sousse,Hammam Sousse,84.0,2.0,1.0,0,100.0
+Sousse,Autres villes,100.0,2.0,1.0,0,350.0
+Sousse,Hammam Sousse,81.0,2.0,1.0,0,100.0
+Sousse,Sahloul,50.0,2.0,1.0,0,350.0
+Sousse,Sousse Jawhara,120.0,3.0,1.0,1,700.0
+Sousse,Hammam Sousse,50.0,1.0,1.0,0,80.0
+Sousse,Kantaoui,400.0,4.0,2.0,1,1800.0
+Sousse,Sousse Riadh,85.0,3.0,1.0,0,280.0
+Sousse,Sousse Riadh,160.0,3.0,1.0,1,270.0
+Sousse,Sousse Jawhara,50.0,1.0,1.0,0,580.0
+Sousse,Kantaoui,70.0,2.0,1.0,0,400.0
+Sousse,Sousse Riadh,130.0,3.0,1.0,1,450.0
+Sousse,Sousse,120.0,2.0,1.0,0,900.0
+Sousse,Sousse Jawhara,25.0,1.0,1.0,0,300.0
+Sousse,Sousse Jawhara,150.0,3.0,1.0,0,800.0
+Sousse,Sousse Jawhara,800.0,8.0,4.0,1,4500.0
+Sousse,Kantaoui,160.0,4.0,1.0,0,1500.0
+Sousse,Sousse Jawhara,70.0,1.0,1.0,0,750.0
+Sousse,Sahloul,80.0,2.0,1.0,0,600.0
+Sousse,Kantaoui,745.0,3.0,1.0,1,1800.0
+Sousse,Sousse,145.0,3.0,2.0,0,650.0
+Sousse,Akouda,75.0,1.0,1.0,0,300.0
+Sousse,Hammam Sousse,150.0,2.0,1.0,0,450.0
+Sousse,Autres villes,55.0,1.0,1.0,0,1000.0
+Sousse,Autres villes,55.0,1.0,1.0,0,650.0
+Sousse,Autres villes,110.0,2.0,1.0,0,550.0
+Sousse,Sahloul,148.0,4.0,2.0,0,1200.0
+Sousse,Kantaoui,90.0,1.0,1.0,0,100.0
+Sousse,Hammam Sousse,130.0,3.0,1.0,0,500.0
+Sousse,Sahloul,320.0,4.0,2.0,1,900.0
+Sousse,Hergla,125.0,2.0,1.0,0,500.0
+Sousse,Autres villes,30.0,1.0,1.0,0,380.0
+Sousse,Autres villes,100.0,1.0,1.0,0,750.0
+Sousse,Kantaoui,110.0,1.0,1.0,0,850.0
+Sousse,Sousse Jawhara,168.0,4.0,3.0,0,1800.0
+Sousse,Sahloul,100.0,3.0,2.0,0,900.0
+Sousse,Sousse Jawhara,100.0,2.0,1.0,0,900.0
+Sousse,Akouda,87.0,3.0,1.0,0,850.0
+Sousse,Sahloul,150.0,3.0,1.0,0,750.0
+Sousse,Hammam Sousse,70.0,2.0,1.0,0,700.0
+Sousse,Hammam Sousse,300.0,5.0,2.0,1,1500.0
+Sousse,Sousse Jawhara,130.0,3.0,1.0,0,600.0
+Sousse,Sousse Médina,100.0,2.0,1.0,0,950.0
+Sousse,Autres villes,110.0,2.0,1.0,0,850.0
+Sousse,Sousse,142.0,3.0,2.0,0,2000.0
+Sousse,Kantaoui,600.0,3.0,2.0,1,1600.0
+Sousse,Hammam Sousse,130.0,2.0,1.0,0,1200.0
+Sousse,Sahloul,120.0,3.0,1.0,1,600.0
+Sousse,Hammam Sousse,75.0,2.0,1.0,0,700.0
+Sousse,Kantaoui,400.0,5.0,3.0,1,1500.0
+Sousse,Sahloul,98.0,2.0,1.0,0,900.0
+Sousse,Sahloul,130.0,2.0,1.0,0,600.0
+Sousse,Sahloul,85.0,1.0,1.0,0,700.0
+Sousse,Kantaoui,100.0,2.0,1.0,0,1400.0
+Sousse,Sahloul,100.0,2.0,1.0,0,550.0
+Sousse,Autres villes,95.0,3.0,1.0,0,350.0
+Sousse,Other,200.0,3.0,1.0,1,430.0
+Sousse,Sousse Jawhara,70.0,1.0,1.0,0,380.0
+Sousse,Hammam Sousse,200.0,2.0,2.0,0,80.0
+Sousse,Sousse Jawhara,50.0,1.0,1.0,0,70.0
+Sousse,Sahloul,100.0,2.0,1.0,1,550.0
+Tozeur,Tozeur,75.0,2.0,1.0,0,100.0
+Tozeur,Tozeur,600.0,4.0,2.0,1,260.0
+Tozeur,Other,90.0,3.0,1.0,1,200.0
+Tozeur,Tozeur,80.0,1.0,1.0,1,550.0
+Tozeur,Tozeur,250.0,2.0,1.0,1,850.0
+Tozeur,Tozeur,80.0,2.0,1.0,0,80.0
+Tozeur,Autres villes,60.0,2.0,1.0,0,500.0
+Tozeur,Tozeur,74.0,2.0,1.0,0,100.0
+Tozeur,Tozeur,75.0,2.0,1.0,0,110.0
+Tozeur,Tozeur,80.0,1.0,1.0,1,220.0
+Tozeur,Tozeur,74.0,2.0,1.0,0,120.0
+Tozeur,Autres villes,100.0,3.0,1.0,0,60.0
+Tozeur,Tozeur,30.0,1.0,1.0,0,50.0
+Tozeur,Tozeur,600.0,4.0,1.0,1,250.0
+Sfax,Autres villes,160.0,3.0,1.0,1,630.0
+Sfax,Autres villes,100.0,3.0,1.0,1,380.0
+Sfax,Sfax,136.0,2.0,1.0,0,300.0
+Sfax,Sakiet Ezzit,165.0,4.0,2.0,0,900.0
+Sfax,Sfax Ville,55.0,2.0,1.0,0,500.0
+Sfax,Sfax,300.0,6.0,3.0,1,400.0
+Sfax,Autres villes,80.0,1.0,1.0,1,300.0
+Sfax,Route Soukra,120.0,3.0,1.0,0,440.0
+Sfax,Autres villes,210.0,5.0,3.0,1,600.0
+Sfax,Sfax,140.0,3.0,1.0,0,600.0
+Sfax,Autres villes,100.0,2.0,2.0,0,600.0
+Sfax,Sfax Ville,150.0,3.0,1.0,0,750.0
+Sfax,Autres villes,70.0,2.0,1.0,0,360.0
+Sfax,Sfax,45.0,1.0,1.0,0,250.0
+Sfax,Other,200.0,3.0,2.0,0,600.0
+Sfax,Sfax,50.0,1.0,1.0,0,400.0
+Sfax,Other,125.0,4.0,1.0,0,470.0
+Sfax,Autres villes,100.0,3.0,2.0,0,500.0
+Sfax,Sfax,120.0,3.0,1.0,1,520.0
+Sfax,Sfax,105.0,3.0,1.0,1,300.0
+Sfax,Sakiet Ezzit,120.0,3.0,1.0,0,600.0
+Sfax,Route Soukra,70.0,1.0,1.0,0,420.0
+Sfax,Sfax,50.0,1.0,1.0,0,230.0
+Sfax,Autres villes,100.0,3.0,1.0,0,350.0
+Sfax,Sfax,91.0,2.0,1.0,0,300.0
+Sfax,Autres villes,70.0,1.0,1.0,1,440.0
+Sfax,Sfax,100.0,3.0,1.0,0,350.0
+Sfax,Sfax,200.0,3.0,1.0,0,380.0
+Sfax,Autres villes,120.0,2.0,1.0,1,230.0
+Sfax,Sakiet Ezzit,100.0,2.0,1.0,0,340.0
+Sfax,Sakiet Ezzit,65.0,1.0,1.0,0,280.0
+Sfax,Autres villes,110.0,2.0,2.0,0,650.0
+Sfax,Autres villes,150.0,4.0,2.0,0,700.0
+Sfax,Autres villes,120.0,2.0,1.0,0,300.0
+Sfax,Sakiet Ezzit,120.0,4.0,1.0,0,600.0
+Sfax,Other,60.0,2.0,1.0,0,380.0
+Sfax,Sfax,150.0,3.0,1.0,0,350.0
+Sfax,Sfax Ville,80.0,3.0,1.0,0,600.0
+Sfax,Sfax,140.0,3.0,1.0,1,430.0
+Sfax,Route Soukra,50.0,2.0,1.0,0,300.0
+Sfax,Sfax,120.0,3.0,1.0,1,420.0
+Sfax,Autres villes,150.0,2.0,1.0,0,450.0
+Sfax,Autres villes,140.0,2.0,1.0,1,350.0
+Sfax,Sfax,90.0,2.0,1.0,0,400.0
+Sfax,Other,120.0,4.0,1.0,0,350.0
+Sfax,Autres villes,150.0,2.0,1.0,1,400.0
+Sfax,Sfax Ville,150.0,3.0,1.0,1,450.0
+Sfax,Autres villes,110.0,2.0,1.0,0,400.0
+Sfax,Autres villes,105.0,2.0,2.0,0,620.0
+Sfax,Autres villes,49.0,2.0,1.0,0,60.0
+Sfax,Other,106.0,3.0,1.0,1,380.0
+Sfax,Sfax Ville,80.0,3.0,1.0,0,360.0
+Sfax,Autres villes,80.0,3.0,1.0,1,450.0
+Sfax,Autres villes,35.0,1.0,1.0,0,260.0
+Sfax,Other,85.0,3.0,1.0,0,320.0
+Sfax,Autres villes,70.0,2.0,1.0,0,400.0
+Sfax,Autres villes,42.0,2.0,1.0,0,400.0
+Sfax,Autres villes,210.0,4.0,1.0,1,650.0
+Sfax,Sfax,63.0,3.0,1.0,0,350.0
+Sfax,Route Soukra,60.0,1.0,1.0,0,250.0
+Sfax,Sakiet Ezzit,125.0,4.0,1.0,1,600.0
+Sfax,Other,116.0,3.0,1.0,0,550.0
+Sfax,Sfax,95.0,2.0,1.0,0,370.0
+Sfax,Sfax Ville,60.0,2.0,1.0,0,500.0
+Sfax,Other,90.0,2.0,1.0,1,400.0
+Sfax,Other,124.0,2.0,1.0,0,550.0
+Sfax,Other,120.0,3.0,1.0,0,400.0
+Sfax,Sfax,200.0,3.0,2.0,0,700.0
+Sfax,Sfax,150.0,2.0,1.0,0,460.0
+Sfax,Other,100.0,2.0,1.0,0,500.0
+Sfax,Route Soukra,70.0,2.0,1.0,0,310.0
+Sfax,Route Soukra,115.0,4.0,1.0,0,380.0
+Sfax,Autres villes,280.0,8.0,2.0,1,950.0
+Sfax,Other,121.0,4.0,2.0,0,890.0
+Sfax,Other,110.0,3.0,1.0,0,400.0
+Sfax,Sfax Ville,73.0,2.0,1.0,0,550.0
+Sfax,Other,125.0,2.0,1.0,0,475.0
+Sfax,Sfax,120.0,3.0,1.0,0,380.0
+Sfax,Route Soukra,120.0,3.0,2.0,0,400.0
+Sfax,Other,85.0,2.0,1.0,1,600.0
+Sfax,Sfax,120.0,3.0,1.0,0,420.0
+Sfax,Autres villes,85.0,2.0,1.0,0,700.0
+Sfax,Autres villes,40.0,1.0,1.0,0,300.0
+Sfax,Autres villes,200.0,4.0,1.0,0,550.0
+Sfax,Other,104.0,2.0,2.0,0,650.0
+Sfax,Route Soukra,87.0,2.0,1.0,0,450.0
+Sfax,Other,140.0,4.0,1.0,0,450.0
+Sfax,Sfax,120.0,3.0,1.0,0,450.0
+Sfax,Other,200.0,4.0,1.0,0,380.0
+Sfax,Route Soukra,100.0,3.0,1.0,1,450.0
+Sfax,Other,82.0,2.0,1.0,0,450.0
+Sfax,Sfax,120.0,2.0,2.0,0,1000.0
+Sfax,Other,100.0,3.0,1.0,0,330.0
+Sfax,Other,87.0,3.0,1.0,0,400.0
+Sfax,Autres villes,38.0,2.0,1.0,0,350.0
+Sfax,Autres villes,120.0,3.0,1.0,1,420.0
+Sfax,Sfax Ville,55.0,2.0,1.0,0,420.0
+Sfax,Other,160.0,4.0,1.0,1,370.0
+Sfax,Other,340.0,3.0,1.0,1,380.0
+Sfax,Sfax Ville,90.0,3.0,1.0,0,420.0
+Sfax,Sfax,250.0,3.0,1.0,1,500.0
+Sfax,Autres villes,100.0,2.0,1.0,0,600.0
+Sfax,Sfax,50.0,1.0,1.0,0,550.0
+Sfax,Autres villes,350.0,4.0,2.0,1,1750.0
+Sfax,Sakiet Ezzit,330.0,3.0,1.0,1,380.0
+Sfax,Other,75.0,2.0,1.0,0,280.0
+Sfax,Sakiet Ezzit,110.0,3.0,1.0,0,500.0
+Sfax,Autres villes,160.0,3.0,1.0,0,400.0
+Sfax,Route Soukra,112.0,3.0,1.0,0,530.0
+Sfax,Autres villes,120.0,3.0,1.0,1,360.0
+Sfax,Other,95.0,2.0,1.0,0,480.0
+Sfax,Other,150.0,3.0,1.0,0,500.0
+Sfax,Autres villes,450.0,6.0,1.0,1,1500.0
+Sfax,Autres villes,58.0,2.0,1.0,0,420.0
+Sfax,Sfax,200.0,3.0,1.0,1,500.0
+Sfax,Autres villes,120.0,3.0,1.0,0,450.0
+Sfax,Sfax,100.0,2.0,1.0,0,400.0
+Sfax,Sakiet Ezzit,180.0,5.0,1.0,1,750.0
+Sfax,Autres villes,160.0,3.0,1.0,1,600.0
+Sfax,Sfax Ville,90.0,2.0,1.0,0,400.0
+Sfax,Other,110.0,3.0,1.0,1,470.0
+Sfax,Autres villes,100.0,2.0,1.0,1,300.0
+Sfax,Other,130.0,4.0,1.0,0,450.0
+Sfax,Other,130.0,3.0,1.0,0,600.0
+Sfax,Route Soukra,70.0,4.0,1.0,1,320.0
+Sfax,Autres villes,55.0,1.0,1.0,0,500.0
+Sfax,Other,180.0,4.0,2.0,1,550.0
+Sfax,Other,400.0,4.0,1.0,1,500.0
+Sfax,Sfax Ville,350.0,4.0,1.0,1,600.0
+Sfax,Sfax,167.0,4.0,2.0,0,850.0
+Sfax,Sfax Ville,125.0,4.0,1.0,0,500.0
+Sfax,Other,125.0,4.0,1.0,0,400.0
+Sfax,Autres villes,210.0,5.0,2.0,1,600.0
+Sfax,Sfax,220.0,4.0,1.0,0,380.0
+Sfax,Autres villes,100.0,2.0,1.0,1,350.0
+Sfax,Autres villes,106.0,2.0,2.0,0,800.0
+Sfax,Other,100.0,3.0,1.0,0,450.0
+Sfax,Route Soukra,40.0,1.0,1.0,0,320.0
+Sfax,Sfax Ville,110.0,3.0,1.0,0,500.0
+Sfax,Sakiet Ezzit,130.0,4.0,1.0,0,420.0
+Sfax,Other,150.0,4.0,2.0,1,350.0
+Sfax,Other,145.0,3.0,1.0,1,300.0
+Sfax,Route Soukra,110.0,2.0,1.0,0,240.0
+Sfax,Autres villes,140.0,3.0,1.0,1,400.0
+Sfax,Route Soukra,160.0,3.0,1.0,1,600.0
+Sfax,Other,100.0,3.0,1.0,1,420.0
+Sfax,Sfax,130.0,3.0,3.0,0,750.0
+Sfax,Route Soukra,100.0,3.0,1.0,1,350.0
+Sfax,Other,500.0,7.0,3.0,1,1250.0
+Sfax,Route Soukra,68.0,1.0,1.0,0,420.0
+Nabeul,Other,520.0,4.0,1.0,1,850.0
+Nabeul,Other,100.0,2.0,1.0,1,400.0
+Nabeul,Other,120.0,2.0,1.0,1,600.0
+Nabeul,Other,120.0,4.0,1.0,1,450.0
+Nabeul,Other,75.0,2.0,1.0,0,150.0
+Nabeul,Other,120.0,3.0,1.0,0,1000.0
+Nabeul,Other,200.0,2.0,1.0,0,680.0
+Nabeul,Other,150.0,2.0,1.0,0,500.0
+Nabeul,Other,80.0,1.0,1.0,0,600.0
+Nabeul,Other,80.0,2.0,1.0,0,500.0
+Nabeul,Other,80.0,2.0,1.0,0,700.0
+Nabeul,Other,100.0,2.0,1.0,0,900.0
+Nabeul,Other,75.0,1.0,1.0,0,500.0
+Nabeul,Other,124.0,2.0,1.0,0,850.0
+Nabeul,Other,75.0,1.0,1.0,0,470.0
+Nabeul,Other,500.0,3.0,1.0,1,100.0
+Nabeul,Other,450.0,2.0,1.0,1,380.0
+Nabeul,Other,120.0,2.0,1.0,1,1000.0
+Nabeul,Other,75.0,1.0,1.0,0,150.0
+Nabeul,Other,100.0,2.0,1.0,0,750.0
+Nabeul,Other,160.0,3.0,1.0,0,1200.0
+Nabeul,Other,100.0,2.0,1.0,1,790.0
+Nabeul,Other,124.0,2.0,1.0,0,600.0
+Nabeul,Other,83.0,3.0,1.0,0,750.0
+Nabeul,Other,100.0,2.0,1.0,0,420.0
+Nabeul,Other,150.0,2.0,1.0,0,1400.0
+Nabeul,Other,300.0,4.0,1.0,1,1200.0
+Nabeul,Autres villes,50.0,1.0,1.0,0,250.0
+Nabeul,Other,128.0,2.0,2.0,0,150.0
+Nabeul,Other,180.0,2.0,1.0,1,480.0
+Nabeul,Other,80.0,2.0,1.0,1,400.0
+Nabeul,Other,100.0,2.0,1.0,0,1300.0
+Nabeul,Other,70.0,1.0,1.0,0,550.0
+Nabeul,Other,100.0,2.0,1.0,0,500.0
+Nabeul,Other,100.0,2.0,1.0,1,300.0
+Nabeul,Other,120.0,2.0,2.0,0,800.0
+Nabeul,Other,60.0,1.0,1.0,0,500.0
+Tunis,La Marsa,80.0,1.0,1.0,0,150.0
+Tunis,Carthage,65.0,1.0,1.0,0,120.0
+Tunis,L'aouina,145.0,3.0,3.0,0,1500.0
+Tunis,Autres villes,160.0,2.0,2.0,0,1500.0
+Tunis,La Marsa,90.0,1.0,1.0,0,130.0
+Tunis,Centre Urbain Nord,170.0,4.0,1.0,0,1750.0
+Tunis,Menzah,65.0,1.0,1.0,0,850.0
+Tunis,Mutuelleville,130.0,3.0,1.0,0,1100.0
+Tunis,Autres villes,70.0,1.0,1.0,0,1500.0
+Tunis,Mutuelleville,140.0,3.0,1.0,0,1100.0
+Tunis,Autres villes,80.0,3.0,1.0,0,450.0
+Tunis,La Marsa,140.0,3.0,2.0,1,650.0
+Tunis,Autres villes,115.0,3.0,1.0,1,500.0
+Tunis,L'aouina,93.0,1.0,1.0,0,70.0
+Tunis,La Marsa,100.0,2.0,1.0,0,1600.0
+Tunis,La Marsa,150.0,3.0,2.0,0,700.0
+Tunis,Manar,120.0,3.0,2.0,0,1000.0
+Tunis,Autres villes,50.0,1.0,1.0,0,350.0
+Tunis,Other,35.0,3.0,1.0,0,1250.0
+Tunis,La Marsa,75.0,3.0,1.0,0,550.0
+Tunis,Autres villes,70.0,1.0,1.0,0,300.0
+Tunis,La Marsa,140.0,2.0,1.0,0,2200.0
+Tunis,Le Kram,120.0,3.0,2.0,0,700.0
+Tunis,La Marsa,120.0,2.0,1.0,0,1800.0
+Tunis,Autres villes,100.0,3.0,1.0,0,600.0
+Tunis,La Marsa,240.0,2.0,1.0,1,2500.0
+Tunis,Le Bardo,35.0,1.0,1.0,0,325.0
+Tunis,Autres villes,170.0,3.0,1.0,0,1400.0
+Tunis,Menzah,65.0,1.0,1.0,0,875.0
+Tunis,Menzah,73.0,2.0,1.0,0,800.0
+Tunis,La Marsa,120.0,3.0,1.0,0,1600.0
+Tunis,La Marsa,190.0,3.0,3.0,0,2700.0
+Tunis,L'aouina,60.0,1.0,1.0,0,600.0
+Tunis,Autres villes,150.0,1.0,1.0,0,80.0
+Tunis,La Marsa,120.0,2.0,1.0,1,1600.0
+Tunis,Sidi Daoud,120.0,4.0,1.0,0,850.0
+Tunis,Le Bardo,100.0,3.0,1.0,0,400.0
+Tunis,Le Bardo,40.0,2.0,1.0,0,200.0
+Tunis,L'aouina,65.0,2.0,1.0,0,80.0
+Tunis,Menzah,83.0,1.0,1.0,0,1100.0
+Tunis,La Marsa,200.0,4.0,3.0,0,2200.0
+Tunis,La Marsa,140.0,3.0,2.0,0,1100.0
+Tunis,La Marsa,220.0,4.0,2.0,1,2000.0
+Tunis,La Marsa,75.0,1.0,1.0,0,1750.0
+Tunis,La Marsa,75.0,1.0,1.0,0,1700.0
+Tunis,Autres villes,100.0,2.0,1.0,0,175.0
+Tunis,Autres villes,120.0,3.0,1.0,0,800.0
+Tunis,La Marsa,75.0,1.0,1.0,0,1000.0
+Tunis,La Marsa,185.0,4.0,1.0,1,1800.0
+Tunis,La Marsa,85.0,3.0,1.0,0,550.0
+Tunis,Autres villes,160.0,3.0,2.0,0,1900.0
+Tunis,Menzah,75.0,2.0,1.0,0,750.0
+Tunis,Le Bardo,80.0,2.0,1.0,0,430.0
+Tunis,La Marsa,300.0,3.0,2.0,0,4000.0
+Tunis,La Marsa,170.0,3.0,2.0,0,2700.0
+Tunis,La Marsa,176.0,3.0,3.0,0,3200.0
+Tunis,Menzah,100.0,2.0,1.0,0,1300.0
+Tunis,Menzah,180.0,3.0,1.0,1,1500.0
+Tunis,Manar,100.0,3.0,1.0,0,1000.0
+Tunis,La Marsa,220.0,3.0,2.0,0,1800.0
+Tunis,Menzah,70.0,1.0,1.0,0,1100.0
+Tunis,Autres villes,250.0,1.0,1.0,0,70.0
+Tunis,La Marsa,70.0,3.0,1.0,1,450.0
+Tunis,Carthage,68.0,1.0,1.0,0,160.0
+Tunis,La Marsa,250.0,4.0,2.0,1,1900.0
+Tunis,Autres villes,60.0,2.0,1.0,0,750.0
+Tunis,L'aouina,75.0,1.0,1.0,0,170.0
+Tunis,Le Kram,200.0,2.0,2.0,0,1500.0
+Tunis,Sidi Bou Said,80.0,1.0,1.0,0,2200.0
+Tunis,Autres villes,30.0,1.0,1.0,0,450.0
+Tunis,La Marsa,200.0,3.0,2.0,0,1900.0
+Tunis,Tunis,100.0,3.0,1.0,0,1100.0
+Tunis,La Marsa,70.0,2.0,1.0,1,350.0
+Tunis,Autres villes,90.0,3.0,1.0,0,380.0
+Tunis,Autres villes,104.0,2.0,1.0,0,1300.0
+Tunis,Autres villes,50.0,2.0,1.0,0,65.0
+Tunis,La Marsa,100.0,3.0,1.0,0,700.0
+Tunis,L'aouina,70.0,1.0,1.0,0,90.0
+Tunis,La Marsa,92.0,2.0,1.0,0,1200.0
+Tunis,La Marsa,120.0,3.0,2.0,0,1250.0
+Tunis,L'aouina,120.0,2.0,2.0,0,100.0
+Tunis,Centre Ville - Lafayette,150.0,1.0,1.0,0,200.0
+Tunis,Tunis,50.0,2.0,1.0,0,70.0
+Tunis,La Marsa,120.0,3.0,1.0,1,2500.0
+Tunis,La Marsa,70.0,1.0,1.0,0,1450.0
+Tunis,La Marsa,65.0,1.0,1.0,0,2000.0
+Tunis,Sidi Bou Said,220.0,3.0,3.0,0,3000.0
+Tunis,Sidi Bou Said,60.0,1.0,1.0,0,1700.0
+Tunis,Carthage,200.0,2.0,1.0,1,2500.0
+Tunis,Carthage,150.0,3.0,2.0,1,3000.0
+Tunis,Carthage,134.0,3.0,2.0,0,2500.0
+Tunis,La Marsa,300.0,3.0,3.0,1,4200.0
+Tunis,La Marsa,120.0,2.0,1.0,0,2200.0
+Tunis,La Marsa,150.0,3.0,2.0,0,1400.0
+Tunis,La Marsa,90.0,1.0,1.0,0,1800.0
+Tunis,L'aouina,150.0,2.0,2.0,0,1500.0
+Tunis,Autres villes,70.0,1.0,1.0,0,2100.0
+Tunis,L'aouina,60.0,1.0,1.0,0,850.0
+Tunis,Menzah,67.0,1.0,1.0,0,1100.0
+Tunis,Cité El Khadra,130.0,1.0,1.0,0,150.0
+Tunis,Le Kram,50.0,1.0,1.0,0,600.0
+Tunis,Autres villes,55.0,2.0,1.0,0,600.0
+Tunis,Other,60.0,2.0,1.0,0,60.0
+Tunis,Autres villes,95.0,2.0,2.0,0,90.0
+Tunis,L'aouina,60.0,2.0,1.0,0,70.0
+Tunis,Autres villes,100.0,3.0,1.0,0,650.0
+Tunis,Menzah,50.0,1.0,1.0,0,60.0
+Tunis,Autres villes,42.0,1.0,1.0,0,950.0
+Tunis,Other,102.0,3.0,1.0,0,480.0
+Tunis,La Marsa,90.0,2.0,1.0,0,650.0
+Tunis,La Marsa,180.0,3.0,2.0,1,1700.0
+Tunis,L'aouina,130.0,2.0,1.0,0,1500.0
+Tunis,Other,80.0,3.0,1.0,0,850.0
+Tunis,Autres villes,120.0,1.0,1.0,1,80.0
+Tunis,Le Bardo,80.0,3.0,1.0,1,650.0
+Tunis,Autres villes,100.0,3.0,1.0,0,400.0
+Tunis,Autres villes,100.0,3.0,1.0,1,320.0
+Tunis,L'aouina,180.0,3.0,1.0,1,550.0
+Tunis,La Marsa,100.0,4.0,1.0,0,700.0
+Tunis,Other,80.0,3.0,1.0,0,550.0
+Tunis,El Omrane supérieur,100.0,2.0,1.0,1,380.0
+Tunis,Le Bardo,140.0,4.0,1.0,0,700.0
+Tunis,La Marsa,400.0,4.0,2.0,1,3700.0
+Tunis,La Marsa,150.0,3.0,2.0,1,2800.0
+Tunis,Centre Ville - Lafayette,80.0,3.0,1.0,0,700.0
+Tunis,Mutuelleville,40.0,1.0,1.0,0,700.0
+Tunis,Menzah,80.0,2.0,1.0,0,700.0
+Tunis,Menzah,115.0,2.0,1.0,0,1000.0
+Tunis,Other,110.0,4.0,1.0,0,700.0
+Tunis,Le Bardo,80.0,3.0,1.0,0,520.0
+Tunis,Other,35.0,1.0,1.0,0,230.0
+Tunis,Centre Ville - Lafayette,40.0,1.0,1.0,0,650.0
+Tunis,Centre Ville - Lafayette,80.0,3.0,1.0,0,900.0
+Tunis,Autres villes,130.0,3.0,2.0,0,70.0
+Tunis,Autres villes,90.0,2.0,1.0,0,70.0
+Tunis,L'aouina,80.0,1.0,1.0,0,500.0
+Tunis,La Marsa,180.0,3.0,2.0,0,1500.0
+Tunis,L'aouina,150.0,3.0,2.0,0,1400.0
+Tunis,L'aouina,400.0,5.0,3.0,1,2500.0
+Tunis,La Marsa,500.0,4.0,3.0,1,3500.0
+Tunis,L'aouina,170.0,4.0,2.0,0,930.0
+Tunis,Carthage,200.0,3.0,2.0,0,1300.0
+Tunis,L'aouina,60.0,1.0,1.0,0,1100.0
+Tunis,L'aouina,100.0,2.0,1.0,0,850.0
+Tunis,La Marsa,120.0,2.0,2.0,0,1400.0
+Tunis,La Marsa,150.0,2.0,2.0,0,1800.0
+Tunis,L'aouina,95.0,1.0,1.0,0,250.0
+Tunis,Carthage,80.0,1.0,1.0,0,1250.0
+Tunis,La Marsa,250.0,3.0,1.0,1,3500.0
+Tunis,Autres villes,120.0,4.0,1.0,0,950.0
+Tunis,Other,115.0,4.0,2.0,0,550.0
+Tunis,Mutuelleville,33.0,1.0,1.0,0,700.0
+Tunis,Tunis,110.0,3.0,1.0,1,120.0
+Tunis,Autres villes,157.0,4.0,1.0,0,700.0
+Tunis,Autres villes,130.0,2.0,1.0,0,1300.0
+Tunis,L'aouina,65.0,2.0,1.0,0,90.0
+Tunis,Tunis,70.0,2.0,1.0,0,1200.0
+Tunis,Sidi Daoud,90.0,2.0,1.0,1,600.0
+Tunis,Tunis,120.0,3.0,1.0,0,1500.0
+Tunis,El Omrane supérieur,90.0,2.0,1.0,0,450.0
+Tunis,Tunis,107.0,3.0,1.0,0,1250.0
+Tunis,Centre Ville - Lafayette,60.0,2.0,1.0,0,330.0
+Tunis,Centre Ville - Lafayette,110.0,3.0,1.0,0,700.0
+Tunis,Centre Ville - Lafayette,75.0,2.0,1.0,0,80.0
+Tunis,Le Kram,68.0,1.0,1.0,0,120.0
+Tunis,Autres villes,85.0,2.0,1.0,0,70.0
+Tunis,Autres villes,80.0,1.0,1.0,1,60.0
+Tunis,La Marsa,80.0,1.0,1.0,0,1250.0
+Tunis,Autres villes,900.0,1.0,1.0,1,60.0
+Tunis,Autres villes,20.0,1.0,1.0,0,350.0
+Tunis,La Marsa,470.0,3.0,1.0,1,2500.0
+Tunis,Menzah,100.0,3.0,1.0,0,850.0
+Tunis,Centre Ville - Lafayette,80.0,2.0,1.0,0,60.0
+Tunis,Le Bardo,170.0,3.0,2.0,1,1000.0
+Tunis,Tunis,70.0,2.0,1.0,0,700.0
+Tunis,La Marsa,120.0,2.0,1.0,0,1400.0
+Tunis,La Marsa,80.0,3.0,1.0,1,500.0
+Tunis,La Marsa,250.0,3.0,2.0,0,5000.0
+Tunis,La Marsa,100.0,2.0,1.0,0,850.0
+Tunis,Centre Ville - Lafayette,90.0,2.0,1.0,0,700.0
+Tunis,La Marsa,220.0,4.0,2.0,0,2000.0
+Tunis,Menzah,80.0,1.0,1.0,0,1100.0
+Tunis,L'aouina,80.0,1.0,1.0,0,850.0
+Tunis,L'aouina,230.0,3.0,2.0,1,800.0
+Tunis,Le Bardo,100.0,2.0,2.0,0,80.0
+Tunis,Tunis,80.0,2.0,1.0,0,1100.0
+Tunis,Menzah,380.0,6.0,2.0,1,2700.0
+Tunis,La Marsa,110.0,3.0,1.0,1,550.0
+Tunis,Autres villes,130.0,1.0,1.0,0,80.0
+Tunis,La Marsa,170.0,3.0,2.0,0,2500.0
+Tunis,La Marsa,120.0,2.0,1.0,0,2000.0
+Tunis,L'aouina,60.0,1.0,1.0,0,730.0
+Tunis,La Marsa,170.0,2.0,1.0,0,2000.0
+Tunis,Menzah,60.0,1.0,1.0,0,1100.0
+Tunis,Centre Ville - Lafayette,140.0,4.0,1.0,0,950.0
+Tunis,La Marsa,100.0,2.0,1.0,0,1200.0
+Tunis,La Marsa,140.0,2.0,2.0,0,1700.0
+Tunis,Menzah,140.0,3.0,2.0,0,1200.0
+Tunis,L'aouina,70.0,1.0,1.0,0,2000.0
+Tunis,La Marsa,70.0,1.0,1.0,0,1100.0
+Tunis,La Marsa,65.0,1.0,1.0,0,1500.0
+Tunis,Autres villes,100.0,2.0,1.0,0,2800.0
+Tunis,Carthage,70.0,2.0,1.0,0,880.0
+Tunis,El Ouardia,150.0,2.0,1.0,1,700.0
+Tunis,Autres villes,100.0,1.0,1.0,0,1500.0
+Tunis,Autres villes,96.0,3.0,1.0,0,500.0
+Tunis,Centre Ville - Lafayette,50.0,2.0,1.0,0,600.0
+Tunis,La Marsa,70.0,2.0,1.0,0,450.0
+Tunis,L'aouina,80.0,2.0,1.0,0,650.0
+Tunis,Other,144.0,4.0,1.0,1,320.0
+Tunis,L'aouina,140.0,3.0,2.0,0,850.0
+Tunis,Autres villes,50.0,2.0,1.0,0,500.0
+Tunis,Centre Ville - Lafayette,45.0,2.0,1.0,0,490.0
+Tunis,Centre Ville - Lafayette,25.0,1.0,1.0,0,350.0
+Tunis,Autres villes,100.0,4.0,1.0,1,500.0
+Tunis,L'aouina,125.0,3.0,1.0,1,700.0
+Tunis,El Ouardia,80.0,3.0,1.0,0,630.0
+Tunis,Autres villes,130.0,4.0,1.0,0,1000.0
+Tunis,Menzah,500.0,6.0,3.0,1,2900.0
+Tunis,Autres villes,75.0,2.0,1.0,1,320.0
+Tunis,L'aouina,80.0,1.0,1.0,0,80.0
+Tunis,La Marsa,150.0,3.0,1.0,0,1200.0
+Tunis,Menzah,100.0,2.0,1.0,0,850.0
+Tunis,La Marsa,200.0,4.0,2.0,1,5000.0
+Tunis,L'aouina,200.0,3.0,3.0,0,1700.0
+Tunis,Carthage,100.0,2.0,1.0,0,3000.0
+Tunis,Other,100.0,2.0,1.0,1,400.0
+Tunis,Cité El Khadra,70.0,1.0,1.0,0,600.0
+Tunis,Other,400.0,3.0,3.0,0,4000.0
+Tunis,Autres villes,200.0,2.0,1.0,0,70.0
+Tunis,Menzah,200.0,4.0,2.0,1,1350.0
+Tunis,L'aouina,130.0,3.0,2.0,0,1500.0
+Tunis,La Marsa,200.0,5.0,2.0,1,1650.0
+Tunis,Centre Urbain Nord,60.0,1.0,1.0,0,800.0
+Tunis,La Marsa,75.0,1.0,1.0,0,1100.0
+Tunis,Manar,130.0,3.0,1.0,0,1600.0
+Tunis,Le Bardo,60.0,1.0,1.0,0,550.0
+Tunis,Menzah,120.0,3.0,1.0,0,900.0
+Tunis,La Marsa,140.0,2.0,1.0,0,1400.0
+Tunis,Carthage,140.0,2.0,2.0,0,3800.0
+Tunis,La Marsa,165.0,3.0,3.0,0,2200.0
+Tunis,La Marsa,120.0,5.0,2.0,1,1750.0
+Tunis,La Marsa,325.0,3.0,2.0,1,3000.0
+Tunis,La Marsa,60.0,1.0,1.0,0,2000.0
+Tunis,La Marsa,185.0,4.0,2.0,1,2200.0
+Tunis,L'aouina,90.0,2.0,1.0,0,1800.0
+Tunis,La Marsa,180.0,2.0,2.0,1,1500.0
+Tunis,L'aouina,153.0,2.0,3.0,0,1500.0
+Tunis,Le Bardo,150.0,3.0,1.0,1,700.0
+Tunis,Autres villes,150.0,4.0,1.0,0,700.0
+Tunis,Menzah,500.0,5.0,3.0,1,2000.0
+Tunis,Cité El Khadra,165.0,3.0,1.0,0,600.0
+Tunis,Menzah,100.0,2.0,1.0,0,900.0
+Tunis,Tunis,145.0,2.0,1.0,0,1500.0
+Tunis,Autres villes,50.0,1.0,1.0,0,50.0
+Tunis,Menzah,130.0,2.0,1.0,0,700.0
+Tunis,Other,100.0,3.0,1.0,1,570.0
+Tunis,Menzah,100.0,2.0,2.0,0,900.0
+Tunis,Mutuelleville,235.0,3.0,1.0,1,2000.0
+Tunis,Centre Ville - Lafayette,90.0,2.0,1.0,1,650.0
+Tunis,Tunis,78.0,2.0,1.0,0,70.0
+Tunis,La Marsa,70.0,2.0,1.0,0,250.0
+Tunis,L'aouina,70.0,2.0,1.0,0,600.0
+Tunis,Menzah,80.0,2.0,1.0,0,850.0
+Tunis,Autres villes,50.0,1.0,1.0,0,300.0
+Tunis,Other,150.0,2.0,2.0,1,800.0
+Tunis,Autres villes,70.0,2.0,1.0,0,450.0
+Tunis,L'aouina,150.0,3.0,1.0,1,150.0
+Tunis,Autres villes,600.0,4.0,3.0,1,3000.0
+Tunis,Autres villes,60.0,1.0,1.0,0,400.0
+Tunis,Cité El Khadra,100.0,1.0,1.0,1,130.0
+Tunis,L'aouina,100.0,2.0,1.0,0,700.0
+Tunis,La Marsa,190.0,3.0,2.0,0,3000.0
+Tunis,Autres villes,65.0,3.0,1.0,0,420.0
+Tunis,Menzah,82.0,2.0,1.0,0,900.0
+Tunis,Le Kram,138.0,2.0,2.0,0,3000.0
+Tunis,Le Kram,150.0,2.0,2.0,0,4500.0
+Tunis,La Marsa,70.0,2.0,1.0,0,2000.0
+Tunis,Carthage,60.0,1.0,1.0,0,1700.0
+Tunis,La Marsa,100.0,3.0,3.0,0,1400.0
+Tunis,Le Bardo,50.0,1.0,1.0,0,350.0
+Tunis,La Marsa,237.0,4.0,3.0,0,3800.0
+Tunis,La Marsa,140.0,2.0,2.0,0,2000.0
+Tunis,Sidi Bou Said,150.0,4.0,2.0,1,3500.0
+Tunis,La Marsa,250.0,3.0,1.0,1,5000.0
+Tunis,Sidi Daoud,158.0,3.0,1.0,0,2500.0
+Tunis,Autres villes,100.0,2.0,1.0,0,350.0
+Tunis,Tunis,60.0,1.0,1.0,0,450.0
+Tunis,Autres villes,90.0,3.0,1.0,0,600.0
+Tunis,Autres villes,250.0,4.0,2.0,1,1600.0
+Tunis,Le Kram,73.0,1.0,1.0,0,160.0
+Tunis,Carthage,76.0,1.0,1.0,0,1000.0
+Tunis,Other,400.0,4.0,1.0,1,600.0
+Tunis,Menzah,75.0,1.0,1.0,0,875.0
+Tunis,La Marsa,200.0,4.0,1.0,0,2900.0
+Tunis,Autres villes,65.0,2.0,1.0,0,430.0
+Tunis,Tunis,380.0,4.0,3.0,1,4000.0
+Tunis,Manar,48.0,1.0,1.0,0,800.0
+Tunis,Tunis,120.0,2.0,1.0,0,2500.0
+Tunis,Carthage,80.0,2.0,1.0,0,550.0
+Tunis,Tunis,70.0,2.0,1.0,0,550.0
+Tunis,Centre Urbain Nord,70.0,2.0,1.0,0,110.0
+Tunis,Manar,70.0,2.0,1.0,0,200.0
+Tunis,La Marsa,250.0,6.0,3.0,1,4500.0
+Tunis,Tunis,20.0,1.0,1.0,0,220.0
+Tunis,Centre Urbain Nord,83.0,2.0,1.0,0,1600.0
+Tunis,Other,150.0,3.0,2.0,1,380.0
+Tunis,Other,65.0,2.0,1.0,0,400.0
+Tunis,Le Bardo,80.0,3.0,1.0,0,550.0
+Tunis,Autres villes,140.0,3.0,1.0,1,360.0
+Tunis,Autres villes,104.0,3.0,1.0,0,700.0
+Tunis,Autres villes,160.0,2.0,1.0,0,700.0
+Tunis,Manar,70.0,3.0,1.0,0,725.0
+Tunis,El Omrane supérieur,96.0,4.0,1.0,0,500.0
+Tunis,Autres villes,250.0,3.0,1.0,1,500.0
+Tunis,La Marsa,30.0,1.0,1.0,0,250.0
+Tunis,Autres villes,70.0,1.0,1.0,0,1200.0
+Tunis,Other,220.0,3.0,3.0,1,650.0
+Tunis,Cité El Khadra,99.0,3.0,1.0,0,1000.0
+Tunis,Centre Ville - Lafayette,90.0,2.0,1.0,0,750.0
+Tunis,La Marsa,350.0,3.0,2.0,1,900.0
+Tunis,L'aouina,200.0,4.0,2.0,1,1250.0
+Tunis,L'aouina,150.0,3.0,1.0,1,1500.0
+Tunis,Menzah,170.0,4.0,1.0,1,900.0
+Tunis,Other,70.0,2.0,1.0,0,320.0
+Tunis,Le Bardo,20.0,2.0,1.0,0,320.0
+Tunis,La Marsa,100.0,2.0,1.0,0,1500.0
+Tunis,Le Bardo,75.0,1.0,1.0,0,570.0
+Tunis,Sidi Daoud,70.0,1.0,1.0,0,850.0
+Tunis,Sidi Bou Said,100.0,3.0,1.0,0,1900.0
+Tunis,La Marsa,50.0,1.0,1.0,0,550.0
+Tunis,La Marsa,150.0,3.0,2.0,0,2500.0
+Tunis,Manar,285.0,4.0,2.0,1,1450.0
+Tunis,L'aouina,150.0,3.0,1.0,1,400.0
+Tunis,La Marsa,190.0,4.0,2.0,1,2200.0
+Tunis,L'aouina,70.0,1.0,1.0,0,2500.0
+Tunis,L'aouina,100.0,2.0,1.0,0,110.0
+Tunis,L'aouina,150.0,2.0,2.0,0,1700.0
+Tunis,La Marsa,151.0,3.0,3.0,0,2200.0
+Tunis,Le Kram,150.0,3.0,3.0,0,1700.0
+Tunis,La Marsa,140.0,3.0,2.0,0,1200.0
+Tunis,La Marsa,350.0,3.0,2.0,1,3500.0
+Tunis,La Marsa,90.0,2.0,1.0,0,750.0
+Tunis,Centre Urbain Nord,65.0,1.0,1.0,0,100.0
+Tunis,L'aouina,120.0,3.0,2.0,0,110.0
+Tunis,Autres villes,120.0,2.0,1.0,0,900.0
+Tunis,Menzah,55.0,1.0,1.0,0,500.0
+Tunis,Le Kram,85.0,1.0,1.0,0,1100.0
+Tunis,Tunis,150.0,2.0,1.0,0,1000.0
+Tunis,Centre Urbain Nord,132.0,2.0,2.0,0,500.0
+Tunis,La Marsa,120.0,1.0,1.0,0,2000.0
+Tunis,Autres villes,132.0,2.0,1.0,0,130.0
+Tunis,L'aouina,150.0,2.0,1.0,1,450.0
+Tunis,Menzah,73.0,1.0,1.0,0,825.0
+Tunis,Menzah,75.0,2.0,1.0,0,850.0
+Tunis,L'aouina,70.0,2.0,1.0,0,1500.0
+Tunis,Tunis,50.0,1.0,1.0,0,450.0
+Tunis,Sidi Daoud,120.0,2.0,1.0,1,2700.0
+Tunis,La Marsa,170.0,3.0,2.0,0,1500.0
+Tunis,Menzah,200.0,3.0,1.0,1,1200.0
+Tunis,La Marsa,170.0,2.0,2.0,0,2000.0
+Tunis,Tunis,94.0,3.0,1.0,0,540.0
+Tunis,La Marsa,155.0,3.0,2.0,1,2800.0
+Tunis,Centre Ville - Lafayette,90.0,2.0,1.0,0,650.0
+Tunis,Menzah,100.0,3.0,1.0,0,800.0
+Tunis,La Marsa,70.0,1.0,1.0,0,1700.0
+Tunis,La Marsa,120.0,2.0,2.0,0,1800.0
+Tunis,Menzah,70.0,3.0,1.0,0,890.0
+Tunis,Manar,140.0,3.0,1.0,0,980.0
+Tunis,La Marsa,600.0,3.0,3.0,1,4000.0
+Tunis,La Marsa,170.0,3.0,2.0,0,1450.0
+Tunis,Le Kram,55.0,1.0,1.0,0,900.0
+Tunis,La Marsa,280.0,3.0,2.0,0,2700.0
+Tunis,Centre Ville - Lafayette,55.0,2.0,1.0,0,600.0
+Tunis,Autres villes,80.0,3.0,1.0,0,300.0
+Tunis,Autres villes,115.0,2.0,1.0,0,350.0
+Tunis,Autres villes,120.0,3.0,1.0,1,160.0
+Tunis,Menzah,200.0,3.0,2.0,1,1000.0
+Tunis,Carthage,70.0,1.0,1.0,0,800.0
+Tunis,Tunis,90.0,2.0,1.0,0,450.0
+Tunis,Autres villes,170.0,3.0,1.0,1,500.0
+Tunis,Le Kram,150.0,4.0,2.0,0,1100.0
+Tunis,Autres villes,80.0,2.0,1.0,0,780.0
+Tunis,El Omrane supérieur,100.0,2.0,1.0,0,460.0
+Tunis,Tunis,237.0,3.0,3.0,0,2500.0
+Tunis,Centre Ville - Lafayette,70.0,2.0,1.0,0,750.0
+Tunis,El Omrane supérieur,90.0,3.0,1.0,0,800.0
+Tunis,Tunis,100.0,3.0,1.0,0,370.0
+Tunis,La Marsa,160.0,5.0,2.0,1,1600.0
+Tunis,Centre Urbain Nord,180.0,3.0,1.0,0,3000.0
+Tunis,Le Bardo,50.0,2.0,1.0,0,400.0
+Tunis,Tunis,75.0,1.0,1.0,0,1100.0
+Tunis,Menzah,180.0,4.0,2.0,1,1200.0
+Tunis,Tunis,371.0,4.0,4.0,1,5000.0
+Tunis,Autres villes,70.0,1.0,1.0,0,70.0
+Tunis,Cité El Khadra,120.0,3.0,1.0,0,550.0
+Tunis,Tunis,162.0,3.0,3.0,0,1700.0
+Tunis,Carthage,90.0,2.0,1.0,0,1350.0
+Tunis,Autres villes,100.0,2.0,1.0,1,580.0
+Tunis,Le Kram,65.0,1.0,1.0,0,120.0
+Tunis,L'aouina,70.0,1.0,1.0,0,1800.0
+Tunis,Autres villes,150.0,3.0,1.0,1,650.0
+Tunis,La Marsa,100.0,2.0,1.0,1,1200.0
+Tunis,Sidi Bou Said,150.0,3.0,2.0,1,1600.0
+Tunis,Menzah,250.0,7.0,3.0,1,2500.0
+Tunis,La Marsa,200.0,4.0,2.0,1,1650.0
+Tunis,Le Bardo,150.0,3.0,1.0,0,850.0
+Tunis,Autres villes,30.0,1.0,1.0,0,200.0
+Tunis,Le Bardo,80.0,3.0,1.0,0,370.0
+Tunis,La Marsa,140.0,3.0,2.0,0,1500.0
+Tunis,La Marsa,250.0,3.0,2.0,0,1600.0
+Tunis,Mutuelleville,220.0,3.0,3.0,0,3000.0
+Tunis,La Marsa,200.0,1.0,1.0,0,2000.0
+Tunis,Manar,60.0,2.0,1.0,0,300.0
+Tunis,La Marsa,150.0,2.0,1.0,0,1500.0
+Tunis,La Marsa,400.0,4.0,2.0,1,3500.0
+Tunis,Carthage,90.0,1.0,1.0,0,1100.0
+Tunis,Carthage,130.0,2.0,2.0,0,1500.0
+Tunis,La Marsa,50.0,1.0,1.0,0,850.0
+Tunis,La Marsa,200.0,2.0,2.0,1,170.0
+Tunis,Carthage,140.0,3.0,2.0,0,2500.0
+Tunis,Menzah,120.0,3.0,1.0,1,1200.0
+Tunis,La Marsa,60.0,1.0,1.0,0,130.0
+Tunis,Manar,90.0,2.0,1.0,0,750.0
+Tunis,Autres villes,200.0,4.0,2.0,0,1500.0
+Tunis,Autres villes,60.0,2.0,1.0,0,800.0
+Tunis,Le Kram,150.0,3.0,1.0,0,800.0
+Tunis,El Omrane supérieur,80.0,2.0,1.0,0,230.0
+Tunis,Tunis,30.0,1.0,1.0,0,300.0
+Tunis,Centre Ville - Lafayette,85.0,2.0,1.0,0,700.0
+Tunis,Autres villes,120.0,3.0,2.0,0,1600.0
+Tunis,Autres villes,100.0,2.0,1.0,0,330.0
+Tunis,Sidi Bou Said,55.0,1.0,1.0,0,90.0
+Tunis,Centre Ville - Lafayette,40.0,2.0,1.0,0,300.0
+Tunis,La Marsa,165.0,3.0,2.0,0,1600.0
+Tunis,L'aouina,80.0,2.0,1.0,0,700.0
+Tunis,Other,25.0,1.0,1.0,0,350.0
+Tunis,L'aouina,73.0,1.0,1.0,0,940.0
+Tunis,Manar,230.0,4.0,2.0,1,1600.0
+Tunis,Manar,140.0,3.0,2.0,1,1600.0
+Tunis,Menzah,570.0,10.0,5.0,1,5000.0
+Tunis,La Marsa,130.0,3.0,1.0,0,1500.0
+Tunis,La Marsa,400.0,4.0,3.0,1,3500.0
+Tunis,Autres villes,60.0,1.0,1.0,0,460.0
+Tunis,Menzah,120.0,3.0,1.0,0,850.0
+Tunis,Other,80.0,3.0,1.0,0,420.0
+Tunis,La Marsa,750.0,5.0,4.0,1,3500.0
+Tunis,Cité El Khadra,90.0,2.0,1.0,1,163.0
+Tunis,L'aouina,111.0,3.0,1.0,0,130.0
+Tunis,La Marsa,300.0,4.0,2.0,0,4000.0
+Tunis,La Marsa,100.0,2.0,1.0,0,1300.0
+Tunis,Menzah,50.0,1.0,1.0,0,400.0
+Tunis,L'aouina,170.0,3.0,2.0,0,1800.0
+Tunis,L'aouina,110.0,2.0,1.0,0,90.0
+Tunis,Autres villes,200.0,4.0,3.0,0,3500.0
+Tunis,La Marsa,450.0,4.0,2.0,0,4500.0
+Tunis,Carthage,220.0,2.0,1.0,0,1500.0
+Tunis,La Marsa,200.0,3.0,2.0,0,2000.0
+Tunis,La Marsa,133.0,2.0,1.0,0,1700.0
+Tunis,Le Bardo,140.0,4.0,1.0,1,700.0
+Tunis,Le Bardo,200.0,3.0,1.0,1,550.0
+Tunis,La Marsa,350.0,3.0,2.0,1,5000.0
+Tunis,La Marsa,140.0,3.0,1.0,0,3500.0
+Tunis,Le Bardo,90.0,2.0,1.0,0,500.0
+Tunis,Carthage,200.0,5.0,1.0,1,1500.0
+Tunis,Menzah,200.0,3.0,2.0,1,1900.0
+Tunis,La Marsa,150.0,3.0,2.0,0,3000.0
+Tunis,Tunis,130.0,4.0,1.0,0,1500.0
+Tunis,La Marsa,55.0,1.0,1.0,0,800.0
+Tunis,La Marsa,70.0,2.0,1.0,0,900.0
+Tunis,L'aouina,100.0,2.0,1.0,0,900.0
+Tunis,Le Kram,90.0,2.0,1.0,0,600.0
+Tunis,Le Kram,92.0,2.0,1.0,0,400.0
+Tunis,La Marsa,150.0,3.0,1.0,1,2300.0
+Tunis,Centre Urbain Nord,200.0,3.0,2.0,0,1850.0
+Tunis,Autres villes,70.0,1.0,1.0,0,950.0
+Tunis,Other,80.0,2.0,1.0,0,350.0
+Tunis,Autres villes,240.0,4.0,2.0,1,1800.0
+Tunis,La Marsa,120.0,2.0,1.0,0,600.0
+Tunis,Autres villes,90.0,2.0,1.0,1,450.0
+Tunis,La Marsa,140.0,3.0,1.0,1,580.0
+Tunis,La Marsa,55.0,2.0,1.0,0,150.0
+Tunis,Autres villes,90.0,2.0,1.0,1,400.0
+Tunis,Autres villes,42.0,1.0,1.0,0,70.0
+Tunis,Other,80.0,3.0,1.0,0,900.0
+Tunis,Le Bardo,140.0,4.0,1.0,0,1000.0
+Tunis,L'aouina,150.0,4.0,1.0,0,1500.0
+Tunis,Mutuelleville,35.0,1.0,1.0,0,700.0
+Tunis,Autres villes,80.0,2.0,1.0,1,800.0
+Tunis,Other,60.0,2.0,1.0,0,400.0
+Tunis,Sidi Bou Said,150.0,3.0,2.0,1,3000.0
+Tunis,Autres villes,105.0,3.0,1.0,0,180.0
+Tunis,Le Bardo,100.0,3.0,1.0,1,600.0
+Tunis,L'aouina,36.0,1.0,1.0,0,1200.0
+Tunis,El Omrane supérieur,100.0,3.0,1.0,0,500.0
+Tunis,La Marsa,20.0,1.0,1.0,0,650.0
+Tunis,Other,150.0,4.0,1.0,1,370.0
+Tunis,La Marsa,90.0,3.0,2.0,1,2000.0
+Tunis,Other,70.0,2.0,1.0,0,380.0
+Tunis,L'aouina,65.0,2.0,1.0,0,140.0
+Tunis,Autres villes,80.0,1.0,1.0,0,110.0
+Tunis,Autres villes,100.0,1.0,1.0,0,110.0
+Tunis,Le Kram,200.0,4.0,3.0,0,4000.0
+Tunis,Le Bardo,80.0,2.0,1.0,0,400.0
+Tunis,L'aouina,82.0,1.0,1.0,0,80.0
+Tunis,L'aouina,220.0,3.0,2.0,0,150.0
+Tunis,Le Bardo,150.0,4.0,2.0,0,1200.0
+Tunis,Le Kram,135.0,2.0,2.0,0,1700.0
+Tunis,La Marsa,67.0,1.0,1.0,0,950.0
+Tunis,Centre Ville - Lafayette,20.0,1.0,1.0,0,250.0
+Tunis,Autres villes,100.0,2.0,1.0,0,1200.0
+Tunis,Carthage,88.0,1.0,1.0,0,1850.0
+Tunis,La Marsa,90.0,1.0,1.0,0,1850.0
+Tunis,El Omrane supérieur,100.0,2.0,1.0,1,550.0
+Tunis,L'aouina,170.0,3.0,2.0,0,200.0
+Tunis,L'aouina,100.0,2.0,1.0,0,1250.0
+Tunis,Other,70.0,2.0,1.0,0,550.0
+Tunis,Le Kram,80.0,3.0,1.0,1,400.0
+Tunis,La Marsa,240.0,4.0,3.0,0,3500.0
+Tunis,Tunis,30.0,1.0,1.0,0,270.0
+Tunis,Le Bardo,80.0,1.0,1.0,1,150.0
+Tunis,Carthage,135.0,3.0,2.0,0,1200.0
+Tunis,Tunis,120.0,2.0,2.0,0,2200.0
+Tunis,La Marsa,200.0,3.0,1.0,0,2800.0
+Tunis,L'aouina,120.0,2.0,1.0,0,900.0
+Tunis,Autres villes,50.0,1.0,1.0,0,200.0
+Tunis,L'aouina,85.0,3.0,1.0,1,650.0
+Tunis,La Marsa,400.0,4.0,3.0,1,5000.0
+Tunis,La Marsa,55.0,1.0,1.0,0,1100.0
+Tunis,La Marsa,75.0,1.0,1.0,0,2000.0
+Tunis,Tunis,75.0,2.0,1.0,0,1200.0
+Tunis,La Marsa,120.0,3.0,2.0,0,1800.0
+Tunis,La Marsa,120.0,2.0,1.0,0,1600.0
+Tunis,La Marsa,100.0,3.0,2.0,0,1500.0
+Tunis,La Marsa,100.0,2.0,2.0,0,3000.0
+Tunis,La Marsa,350.0,3.0,2.0,0,3500.0
+Tunis,Menzah,160.0,3.0,3.0,0,1400.0
+Tunis,Centre Ville - Lafayette,70.0,1.0,1.0,0,800.0
+Tunis,Manar,110.0,2.0,1.0,0,800.0
+Tunis,Manar,620.0,6.0,2.0,1,5000.0
+Tunis,L'aouina,80.0,1.0,1.0,0,90.0
+Tunis,Autres villes,150.0,3.0,2.0,0,1000.0
+Tunis,Autres villes,50.0,2.0,1.0,0,450.0
+Tunis,El Ouardia,99.0,2.0,1.0,1,350.0
+Tunis,Menzah,150.0,3.0,1.0,1,850.0
+Tunis,Menzah,70.0,1.0,1.0,0,950.0
+Tunis,Menzah,540.0,5.0,2.0,1,3000.0
+Tunis,Le Kram,120.0,3.0,1.0,1,1000.0
+Tunis,Autres villes,70.0,1.0,1.0,0,600.0
+Tunis,Autres villes,400.0,2.0,1.0,0,500.0
+Tunis,Autres villes,110.0,2.0,2.0,0,2100.0
+Tunis,La Marsa,200.0,3.0,2.0,1,4500.0
+Tunis,Carthage,200.0,3.0,2.0,0,1700.0
+Tunis,Autres villes,70.0,2.0,1.0,0,250.0
+Tunis,La Marsa,180.0,2.0,2.0,0,3500.0
+Tunis,La Marsa,200.0,3.0,2.0,0,2500.0
+Tunis,La Marsa,120.0,2.0,2.0,0,3000.0
+Tunis,La Marsa,450.0,7.0,3.0,1,4500.0
+Tunis,La Marsa,120.0,2.0,2.0,0,2500.0
+Tunis,La Marsa,150.0,2.0,2.0,0,4500.0
+Tunis,Centre Ville - Lafayette,55.0,2.0,2.0,0,600.0
+Tunis,Tunis,45.0,2.0,1.0,0,500.0
+Tunis,La Marsa,200.0,3.0,2.0,0,800.0
+Tunis,Le Kram,200.0,3.0,3.0,0,2800.0
+Tunis,La Marsa,200.0,2.0,2.0,0,2100.0
+Tunis,Tunis,100.0,3.0,1.0,1,370.0
+Tunis,Menzah,35.0,1.0,1.0,0,550.0
+Tunis,La Marsa,300.0,3.0,2.0,1,5000.0
+Tunis,Menzah,120.0,3.0,1.0,1,1350.0
+Tunis,Autres villes,110.0,2.0,1.0,1,400.0
+Tunis,La Marsa,450.0,4.0,1.0,1,4300.0
+Tunis,Menzah,500.0,6.0,2.0,1,2000.0
+Tunis,Menzah,500.0,6.0,3.0,1,2000.0
+Tunis,La Marsa,180.0,3.0,3.0,0,2800.0
+Tunis,Sidi Daoud,80.0,1.0,1.0,0,1600.0
+Tunis,La Marsa,180.0,3.0,3.0,0,3800.0
+Tunis,Menzah,150.0,3.0,1.0,0,950.0
+Tunis,Manar,110.0,3.0,1.0,0,1200.0
+Tunis,Carthage,140.0,2.0,2.0,0,1300.0
+Tunis,Le Bardo,60.0,3.0,1.0,0,50.0
+Tunis,Carthage,240.0,3.0,3.0,1,1200.0
+Tunis,La Marsa,80.0,1.0,1.0,0,2500.0
+Tunis,La Marsa,100.0,2.0,1.0,0,2500.0
+Tunis,La Marsa,150.0,4.0,1.0,0,3500.0
+Tunis,La Marsa,200.0,4.0,2.0,1,3300.0
+Tunis,Carthage,70.0,2.0,1.0,0,600.0
+Tunis,Carthage,170.0,3.0,2.0,1,2800.0
+Tunis,Autres villes,90.0,4.0,1.0,0,700.0
+Tunis,Menzah,350.0,7.0,3.0,1,2400.0
+Tunis,Autres villes,95.0,3.0,1.0,0,500.0
+Tunis,Autres villes,70.0,2.0,1.0,0,1250.0
+Tunis,Autres villes,80.0,3.0,1.0,0,650.0
+Tunis,Autres villes,170.0,3.0,3.0,0,4000.0
+Tunis,La Marsa,320.0,3.0,2.0,1,2800.0
+Tunis,Le Kram,70.0,1.0,1.0,0,1500.0
+Tunis,Le Kram,85.0,1.0,1.0,0,1150.0
+Tunis,Le Kram,110.0,2.0,1.0,1,1500.0
+Tunis,Centre Ville - Lafayette,75.0,3.0,1.0,0,600.0
+Tunis,Carthage,500.0,7.0,2.0,1,3200.0
+Tunis,La Marsa,100.0,2.0,1.0,0,3500.0
+Tunis,Centre Ville - Lafayette,80.0,3.0,1.0,0,600.0
+Tunis,Menzah,48.0,1.0,1.0,0,950.0
+Tunis,Menzah,170.0,3.0,1.0,1,1300.0
+Tunis,Centre Urbain Nord,120.0,3.0,2.0,0,1600.0
+Tunis,Tunis,115.0,3.0,2.0,0,3000.0
+Tunis,Other,130.0,2.0,2.0,0,3200.0
+Tunis,Autres villes,80.0,2.0,1.0,0,420.0
+Tunis,Menzah,160.0,4.0,2.0,0,1600.0
+Tunis,Sidi Daoud,120.0,2.0,1.0,0,2300.0
+Tunis,La Marsa,150.0,3.0,1.0,1,3000.0
+Tunis,Centre Ville - Lafayette,107.0,3.0,2.0,0,1200.0
+Tunis,La Marsa,80.0,1.0,1.0,0,950.0
+Tunis,Centre Ville - Lafayette,80.0,3.0,1.0,0,180.0
+Tunis,El Ouardia,80.0,2.0,1.0,0,300.0
+Tunis,Autres villes,110.0,2.0,1.0,1,720.0
+Tunis,Centre Ville - Lafayette,70.0,3.0,1.0,0,600.0
+Tunis,Mutuelleville,400.0,4.0,2.0,1,4000.0
+Tunis,Menzah,180.0,2.0,1.0,1,1000.0
+Tunis,L'aouina,67.0,1.0,1.0,0,750.0
+Tunis,Carthage,100.0,2.0,2.0,0,250.0
+Tunis,L'aouina,90.0,2.0,1.0,0,90.0
+Tunis,La Marsa,100.0,2.0,1.0,0,600.0
+Tunis,La Marsa,200.0,3.0,2.0,1,780.0
+Tunis,Carthage,190.0,3.0,1.0,0,3500.0
+Tunis,La Marsa,100.0,2.0,2.0,0,220.0
+Tunis,Centre Ville - Lafayette,70.0,2.0,1.0,0,900.0
+Tunis,La Marsa,286.0,4.0,3.0,1,4500.0
+Tunis,La Marsa,140.0,1.0,1.0,0,1500.0
+Tunis,L'aouina,80.0,1.0,1.0,0,5000.0
+Tunis,L'aouina,100.0,3.0,1.0,0,1000.0
+Tunis,Manar,220.0,3.0,2.0,0,1600.0
+Tunis,La Marsa,140.0,2.0,2.0,0,1800.0
+Tunis,La Marsa,160.0,3.0,1.0,0,1800.0
+Tunis,Cité El Khadra,100.0,2.0,1.0,0,750.0
+Tunis,La Marsa,250.0,3.0,3.0,0,5000.0
+Tunis,Other,65.0,2.0,1.0,0,300.0
+Tunis,Centre Ville - Lafayette,85.0,3.0,1.0,1,700.0
+Tunis,Centre Ville - Lafayette,70.0,2.0,2.0,0,500.0
+Tunis,Autres villes,80.0,2.0,1.0,0,400.0
+Tunis,L'aouina,100.0,2.0,1.0,0,750.0
+Tunis,Mutuelleville,40.0,2.0,1.0,0,600.0
+Tunis,Sidi Daoud,130.0,2.0,1.0,1,470.0
+Tunis,Autres villes,95.0,2.0,1.0,0,900.0
+Tunis,Le Bardo,180.0,3.0,1.0,1,1000.0
+Tunis,Centre Ville - Lafayette,40.0,2.0,1.0,0,520.0
+Tunis,Tunis,80.0,2.0,1.0,1,75.0
+Tunis,La Marsa,120.0,2.0,1.0,0,1500.0
+Tunis,Sidi Daoud,350.0,3.0,2.0,0,2800.0
+Tunis,Autres villes,80.0,3.0,1.0,1,350.0
+Tunis,Autres villes,140.0,2.0,1.0,0,1070.0
+Tunis,Other,95.0,3.0,1.0,0,420.0
+Tunis,Centre Ville - Lafayette,109.0,3.0,1.0,0,1100.0
+Tunis,Centre Ville - Lafayette,74.0,2.0,1.0,0,900.0
+Tunis,Manar,120.0,4.0,1.0,0,1000.0
+Tunis,L'aouina,100.0,2.0,2.0,0,1600.0
+Tunis,La Marsa,170.0,4.0,3.0,0,2200.0
+Tunis,Autres villes,135.0,2.0,1.0,0,3000.0
+Tunis,Menzah,80.0,4.0,1.0,0,600.0
+Tunis,Autres villes,100.0,2.0,1.0,0,450.0
+Tunis,Autres villes,250.0,4.0,2.0,1,4000.0
+Tunis,Mutuelleville,200.0,4.0,3.0,1,1000.0
+Tunis,Le Bardo,55.0,2.0,1.0,0,350.0
+Tunis,L'aouina,110.0,3.0,2.0,1,1800.0
+Tunis,L'aouina,180.0,6.0,3.0,1,3000.0
+Tunis,Autres villes,115.0,2.0,1.0,0,1950.0
+Tunis,Autres villes,180.0,3.0,2.0,0,2500.0
+Tunis,Carthage,65.0,1.0,1.0,0,600.0
+Tunis,Menzah,80.0,1.0,1.0,0,1500.0
+Tunis,Tunis,200.0,4.0,1.0,0,1400.0
+Tunis,La Marsa,170.0,3.0,1.0,0,1200.0
+Tunis,Carthage,450.0,6.0,2.0,1,3200.0
+Tunis,Autres villes,170.0,3.0,2.0,0,2000.0
+Tunis,Sidi Daoud,145.0,2.0,1.0,0,160.0
+Tunis,El Omrane supérieur,70.0,2.0,1.0,1,350.0
+Tunis,La Marsa,100.0,1.0,1.0,0,2000.0
+Tunis,La Marsa,200.0,3.0,2.0,0,3500.0
+Tunis,Other,70.0,3.0,1.0,1,250.0
+Tunis,Other,105.0,4.0,2.0,0,520.0
+Tunis,Centre Urbain Nord,200.0,4.0,3.0,0,2200.0
+Tunis,La Marsa,75.0,3.0,1.0,0,780.0
+Tunis,Autres villes,50.0,2.0,1.0,0,390.0
+Tunis,Autres villes,50.0,2.0,1.0,0,800.0
+Tunis,Carthage,200.0,4.0,2.0,1,3000.0
+Tunis,Autres villes,90.0,2.0,1.0,0,1000.0
+Tunis,Other,100.0,3.0,1.0,1,500.0
+Tunis,Manar,40.0,1.0,1.0,0,1000.0
+Tunis,El Ouardia,40.0,2.0,1.0,0,380.0
+Tunis,Le Bardo,150.0,2.0,1.0,0,500.0
+Tunis,El Ouardia,110.0,3.0,2.0,1,900.0
+Tunis,Le Bardo,130.0,3.0,1.0,0,650.0
+Tunis,Menzah,540.0,5.0,3.0,1,2000.0
+Tunis,Le Kram,141.0,3.0,2.0,0,1000.0
+Tunis,Autres villes,150.0,2.0,1.0,0,500.0
+Tunis,L'aouina,101.0,2.0,1.0,0,900.0
+Tunis,La Marsa,210.0,3.0,3.0,0,3250.0
+Tunis,Tunis,40.0,1.0,1.0,0,450.0
+Tunis,L'aouina,60.0,1.0,1.0,0,80.0
+Tunis,Menzah,150.0,4.0,1.0,0,1600.0
+Tunis,Autres villes,97.0,2.0,1.0,0,800.0
+Tunis,Sidi Bou Said,130.0,1.0,1.0,0,2000.0
+Tunis,La Marsa,120.0,3.0,2.0,0,1550.0
+Tunis,Manar,50.0,1.0,1.0,0,800.0
+Tunis,Autres villes,74.0,2.0,1.0,0,800.0
+Tunis,Menzah,80.0,3.0,1.0,0,600.0
+Tunis,Menzah,200.0,3.0,1.0,1,1300.0
+Tunis,Autres villes,84.0,1.0,8.0,1,50.0
+Tunis,Le Bardo,60.0,3.0,1.0,0,180.0
+Tunis,Carthage,320.0,5.0,4.0,1,5000.0
+Tunis,Le Bardo,140.0,4.0,1.0,1,750.0
+Tunis,L'aouina,200.0,4.0,2.0,1,1400.0
+Tunis,L'aouina,500.0,5.0,3.0,1,1700.0
+Tunis,L'aouina,110.0,2.0,1.0,0,1700.0
+Tunis,Le Kram,70.0,1.0,1.0,0,1600.0
+Tunis,Le Kram,65.0,2.0,1.0,0,140.0
+Tunis,La Marsa,100.0,2.0,1.0,0,200.0
+Tunis,Tunis,33.0,1.0,1.0,0,400.0
+Tunis,Sidi Bou Said,90.0,1.0,1.0,0,180.0
+Tunis,Centre Ville - Lafayette,33.0,2.0,1.0,0,400.0
+Tunis,Sidi Bou Said,100.0,3.0,1.0,0,250.0
+Tunis,La Marsa,200.0,3.0,2.0,1,3500.0
+Tunis,La Marsa,80.0,1.0,1.0,0,1100.0
+Tunis,L'aouina,75.0,1.0,1.0,0,160.0
+Tunis,Menzah,80.0,1.0,1.0,0,500.0
+Tunis,La Marsa,100.0,2.0,1.0,0,800.0
+Tunis,Other,110.0,3.0,1.0,1,350.0
+Tunis,Other,80.0,2.0,1.0,0,450.0
+Tunis,L'aouina,60.0,1.0,1.0,0,950.0
+Tunis,Other,85.0,3.0,1.0,0,450.0
+Tunis,La Marsa,200.0,3.0,1.0,0,3500.0
+Tunis,La Marsa,170.0,3.0,1.0,0,1700.0
+Tunis,La Marsa,30.0,1.0,1.0,0,600.0
+Tunis,Autres villes,130.0,3.0,1.0,0,70.0
+Tunis,Le Kram,90.0,1.0,1.0,0,1500.0
+Tunis,Other,90.0,2.0,1.0,1,550.0
+Tunis,Autres villes,114.0,2.0,1.0,0,800.0
+Tunis,Le Kram,60.0,2.0,1.0,0,350.0
+Tunis,Le Kram,66.0,1.0,1.0,0,1100.0
+Tunis,Le Kram,60.0,1.0,1.0,0,350.0
+Tunis,El Ouardia,90.0,3.0,1.0,1,550.0
+Tunis,Tunis,150.0,4.0,1.0,0,900.0
+Tunis,Tunis,50.0,2.0,1.0,0,800.0
+Tunis,Autres villes,70.0,1.0,1.0,0,500.0
+Tunis,La Marsa,150.0,1.0,1.0,0,1200.0
+Tunis,Autres villes,65.0,2.0,1.0,0,400.0
+Tunis,Centre Ville - Lafayette,60.0,2.0,1.0,0,550.0
+Tunis,Carthage,70.0,2.0,1.0,0,1300.0
+Tunis,Centre Ville - Lafayette,25.0,1.0,1.0,0,260.0
+Tunis,La Marsa,80.0,1.0,1.0,0,400.0
+Tunis,Autres villes,100.0,3.0,1.0,0,500.0
+Tunis,Le Bardo,114.0,2.0,1.0,0,800.0
+Tunis,Autres villes,130.0,1.0,1.0,1,120.0
+Tunis,Autres villes,120.0,1.0,1.0,0,120.0
+Tunis,La Marsa,120.0,2.0,1.0,1,80.0
+Tunis,El Omrane supérieur,60.0,2.0,1.0,0,380.0
+Tunis,Autres villes,200.0,4.0,2.0,0,150.0
+Tunis,La Marsa,80.0,2.0,1.0,0,700.0
+Tunis,L'aouina,110.0,2.0,1.0,0,850.0
+Tunis,Autres villes,130.0,2.0,1.0,0,90.0
+Tunis,L'aouina,50.0,1.0,1.0,0,70.0
+Tunis,Le Bardo,85.0,3.0,1.0,0,380.0
+Tunis,Sidi Daoud,100.0,4.0,2.0,0,1400.0
+Tunis,Centre Urbain Nord,100.0,2.0,1.0,0,1200.0
+Tunis,Autres villes,200.0,4.0,2.0,1,600.0
+Tunis,Carthage,80.0,1.0,1.0,0,1300.0
+Tunis,Autres villes,70.0,1.0,1.0,0,250.0
+Tunis,Autres villes,400.0,3.0,1.0,0,120.0
+Tunis,La Marsa,95.0,3.0,2.0,0,600.0
+Tunis,Autres villes,190.0,3.0,2.0,0,800.0
+Tunis,Autres villes,200.0,3.0,2.0,1,800.0
+Tunis,Cité El Khadra,65.0,1.0,1.0,0,400.0
+Tunis,L'aouina,120.0,2.0,1.0,0,100.0
+Tunis,Carthage,80.0,1.0,1.0,0,1600.0
+Tunis,L'aouina,240.0,4.0,1.0,1,1400.0
+Tunis,Autres villes,35.0,1.0,1.0,0,120.0
+Tunis,Menzah,130.0,3.0,1.0,1,1600.0
+Tunis,Other,80.0,2.0,1.0,1,300.0
+Tunis,Carthage,500.0,7.0,4.0,1,3200.0
+Tunis,La Marsa,120.0,2.0,1.0,0,2100.0
+Tunis,Carthage,250.0,3.0,1.0,1,3000.0
+Tunis,Menzah,600.0,6.0,3.0,1,2000.0
+Tunis,La Marsa,50.0,1.0,1.0,0,1700.0
+Tunis,L'aouina,110.0,2.0,1.0,0,1100.0
+Tunis,L'aouina,60.0,1.0,1.0,0,1000.0
+Tunis,Centre Ville - Lafayette,42.0,2.0,1.0,0,600.0
+Tunis,Autres villes,120.0,4.0,1.0,1,620.0
+Tunis,El Ouardia,100.0,2.0,1.0,0,580.0
+Tunis,Autres villes,85.0,2.0,1.0,0,420.0
+Tunis,La Marsa,170.0,5.0,2.0,1,1500.0
+Tunis,Other,110.0,3.0,1.0,0,530.0
+Tunis,Autres villes,90.0,1.0,1.0,0,150.0
+Tunis,La Marsa,450.0,3.0,2.0,1,3500.0
+Tunis,La Marsa,90.0,1.0,1.0,0,1400.0
+Tunis,Menzah,120.0,2.0,2.0,0,1400.0
+Tunis,Menzah,200.0,2.0,1.0,0,1800.0
+Tunis,La Marsa,125.0,3.0,1.0,0,1200.0
+Tunis,La Marsa,155.0,2.0,2.0,0,1500.0
+Tunis,La Marsa,60.0,1.0,1.0,0,1700.0
+Tunis,Autres villes,49.0,2.0,1.0,0,300.0
+Tunis,Manar,250.0,3.0,2.0,1,3000.0
+Tunis,Autres villes,135.0,2.0,1.0,0,2500.0
+Tunis,Tunis,140.0,3.0,2.0,0,1500.0
+Tunis,Menzah,150.0,3.0,1.0,0,1100.0
+Tunis,La Marsa,110.0,3.0,1.0,0,800.0
+Tunis,Autres villes,60.0,1.0,1.0,0,1700.0
+Tunis,La Marsa,136.0,2.0,2.0,0,1400.0
+Tunis,La Marsa,90.0,1.0,1.0,0,1000.0
+Tunis,La Marsa,80.0,2.0,1.0,0,4500.0
+Tunis,Menzah,200.0,3.0,2.0,1,1800.0
+Tunis,El Omrane supérieur,180.0,5.0,2.0,1,2000.0
+Tunis,La Marsa,120.0,3.0,1.0,0,750.0
+Tunis,Autres villes,100.0,2.0,1.0,1,300.0
+Tunis,L'aouina,80.0,2.0,1.0,0,90.0
+Tunis,L'aouina,100.0,1.0,1.0,0,120.0
+Tunis,Manar,50.0,1.0,1.0,0,400.0
+Tunis,Le Bardo,80.0,3.0,1.0,0,490.0
+Tunis,L'aouina,90.0,2.0,1.0,0,800.0
+Tunis,L'aouina,500.0,3.0,3.0,1,1700.0
+Tunis,Autres villes,120.0,2.0,3.0,0,2200.0
+Tunis,Menzah,400.0,6.0,4.0,1,2000.0
+Tunis,L'aouina,140.0,2.0,1.0,0,2600.0
+Tunis,L'aouina,90.0,1.0,1.0,0,950.0
+Tunis,L'aouina,107.0,2.0,1.0,0,1000.0
+Tunis,Autres villes,80.0,2.0,1.0,0,110.0
+Tunis,Carthage,120.0,2.0,2.0,0,1300.0
+Tunis,El Omrane supérieur,30.0,3.0,1.0,0,180.0
+Tunis,L'aouina,80.0,2.0,1.0,0,85.0
+Tunis,Other,120.0,3.0,1.0,0,350.0
+Tunis,Autres villes,80.0,1.0,1.0,0,150.0
+Tunis,Le Bardo,80.0,2.0,1.0,1,600.0
+Tunis,Autres villes,150.0,2.0,1.0,0,350.0
+Tunis,Autres villes,100.0,3.0,1.0,1,300.0
+Tunis,La Marsa,150.0,4.0,2.0,0,2200.0
+Tunis,Menzah,200.0,2.0,1.0,1,1800.0
+Tunis,Mutuelleville,50.0,1.0,1.0,0,700.0
+Tunis,La Marsa,130.0,3.0,3.0,0,4200.0
+Tunis,La Marsa,70.0,1.0,1.0,0,1800.0
+Tunis,Tunis,60.0,2.0,1.0,0,650.0
+Tunis,Autres villes,120.0,2.0,1.0,0,700.0
+Tunis,Autres villes,75.0,3.0,1.0,0,650.0
+Tunis,La Marsa,55.0,1.0,1.0,0,1600.0
+Tunis,Other,100.0,2.0,1.0,0,300.0
+Tunis,Cité El Khadra,70.0,2.0,1.0,0,380.0
+Tunis,L'aouina,100.0,2.0,1.0,0,950.0
+Tunis,Manar,90.0,3.0,1.0,0,750.0
+Tunis,Autres villes,165.0,3.0,2.0,0,1800.0
+Tunis,Autres villes,120.0,2.0,2.0,0,2500.0
+Tunis,Menzah,300.0,3.0,3.0,1,3500.0
+Tunis,Menzah,130.0,3.0,1.0,0,1350.0
+Tunis,Autres villes,110.0,2.0,1.0,0,1300.0
+Tunis,L'aouina,53.0,1.0,1.0,0,1500.0
+Tunis,Other,150.0,3.0,1.0,1,450.0
+Tunis,Le Kram,90.0,1.0,1.0,0,1100.0
+Tunis,La Marsa,200.0,3.0,2.0,0,4000.0
+Tunis,La Marsa,107.0,2.0,1.0,0,1000.0
+Tunis,L'aouina,120.0,3.0,2.0,0,900.0
+Tunis,L'aouina,100.0,1.0,1.0,0,950.0
+Tunis,Menzah,122.0,3.0,2.0,0,1025.0
+Tunis,La Marsa,190.0,4.0,3.0,1,2100.0
+Tunis,L'aouina,220.0,4.0,2.0,1,1400.0
+Tunis,La Marsa,75.0,1.0,1.0,0,1300.0
+Tunis,La Marsa,145.0,2.0,2.0,0,1500.0
+Tunis,La Marsa,150.0,4.0,2.0,0,1500.0
+Tunis,Autres villes,115.0,3.0,1.0,0,1490.0
+Tunis,Autres villes,60.0,1.0,1.0,0,750.0
+Tunis,El Omrane supérieur,70.0,2.0,1.0,0,1234.0
+Tunis,Autres villes,130.0,4.0,1.0,1,850.0
+Tunis,La Marsa,100.0,3.0,1.0,0,70.0
+Tunis,El Omrane supérieur,113.0,4.0,1.0,1,650.0
+Tunis,Autres villes,89.0,1.0,1.0,0,120.0
+Tunis,La Marsa,120.0,3.0,1.0,0,1370.0
+Tunis,La Marsa,150.0,3.0,1.0,0,800.0
+Tunis,Menzah,80.0,2.0,1.0,1,600.0
+Tunis,La Marsa,96.0,3.0,1.0,0,1050.0
+Tunis,Menzah,150.0,4.0,2.0,1,1600.0
+Tunis,La Marsa,150.0,2.0,1.0,0,1200.0
+Tunis,Menzah,150.0,4.0,1.0,1,1600.0
+Tunis,Autres villes,250.0,4.0,2.0,1,620.0
+Tunis,Menzah,150.0,4.0,2.0,1,1000.0
+Tunis,Tunis,100.0,2.0,1.0,0,900.0
+Tunis,Menzah,65.0,2.0,1.0,0,600.0
+Tunis,Le Bardo,100.0,2.0,1.0,0,700.0
+Tunis,La Marsa,150.0,3.0,2.0,0,1500.0
+Tunis,La Marsa,180.0,3.0,2.0,0,2200.0
+Tunis,Menzah,50.0,2.0,1.0,0,500.0
+Tunis,El Ouardia,45.0,2.0,1.0,0,420.0
+Tunis,El Ouardia,110.0,3.0,1.0,0,530.0
+Tunis,L'aouina,120.0,2.0,2.0,0,1500.0
+Tunis,La Marsa,320.0,1.0,1.0,0,2500.0
+Tunis,Other,55.0,2.0,1.0,0,350.0
+Tunis,L'aouina,160.0,4.0,2.0,0,1050.0
+Tunis,El Ouardia,80.0,3.0,1.0,0,400.0
+Tunis,Le Bardo,150.0,3.0,1.0,1,950.0
+Tunis,La Marsa,180.0,2.0,2.0,0,1200.0
+Tunis,Le Bardo,160.0,3.0,1.0,1,1000.0
+Tunis,La Marsa,150.0,2.0,1.0,0,2500.0
+Tunis,L'aouina,70.0,2.0,1.0,0,140.0
+Tunis,L'aouina,60.0,1.0,1.0,0,90.0
+Tunis,Autres villes,100.0,1.0,1.0,0,600.0
+Tunis,Sidi Bou Said,70.0,2.0,1.0,1,500.0

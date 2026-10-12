@@ -1,0 +1,216 @@
+<div class="container py-5">
+  <div class="text-center mb-4">
+    <h1 class="h3">
+      <i class="bi bi-stars me-2 text-warning"></i>
+      AI Recommendations
+    </h1>
+    <p class="text-muted">
+      Tell us your preferences — we'll estimate a fair price and suggest matching properties nearby.
+    </p>
+  </div>
+
+  <div class="row g-4">
+    <!-- Preferences form -->
+    <div class="col-lg-5">
+      <div class="card shadow-sm border-0 sticky-form">
+        <div class="card-body p-4">
+          <h5 class="text-primary mb-3 border-bottom pb-2">
+            <i class="bi bi-sliders me-2"></i>Your Preferences
+          </h5>
+
+          <form [formGroup]="form" (ngSubmit)="onSubmit()">
+            <div class="row g-3 mb-3">
+              <div class="col-6">
+                <label class="form-label small">Governorate</label>
+                <select class="form-select" formControlName="governorate">
+                  <option *ngFor="let g of governorates" [value]="g">{{ g }}</option>
+                </select>
+              </div>
+              <div class="col-6">
+                <label class="form-label small">City</label>
+                <select class="form-select" formControlName="city">
+                  <option *ngFor="let c of availableCities" [value]="c">{{ c }}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="row g-3 mb-3">
+              <div class="col-4">
+                <label class="form-label small">Surface (m²)</label>
+                <input type="number" class="form-control" formControlName="surface">
+              </div>
+              <div class="col-4">
+                <label class="form-label small">Bedrooms</label>
+                <input type="number" class="form-control" formControlName="bedrooms">
+              </div>
+              <div class="col-4">
+                <label class="form-label small">Bathrooms</label>
+                <input type="number" class="form-control" formControlName="bathrooms">
+              </div>
+            </div>
+
+            <label class="form-label small mb-2">Must-have amenities</label>
+            <div class="row g-2 mb-3">
+              <div class="col-6" *ngFor="let a of amenities">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox"
+                         [formControlName]="a.key" [id]="'rec-' + a.key">
+                  <label class="form-check-label small" [for]="'rec-' + a.key">{{ a.label }}</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="row g-3 mb-3">
+              <div class="col-6">
+                <label class="form-label small">
+                  Price tolerance: <strong>{{ form.value.tolerance }}%</strong>
+                </label>
+                <input type="range" class="form-range" min="0" max="50" step="5"
+                       formControlName="tolerance">
+              </div>
+              <div class="col-6">
+                <label class="form-label small">Max suggestions</label>
+                <input type="number" class="form-control" formControlName="limit" min="1" max="20">
+              </div>
+            </div>
+
+            <div *ngIf="error" class="alert alert-danger small">
+              <i class="bi bi-exclamation-triangle me-1"></i>{{ error }}
+            </div>
+
+            <button class="btn btn-primary w-100" type="submit" [disabled]="loading">
+              <span *ngIf="!loading">
+                <i class="bi bi-magic me-2"></i>Get Recommendations
+              </span>
+              <span *ngIf="loading">
+                <span class="spinner-border spinner-border-sm me-2"></span>Analyzing...
+              </span>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div class="col-lg-7">
+
+      <!-- Empty state -->
+      <div *ngIf="!result && !loading" class="card border-0 shadow-sm">
+        <div class="card-body text-center py-5 text-muted">
+          <i class="bi bi-lightbulb display-4 d-block mb-3 text-warning"></i>
+          Fill in your preferences and click <strong>Get Recommendations</strong>.
+          <br>
+          The AI will estimate a fair rent and find matching listings nearby.
+        </div>
+      </div>
+
+      <div *ngIf="loading" class="text-center py-5">
+        <div class="spinner-border text-primary"></div>
+        <p class="text-muted mt-2">Running the model and searching the database...</p>
+      </div>
+
+      <ng-container *ngIf="result && !loading">
+
+        <!-- Price estimate card -->
+        <div class="card shadow-sm border-0 mb-4 estimate-card">
+          <div class="card-body text-center">
+            <small class="text-muted text-uppercase">AI Estimated Fair Rent</small>
+            <div class="display-5 fw-bold text-primary my-2">
+              {{ result.prediction.estimated_rent | number }}
+              <small class="fs-5">{{ result.prediction.currency }}</small>
+            </div>
+            <div class="text-muted">
+              Expected range:
+              <strong>{{ result.prediction.min_rent | number }} – {{ result.prediction.max_rent | number }} TND</strong>
+            </div>
+            <span *ngIf="result.prediction.confidence"
+                  class="badge rounded-pill mt-2"
+                  [ngClass]="{
+                    'bg-success': result.prediction.confidence === 'high',
+                    'bg-warning text-dark': result.prediction.confidence === 'medium',
+                    'bg-secondary': result.prediction.confidence === 'low'
+                  }">
+              {{ result.prediction.confidence | titlecase }} confidence
+            </span>
+          </div>
+        </div>
+
+        <!-- Suggestions -->
+        <h5 class="mb-3">
+          <i class="bi bi-geo-alt-fill me-2 text-primary"></i>
+          {{ result.matches.length }} matching propert{{ result.matches.length === 1 ? 'y' : 'ies' }}
+          <small class="text-muted fw-normal">near your preferences</small>
+        </h5>
+
+        <div *ngIf="result.matches.length === 0" class="alert alert-info">
+          No listings match your price tolerance. Try increasing the tolerance
+          or widening your criteria.
+        </div>
+
+        <div class="d-flex flex-column gap-3">
+          <div class="card border-0 shadow-sm match-card"
+               *ngFor="let p of result.matches">
+            <div class="card-body">
+              <div class="d-flex justify-content-between align-items-start flex-wrap gap-2">
+                <div>
+                  <h6 class="mb-1">
+                    <i class="bi bi-geo-alt me-1 text-primary"></i>
+                    {{ p.city }}, {{ p.governorate }}
+                  </h6>
+                  <small class="text-muted">
+                    {{ p.surface }} m² · {{ p.bedrooms }} bd · {{ p.bathrooms }} ba
+                    <span *ngIf="p.floor !== null && p.floor !== undefined">· floor {{ p.floor }}</span>
+                  </small>
+                </div>
+                <div class="text-end">
+                  <div class="fs-5 fw-bold text-primary">
+                    {{ p.rent | number }} TND
+                  </div>
+                  <small class="text-muted" *ngIf="p.price_per_m2">
+                    {{ p.price_per_m2 | number:'1.2-2' }} TND/m²
+                  </small>
+                </div>
+              </div>
+
+              <!-- Difference indicator -->
+              <div class="mt-2 small"
+                   [ngClass]="{
+                     'text-success': p.rent < result.prediction.estimated_rent,
+                     'text-danger': p.rent > result.prediction.estimated_rent,
+                     'text-muted': p.rent === result.prediction.estimated_rent
+                   }">
+                <i class="bi"
+                   [ngClass]="{
+                     'bi-arrow-down-circle': p.rent < result.prediction.estimated_rent,
+                     'bi-arrow-up-circle': p.rent > result.prediction.estimated_rent,
+                     'bi-dash-circle': p.rent === result.prediction.estimated_rent
+                   }">
+                </i>
+                {{ (p.rent - result.prediction.estimated_rent) > 0 ? '+' : '' }}{{ p.rent - result.prediction.estimated_rent | number }} TND
+                vs estimate
+              </div>
+
+              <div class="mt-2 d-flex flex-wrap gap-1">
+                <span class="badge bg-light text-dark" *ngIf="p.furnished">Furnished</span>
+                <span class="badge bg-light text-dark" *ngIf="p.parking">Parking</span>
+                <span class="badge bg-light text-dark" *ngIf="p.elevator">Elevator</span>
+                <span class="badge bg-light text-dark" *ngIf="p.aircon">AC</span>
+                <span class="badge bg-light text-dark" *ngIf="p.sea_view">Sea View</span>
+                <span class="badge bg-light text-dark" *ngIf="p.pool">Pool</span>
+                <span class="badge bg-light text-dark" *ngIf="p.terrace">Terrace</span>
+                <span class="badge bg-light text-dark" *ngIf="p.equipped_kitchen">Kitchen</span>
+                <span class="badge bg-light text-dark" *ngIf="p.is_house">House</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="text-center mt-4">
+          <a routerLink="/" class="btn btn-outline-primary btn-sm">
+            <i class="bi bi-pencil me-1"></i>Refine your search
+          </a>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</div>

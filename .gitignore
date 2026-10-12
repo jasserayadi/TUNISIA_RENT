@@ -1,0 +1,39 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite3
+*.pkl
+
+# Node / Frontend
+node_modules/
+dist/
+.angular/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

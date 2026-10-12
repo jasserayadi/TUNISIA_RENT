@@ -1,0 +1,10 @@
+{
+  "model_name": "XGBoost + Monotonic Constraints",
+  "mae": 521.7,
+  "rmse": 789.8,
+  "r2": 0.64,
+  "constraints": [
+    "surface \u2191",
+    "bedrooms \u2191"
+  ]
+}

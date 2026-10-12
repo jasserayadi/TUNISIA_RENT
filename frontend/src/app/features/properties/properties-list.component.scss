@@ -1,0 +1,137 @@
+/* ============================================================
+   Property card — fabulous
+   ============================================================ */
+.tr-prop-card {
+  background: var(--tr-surface);
+  border: 1px solid var(--tr-border);
+  border-radius: var(--tr-radius);
+  overflow: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: transform 300ms var(--tr-ease), box-shadow 300ms var(--tr-ease);
+}
+.tr-prop-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--tr-shadow-lg);
+}
+
+/* Image area */
+.tr-prop-img {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: var(--tr-surface-2);
+}
+.tr-prop-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 700ms var(--tr-ease);
+}
+.tr-prop-card:hover .tr-prop-img img {
+  transform: scale(1.08);
+}
+
+/* Price pill */
+.tr-prop-price {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  padding: 6px 14px;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(10px);
+  color: #fff;
+  font-weight: 800;
+  border-radius: 999px;
+  font-size: 0.92rem;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+}
+
+/* Furnished tag */
+.tr-prop-tag {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  padding: 5px 12px;
+  background: rgba(13, 110, 253, 0.9);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  border-radius: 999px;
+  box-shadow: 0 6px 16px rgba(13, 110, 253, 0.4);
+}
+
+/* Body */
+.tr-prop-body {
+  padding: 16px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+.tr-prop-body h5 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--tr-text);
+  margin: 0;
+}
+
+/* Meta list */
+.tr-prop-meta {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+  color: var(--tr-text-muted);
+}
+.tr-prop-meta i {
+  color: var(--tr-primary);
+  margin-right: 4px;
+}
+
+/* Badges */
+.tr-prop-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.badge-mini {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  background: color-mix(in srgb, var(--tr-primary) 10%, transparent);
+  color: var(--tr-primary);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+/* Footer (price per m²) */
+.tr-prop-footer {
+  margin-top: auto;
+  padding-top: 10px;
+  border-top: 1px dashed var(--tr-border);
+  color: var(--tr-text-muted);
+  font-size: 0.82rem;
+}
+.tr-prop-footer i {
+  color: var(--tr-primary);
+  margin-right: 6px;
+}
+
+/* ============================================================
+   Filter toggle buttons (advanced filters)
+   ============================================================ */
+.amenity-toggle {
+  text-align: left;
+  font-size: 0.82rem;
+  padding: 0.35rem 0.6rem;
+  transition: all 0.15s ease;
+}

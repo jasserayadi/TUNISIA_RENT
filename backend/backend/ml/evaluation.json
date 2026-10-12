@@ -1,0 +1,71 @@
+{
+  "global": {
+    "n": 3730,
+    "mae": 355.5268033597808,
+    "medae": 226.05361938476562,
+    "rmse": 524.4143441710879,
+    "r2": 0.7862612598810118,
+    "mape": 0.17393267610091584,
+    "medape": 0.12100226120721727,
+    "within_10": 0.4324396782841823,
+    "within_15": 0.5831099195710456,
+    "within_20": 0.6997319034852547,
+    "within_25": 0.7860589812332439,
+    "within_30": 0.8487935656836462,
+    "within_50": 0.9549597855227882
+  },
+  "by_governorate": {
+    "Ariana": {
+      "count": 446,
+      "mean": 257.5,
+      "median": 161.1
+    },
+    "Ben arous": {
+      "count": 39,
+      "mean": 165.3,
+      "median": 105.0
+    },
+    "Nabeul": {
+      "count": 336,
+      "mean": 249.5,
+      "median": 183.9
+    },
+    "Sfax": {
+      "count": 26,
+      "mean": 312.3,
+      "median": 199.9
+    },
+    "Sousse": {
+      "count": 308,
+      "mean": 252.7,
+      "median": 175.2
+    },
+    "Tunis": {
+      "count": 2575,
+      "mean": 402.0,
+      "median": 265.8
+    }
+  },
+  "n_features": 19,
+  "features": [
+    "governorate",
+    "city",
+    "quartier",
+    "surface",
+    "bedrooms",
+    "bathrooms",
+    "is_house",
+    "furnished",
+    "garage",
+    "elevator",
+    "aircon",
+    "heating",
+    "security",
+    "pool",
+    "sea_view",
+    "terrace",
+    "equipped_kitchen",
+    "surface_per_bedroom",
+    "log_surface"
+  ]
+}

@@ -1,0 +1,155 @@
+<div class="container py-5">
+  <h1 class="mb-4">
+    <i class="bi bi-bar-chart-fill me-2 text-primary"></i>Market Dashboard
+  </h1>
+
+  <div *ngIf="loading" class="text-center py-5">
+    <div class="spinner-border text-primary"></div>
+  </div>
+
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+
+  <ng-container *ngIf="stats && !loading">
+    <!-- KPI cards -->
+    <div class="row g-4 mb-4">
+      <div class="col-md-3">
+        <div class="card kpi-card border-0 shadow-sm">
+          <div class="card-body">
+            <div class="kpi-icon bg-primary-subtle text-primary">
+              <i class="bi bi-buildings"></i>
+            </div>
+            <div class="kpi-value">{{ stats.total_properties }}</div>
+            <div class="kpi-label">Total Properties</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card kpi-card border-0 shadow-sm">
+          <div class="card-body">
+            <div class="kpi-icon bg-success-subtle text-success">
+              <i class="bi bi-cash-coin"></i>
+            </div>
+            <div class="kpi-value">{{ stats.average_rent | number }} TND</div>
+            <div class="kpi-label">Average Rent</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card kpi-card border-0 shadow-sm">
+          <div class="card-body">
+            <div class="kpi-icon bg-info-subtle text-info">
+              <i class="bi bi-rulers"></i>
+            </div>
+            <div class="kpi-value">{{ stats.average_surface | number:'1.0-0' }} m²</div>
+            <div class="kpi-label">Average Surface</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card kpi-card border-0 shadow-sm">
+          <div class="card-body">
+            <div class="kpi-icon bg-warning-subtle text-warning">
+              <i class="bi bi-geo-alt"></i>
+            </div>
+            <div class="kpi-value small-value">{{ stats.most_represented_city ?? '—' }}</div>
+            <div class="kpi-label">Top City</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Secondary stats -->
+    <div class="row g-4 mb-4">
+      <div class="col-md-6">
+        <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <h5 class="card-title">Rent Distribution</h5>
+            <div class="d-flex justify-content-between mb-2">
+              <span class="text-muted">Minimum</span>
+              <span class="fw-bold">{{ stats.min_rent | number }} TND</span>
+            </div>
+            <div class="d-flex justify-content-between mb-2">
+              <span class="text-muted">Median</span>
+              <span class="fw-bold">{{ stats.median_rent | number }} TND</span>
+            </div>
+            <div class="d-flex justify-content-between mb-2">
+              <span class="text-muted">Average</span>
+              <span class="fw-bold">{{ stats.average_rent | number }} TND</span>
+            </div>
+            <div class="d-flex justify-content-between">
+              <span class="text-muted">Maximum</span>
+              <span class="fw-bold">{{ stats.max_rent | number }} TND</span>
+            </div>
+            <hr>
+            <div class="d-flex justify-content-between">
+              <span class="text-muted">Average price / m²</span>
+              <span class="fw-bold text-primary">
+                {{ stats.average_price_per_m2 | number:'1.2-2' }} TND
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <h5 class="card-title">Furnished vs Unfurnished</h5>
+            <div class="mb-3">
+              <div class="d-flex justify-content-between mb-1">
+                <span>Furnished</span>
+                <span class="fw-bold">{{ stats.furnished_average_rent | number }} TND</span>
+              </div>
+              <div class="progress" style="height: 10px;">
+                <div class="progress-bar bg-primary" role="progressbar"
+                     [style.width.%]="stats.average_rent ? (stats.furnished_average_rent / stats.average_rent) * 50 : 0">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex justify-content-between mb-1">
+                <span>Unfurnished</span>
+                <span class="fw-bold">{{ stats.unfurnished_average_rent | number }} TND</span>
+              </div>
+              <div class="progress" style="height: 10px;">
+                <div class="progress-bar bg-secondary" role="progressbar"
+                     [style.width.%]="stats.average_rent ? (stats.unfurnished_average_rent / stats.average_rent) * 50 : 0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- City breakdown -->
+    <div class="card border-0 shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title mb-4">Properties by City</h5>
+
+        <div *ngIf="stats.by_city.length === 0" class="text-muted">
+          No city data available.
+        </div>
+
+        <div *ngFor="let c of stats.by_city" class="city-row mb-3">
+          <div class="d-flex justify-content-between mb-1">
+            <span class="fw-semibold">{{ c.city }}</span>
+            <span class="text-muted small">
+              {{ c.properties }} listings ·
+              avg {{ c.average_rent | number }} TND ·
+              {{ c.average_price_per_m2 | number:'1.2-2' }} TND/m²
+            </span>
+          </div>
+          <div class="progress" style="height: 8px;">
+            <div class="progress-bar bg-primary" role="progressbar"
+                 [style.width.%]="barWidth(c.properties)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="text-muted small text-center mt-4 mb-0">
+      <i class="bi bi-info-circle me-1"></i>
+      Statistics are based on demo/synthetic data — not official Tunisian market statistics.
+    </p>
+  </ng-container>
+</div>

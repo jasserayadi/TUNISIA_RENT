@@ -1,0 +1,125 @@
+<p>estimator works!</p>
+<div class="page">
+  <header>
+    <h1>TounesRent 🇹🇳</h1>
+    <p class="subtitle">Tunisian Rental Price Estimator</p>
+  </header>
+
+  <form (ngSubmit)="submit()" class="card">
+
+    <!-- Location -->
+    <fieldset>
+      <legend>Location</legend>
+
+      <label>
+        Governorate
+        <select [(ngModel)]="form.governorate" name="governorate" required>
+          <option *ngFor="let g of citiesByGovernorate | keyvalue" [value]="g.key">
+            {{ g.key }}
+          </option>
+        </select>
+      </label>
+
+      <label>
+        City
+        <select [(ngModel)]="form.city" name="city" required>
+          <option *ngFor="let c of availableCities" [value]="c">{{ c }}</option>
+        </select>
+      </label>
+
+      <label>
+        Quartier (neighborhood)
+        <input
+          type="text"
+          [(ngModel)]="form.quartier"
+          name="quartier"
+          placeholder="e.g. La Marsa Ville, Les Jardins de Carthage"
+          required
+        />
+      </label>
+    </fieldset>
+
+    <!-- Property -->
+    <fieldset>
+      <legend>Property</legend>
+
+      <label>
+        Surface (m²)
+        <input type="number" [(ngModel)]="form.surface" name="surface" min="10" max="2000" required />
+      </label>
+
+      <label>
+        Bedrooms
+        <input type="number" [(ngModel)]="form.bedrooms" name="bedrooms" min="-1" max="20" />
+      </label>
+
+      <label>
+        Bathrooms
+        <input type="number" [(ngModel)]="form.bathrooms" name="bathrooms" min="-1" max="20" />
+      </label>
+    </fieldset>
+
+    <!-- Amenities -->
+    <fieldset>
+      <legend>Amenities</legend>
+
+      <div class="checkboxes">
+        <label><input type="checkbox" [(ngModel)]="form.furnished"        name="furnished"        [ngModelOptions]="{standalone: true}"> Furnished</label>
+        <label><input type="checkbox" [(ngModel)]="form.garage"           name="garage"           [ngModelOptions]="{standalone: true}"> Garage</label>
+        <label><input type="checkbox" [(ngModel)]="form.elevator"         name="elevator"         [ngModelOptions]="{standalone: true}"> Elevator</label>
+        <label><input type="checkbox" [(ngModel)]="form.aircon"           name="aircon"           [ngModelOptions]="{standalone: true}"> Air conditioning</label>
+        <label><input type="checkbox" [(ngModel)]="form.heating"          name="heating"          [ngModelOptions]="{standalone: true}"> Heating</label>
+        <label><input type="checkbox" [(ngModel)]="form.security"         name="security"         [ngModelOptions]="{standalone: true}"> Security</label>
+        <label><input type="checkbox" [(ngModel)]="form.pool"             name="pool"             [ngModelOptions]="{standalone: true}"> Pool</label>
+        <label><input type="checkbox" [(ngModel)]="form.sea_view"         name="sea_view"         [ngModelOptions]="{standalone: true}"> Sea view</label>
+        <label><input type="checkbox" [(ngModel)]="form.terrace"          name="terrace"          [ngModelOptions]="{standalone: true}"> Terrace</label>
+        <label><input type="checkbox" [(ngModel)]="form.equipped_kitchen" name="equipped_kitchen" [ngModelOptions]="{standalone: true}"> Equipped kitchen</label>
+        <label><input type="checkbox" [(ngModel)]="form.is_house"         name="is_house"         [ngModelOptions]="{standalone: true}"> This is a house (not apartment)</label>
+      </div>
+    </fieldset>
+
+    <!-- Advertised price (optional) -->
+    <fieldset>
+      <legend>Optional</legend>
+      <label>
+        Advertised price (TND) — leave empty to skip comparison
+        <input type="number" [(ngModel)]="form.advertised_price" name="advertised_price" min="0" />
+      </label>
+    </fieldset>
+
+    <button type="submit" [disabled]="loading()">
+      {{ loading() ? 'Estimating…' : 'Estimate Rent' }}
+    </button>
+
+    <p class="error" *ngIf="error()">{{ error() }}</p>
+  </form>
+
+  <!-- Result -->
+  <div class="result" *ngIf="result() as r">
+    <h2>Estimated monthly rent</h2>
+    <p class="big">{{ r.estimated_rent }} {{ r.currency }}</p>
+
+    <p class="range">
+      Expected range: <strong>{{ r.min_rent }} – {{ r.max_rent }} {{ r.currency }}</strong>
+    </p>
+
+    <p *ngIf="r.evaluation === 'within'" class="ok">
+      ✓ The advertised price is within the expected range.
+    </p>
+    <p *ngIf="r.evaluation === 'above'" class="warn">
+      ⚠ The advertised price is <strong>{{ r.difference }} {{ r.currency }}</strong> above the expected range.
+    </p>
+    <p *ngIf="r.evaluation === 'below'" class="ok">
+      ✓ The advertised price is <strong>{{ r.difference }} {{ r.currency }}</strong> below the expected range — good deal.
+    </p>
+
+    <button class="secondary" type="button" (click)="reset()">New estimation</button>
+  </div>
+
+  <footer>
+    <p>
+      TounesRent is an estimation tool. Actual prices may vary.
+      Model: XGBoost · Median error ~12%.
+    </p>
+  </footer>
+</div>

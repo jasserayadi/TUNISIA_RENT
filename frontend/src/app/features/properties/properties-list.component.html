@@ -1,0 +1,187 @@
+<div class="container py-5">
+  <div class="d-flex justify-content-between align-items-center mb-4 flex-wrap gap-2">
+    <h1 class="h3 mb-0">
+      <i class="bi bi-building me-2 text-primary"></i>Available Properties
+    </h1>
+    <a routerLink="/add-property" class="btn btn-primary">
+      <i class="bi bi-plus-circle me-2"></i>Add Property
+    </a>
+  </div>
+
+  <!-- Filters -->
+  <div class="card shadow-sm border-0 mb-4">
+    <div class="card-body">
+
+      <!-- Basic filters -->
+      <div class="row g-3 align-items-end">
+        <div class="col-md-3">
+          <label class="form-label small">Governorate</label>
+          <select class="form-select" [(ngModel)]="filters.governorate">
+            <option value="">All</option>
+            <option *ngFor="let g of governorates" [value]="g">{{ g }}</option>
+          </select>
+        </div>
+        <div class="col-md-3">
+          <label class="form-label small">City</label>
+          <input type="text" class="form-control" [(ngModel)]="filters.city"
+                 placeholder="e.g. Ariana Ville">
+        </div>
+        <div class="col-md-2">
+          <label class="form-label small">Min Rent</label>
+          <div class="input-group">
+            <input type="number" class="form-control" [(ngModel)]="filters.min_rent">
+            <span class="input-group-text">TND</span>
+          </div>
+        </div>
+        <div class="col-md-2">
+          <label class="form-label small">Max Rent</label>
+          <div class="input-group">
+            <input type="number" class="form-control" [(ngModel)]="filters.max_rent">
+            <span class="input-group-text">TND</span>
+          </div>
+        </div>
+        <div class="col-md-2 d-flex gap-2">
+          <button class="btn btn-primary flex-fill" (click)="load()">
+            <i class="bi bi-search me-1"></i>Search
+          </button>
+          <button class="btn btn-outline-secondary" (click)="reset()" title="Reset">
+            <i class="bi bi-arrow-counterclockwise"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Advanced toggle -->
+      <div class="mt-3">
+        <button class="btn btn-sm btn-link text-decoration-none p-0"
+                (click)="showAdvanced = !showAdvanced">
+          <i class="bi" [ngClass]="showAdvanced ? 'bi-chevron-up' : 'bi-chevron-down'"></i>
+          {{ showAdvanced ? 'Hide' : 'Show' }} advanced filters
+          <span class="badge bg-primary ms-1">{{ activeFilterCount() }}</span>
+        </button>
+      </div>
+
+      <!-- Advanced filters -->
+      <div *ngIf="showAdvanced" class="mt-3 pt-3 border-top">
+        <div class="row g-3 mb-3">
+          <div class="col-md-3">
+            <label class="form-label small">Min Surface (m²)</label>
+            <input type="number" class="form-control" [(ngModel)]="filters.min_surface">
+          </div>
+          <div class="col-md-3">
+            <label class="form-label small">Max Surface (m²)</label>
+            <input type="number" class="form-control" [(ngModel)]="filters.max_surface">
+          </div>
+          <div class="col-md-3">
+            <label class="form-label small">Bedrooms</label>
+            <input type="number" class="form-control" [(ngModel)]="filters.bedrooms">
+          </div>
+        </div>
+
+        <h6 class="text-muted small mb-2">
+          Amenities — click to cycle: <em>Any</em> → <em>Yes</em> → <em>No</em>
+        </h6>
+        <div class="row g-2">
+          <div class="col-md-4 col-6" *ngFor="let a of amenityToggles">
+            <button type="button"
+                    class="btn btn-sm w-100 amenity-toggle"
+                    [ngClass]="{
+                      'btn-outline-secondary': toggleState(a.key) === 'any',
+                      'btn-success': toggleState(a.key) === 'yes',
+                      'btn-danger': toggleState(a.key) === 'no'
+                    }"
+                    (click)="cycleToggle(a.key)">
+              <span *ngIf="toggleState(a.key) === 'any'">
+                <i class="bi bi-circle me-1"></i>{{ a.label }}
+              </span>
+              <span *ngIf="toggleState(a.key) === 'yes'">
+                <i class="bi bi-check-lg me-1"></i>{{ a.label }}
+              </span>
+              <span *ngIf="toggleState(a.key) === 'no'">
+                <i class="bi bi-x-lg me-1"></i>{{ a.label }}
+              </span>
+            </button>
+          </div>
+        </div>
+
+        <div class="d-flex justify-content-end mt-3">
+          <button class="btn btn-primary" (click)="load()">
+            <i class="bi bi-funnel me-1"></i>Apply Filters
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- State messages -->
+  <div *ngIf="loading" class="text-center py-5">
+    <div class="spinner-border text-primary"></div>
+  </div>
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+  <div *ngIf="!loading && !error && properties.length === 0" class="alert alert-info">
+    No properties match your filters. Try widening your search.
+  </div>
+
+  <!-- Results -->
+  <div class="mb-2 text-muted small" *ngIf="!loading && properties.length">
+    {{ properties.length }} propert{{ properties.length === 1 ? 'y' : 'ies' }} found
+  </div>
+
+  <!-- Fabulous property cards -->
+  <div class="row g-4" *ngIf="!loading && properties.length">
+       <div class="col-md-6 col-lg-4" *ngFor="let p of properties" appReveal>
+      <article class="tr-prop-card">
+        <div class="tr-prop-img">
+          <img [src]="imageFor(p)" [alt]="p.city">
+          <span class="tr-prop-price">{{ p.rent | number }} TND</span>
+          <span class="tr-prop-tag" *ngIf="p.furnished">Furnished</span>
+        </div>
+        <div class="tr-prop-body">
+          <div class="d-flex justify-content-between align-items-start mb-2">
+            <div>
+              <h5 class="mb-0">{{ p.city }}</h5>
+              <small class="text-muted">{{ p.governorate }}</small>
+            </div>
+          </div>
+
+          <ul class="tr-prop-meta">
+            <li><i class="bi bi-rulers"></i> {{ p.surface }} m²</li>
+            <li><i class="bi bi-door-closed"></i> {{ p.bedrooms }} bd</li>
+            <li><i class="bi bi-droplet"></i> {{ p.bathrooms }} ba</li>
+            <li *ngIf="p.floor !== null && p.floor !== undefined">
+              <i class="bi bi-layers"></i> fl. {{ p.floor }}
+            </li>
+          </ul>
+
+          <div class="tr-prop-badges">
+            <span *ngIf="p.parking" class="badge-mini">
+              <i class="bi bi-car-front"></i> Parking
+            </span>
+            <span *ngIf="p.elevator" class="badge-mini">
+              <i class="bi bi-arrow-up-square"></i> Elevator
+            </span>
+            <span *ngIf="p.aircon" class="badge-mini">
+              <i class="bi bi-snow"></i> AC
+            </span>
+            <span *ngIf="p.sea_view" class="badge-mini">
+              <i class="bi bi-water"></i> Sea
+            </span>
+            <span *ngIf="p.pool" class="badge-mini">
+              <i class="bi bi-droplet-half"></i> Pool
+            </span>
+            <span *ngIf="p.terrace" class="badge-mini">
+              <i class="bi bi-sun"></i> Terrace
+            </span>
+            <span *ngIf="p.is_house" class="badge-mini">
+              <i class="bi bi-house-door"></i> House
+            </span>
+          </div>
+
+          <div class="tr-prop-footer" *ngIf="p.price_per_m2">
+            <i class="bi bi-currency-exchange"></i>
+            {{ p.price_per_m2 | number:'1.2-2' }} TND / m²
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</div>

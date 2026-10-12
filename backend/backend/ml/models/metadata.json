@@ -1,0 +1,69 @@
+{
+  "best_model": "Ridge (log-target, scaled)",
+  "n_train": 2036,
+  "n_test": 509,
+  "features": [
+    "governorate",
+    "city",
+    "surface",
+    "bedrooms",
+    "bathrooms",
+    "furnished",
+    "parking",
+    "floor",
+    "condition"
+  ],
+  "target_transform": "log1p",
+  "cat_low": [
+    "governorate",
+    "condition"
+  ],
+  "cat_high": [
+    "city"
+  ],
+  "num_cols": [
+    "surface",
+    "bedrooms",
+    "bathrooms",
+    "floor",
+    "rooms_per_m2",
+    "bath_per_room",
+    "surface_log"
+  ],
+  "bool_cols": [
+    "furnished",
+    "parking",
+    "luxury"
+  ],
+  "metrics": [
+    {
+      "name": "Ridge (log-target, scaled)",
+      "mae": 488.27,
+      "rmse": 881.04,
+      "r2": 0.6459,
+      "cv_r2_log": 0.5481
+    },
+    {
+      "name": "Random Forest (tuned, log-target)",
+      "mae": 496.46,
+      "rmse": 993.51,
+      "r2": 0.5497,
+      "cv_r2_log": 0.5382
+    },
+    {
+      "name": "HistGradientBoosting (log-target)",
+      "mae": 507.31,
+      "rmse": 1030.46,
+      "r2": 0.5156,
+      "cv_r2_log": 0.4752
+    }
+  ],
+  "best": {
+    "name": "Ridge (log-target, scaled)",
+    "mae": 488.27,
+    "rmse": 881.04,
+    "r2": 0.6459,
+    "cv_r2_log": 0.5481
+  },
+  "residual_std_log": 0.5267448364122816
+}

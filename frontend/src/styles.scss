@@ -1,0 +1,409 @@
+/* ============================================================
+   TounesRent — Global design system
+   ============================================================ */
+
+:root {
+  /* Brand */
+  --tr-primary: #0d6efd;
+  --tr-primary-dark: #0a58ca;
+  --tr-primary-light: #4d94ff;
+  --tr-accent: #00c9a7;
+  --tr-warning: #ffb020;
+  --tr-danger: #dc3545;
+
+  /* Surfaces */
+  --tr-bg: #f6f8fc;
+  --tr-surface: #ffffff;
+  --tr-surface-2: #f1f3f9;
+  --tr-border: #e5e8f0;
+  --tr-text: #1a1f36;
+  --tr-text-muted: #6b7280;
+
+  /* Effects */
+  --tr-shadow-sm: 0 1px 3px rgba(16, 24, 40, 0.06);
+  --tr-shadow:    0 6px 20px rgba(16, 24, 40, 0.08);
+  --tr-shadow-lg: 0 18px 40px rgba(16, 24, 40, 0.14);
+  --tr-radius: 14px;
+  --tr-radius-sm: 10px;
+  --tr-radius-lg: 22px;
+
+  /* Motion */
+  --tr-ease: cubic-bezier(.2, .8, .2, 1);
+  --tr-transition: 220ms var(--tr-ease);
+}
+
+/* ---------- Dark mode ---------- */
+html[data-theme="dark"] {
+  --tr-bg: #0e1116;
+  --tr-surface: #161a22;
+  --tr-surface-2: #1d222c;
+  --tr-border: #262b37;
+  --tr-text: #e8ecf3;
+  --tr-text-muted: #99a1b3;
+  --tr-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
+  --tr-shadow:    0 6px 20px rgba(0, 0, 0, 0.45);
+  --tr-shadow-lg: 0 18px 40px rgba(0, 0, 0, 0.55);
+}
+
+/* ---------- Base ---------- */
+* { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--tr-bg);
+  color: var(--tr-text);
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  transition: background var(--tr-transition), color var(--tr-transition);
+  -webkit-font-smoothing: antialiased;
+}
+
+a { text-decoration: none; }
+
+/* Smooth theme change on every element */
+* {
+  transition: background-color 200ms ease, border-color 200ms ease, color 200ms ease;
+}
+
+/* ---------- Reusable utilities ---------- */
+.card {
+  background: var(--tr-surface);
+  border: 1px solid var(--tr-border);
+  border-radius: var(--tr-radius);
+  box-shadow: var(--tr-shadow-sm);
+  transition: transform var(--tr-transition), box-shadow var(--tr-transition),
+              border-color var(--tr-transition);
+}
+
+.card:hover {
+  box-shadow: var(--tr-shadow);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--tr-primary), var(--tr-primary-dark));
+  border: none;
+  box-shadow: 0 6px 14px rgba(13, 110, 253, 0.28);
+  transition: transform var(--tr-transition), box-shadow var(--tr-transition);
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px rgba(13, 110, 253, 0.4);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+.form-control, .form-select {
+  background: var(--tr-surface);
+  color: var(--tr-text);
+  border: 1px solid var(--tr-border);
+  border-radius: var(--tr-radius-sm);
+  transition: box-shadow var(--tr-transition), border-color var(--tr-transition);
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: var(--tr-primary);
+  box-shadow: 0 0 0 4px rgba(13, 110, 253, 0.15);
+  background: var(--tr-surface);
+  color: var(--tr-text);
+}
+
+.form-label { font-weight: 500; color: var(--tr-text); }
+.text-muted { color: var(--tr-text-muted) !important; }
+
+/* ---------- Animations ---------- */
+@keyframes tr-fade-up {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes tr-pop {
+  0%   { opacity: 0; transform: scale(.95); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes tr-shimmer {
+  0%   { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
+@keyframes tr-blob {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33%      { transform: translate(30px, -20px) scale(1.1); }
+  66%      { transform: translate(-20px, 20px) scale(.95); }
+}
+
+@keyframes tr-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(13, 110, 253, .55); }
+  50%      { box-shadow: 0 0 0 12px rgba(13, 110, 253, 0); }
+}
+
+.animate-fade-up { animation: tr-fade-up 500ms var(--tr-ease) both; }
+.animate-pop     { animation: tr-pop 350ms var(--tr-ease) both; }
+
+/* stagger helper */
+.stagger > * { animation: tr-fade-up 500ms var(--tr-ease) both; }
+.stagger > *:nth-child(1) { animation-delay: 40ms; }
+.stagger > *:nth-child(2) { animation-delay: 80ms; }
+.stagger > *:nth-child(3) { animation-delay: 120ms; }
+.stagger > *:nth-child(4) { animation-delay: 160ms; }
+.stagger > *:nth-child(5) { animation-delay: 200ms; }
+.stagger > *:nth-child(6) { animation-delay: 240ms; }
+
+/* ---------- Skeleton loading ---------- */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--tr-surface-2) 0%,
+    var(--tr-border) 40%,
+    var(--tr-surface-2) 80%
+  );
+  background-size: 800px 100%;
+  animation: tr-shimmer 1.4s infinite linear;
+  border-radius: var(--tr-radius-sm);
+}
+
+/* ---------- Toast ---------- */
+.tr-toast {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  min-width: 280px;
+  background: var(--tr-surface);
+  color: var(--tr-text);
+  border-left: 4px solid var(--tr-primary);
+  border-radius: var(--tr-radius);
+  box-shadow: var(--tr-shadow-lg);
+  padding: 14px 16px;
+  z-index: 1080;
+  animation: tr-fade-up 320ms var(--tr-ease) both;
+}
+.tr-toast.success { border-left-color: var(--tr-accent); }
+.tr-toast.error   { border-left-color: var(--tr-danger); }
+.tr-toast .close  { background: transparent; border: 0; color: var(--tr-text-muted); }
+
+/* ---------- Background gradient blobs for hero ---------- */
+.tr-blob {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+  opacity: .55;
+  animation: tr-blob 14s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ---------- Progress bars ---------- */
+.progress {
+  background-color: var(--tr-surface-2);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.progress-bar {
+  background: linear-gradient(90deg, var(--tr-primary), var(--tr-accent));
+  transition: width 900ms var(--tr-ease);
+}
+/* ============================================================
+   Fabulous additions
+   ============================================================ */
+
+/* Smooth scrolling */
+html { scroll-behavior: smooth; }
+
+/* Selection */
+::selection {
+  background: color-mix(in srgb, var(--tr-primary) 30%, transparent);
+}
+
+/* Image helpers */
+.img-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.tr-gradient-text {
+  background: linear-gradient(120deg, #0d6efd, #00c9a7 55%, #ffb020);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Grain overlay (subtle noise) */
+.tr-grain::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: .05;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140'><filter id='n'><feTurbulence baseFrequency='.9'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  mix-blend-mode: overlay;
+}
+
+/* Floating animation */
+@keyframes tr-float {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-10px); }
+}
+.tr-float { animation: tr-float 6s ease-in-out infinite; }
+
+/* Slow rotation for gradients */
+@keyframes tr-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Card with image */
+.tr-img-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--tr-radius);
+  border: 1px solid var(--tr-border);
+  background: var(--tr-surface);
+  transition: transform 300ms var(--tr-ease), box-shadow 300ms var(--tr-ease);
+}
+.tr-img-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--tr-shadow-lg);
+}
+.tr-img-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 700ms var(--tr-ease);
+}
+.tr-img-card:hover img {
+  transform: scale(1.08);
+}
+.tr-img-card .overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,.85));
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 20px;
+  color: #fff;
+}
+
+/* Glass pill */
+.tr-glass {
+  background: color-mix(in srgb, var(--tr-surface) 60%, transparent);
+  backdrop-filter: saturate(180%) blur(14px);
+  border: 1px solid color-mix(in srgb, var(--tr-border) 70%, transparent);
+  border-radius: 999px;
+}
+
+/* Buttons */
+.tr-btn-hero {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 26px;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #fff;
+  background: linear-gradient(135deg, #0d6efd, #0a58ca);
+  box-shadow: 0 12px 30px rgba(13,110,253,.35);
+  border: none;
+  cursor: pointer;
+  transition: transform 250ms var(--tr-ease), box-shadow 250ms var(--tr-ease);
+}
+.tr-btn-hero:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 18px 44px rgba(13,110,253,.45);
+}
+.tr-btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 26px;
+  border-radius: 999px;
+  font-weight: 600;
+  color: var(--tr-text);
+  background: transparent;
+  border: 1px solid var(--tr-border);
+  cursor: pointer;
+  transition: all var(--tr-transition);
+}
+.tr-btn-ghost:hover {
+  border-color: var(--tr-primary);
+  color: var(--tr-primary);
+}
+
+/* Section header */
+.tr-section-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  font-size: .78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .8px;
+  color: var(--tr-primary);
+  background: color-mix(in srgb, var(--tr-primary) 12%, transparent);
+  border: 1px solid color-mix(in srgb, var(--tr-primary) 25%, transparent);
+}
+/* ============================================================
+   Global hero background (all pages)
+   ============================================================ */
+body {
+  position: relative;
+  min-height: 100vh;
+  background:
+    linear-gradient(
+      rgba(10, 15, 30, 0.82),
+      rgba(10, 15, 30, 0.92)
+    ),
+    url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=80')
+    center / cover fixed no-repeat;
+  color: var(--tr-text);
+}
+
+/* Dark mode keeps the image but slightly darker */
+html[data-theme="dark"] body {
+  background:
+    linear-gradient(
+      rgba(5, 8, 14, 0.9),
+      rgba(5, 8, 14, 0.96)
+    ),
+    url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=80')
+    center / cover fixed no-repeat;
+}
+
+/* All cards become glassy so they sit nicely on the photo */
+.card,
+.tr-step,
+.tr-form-card {
+  background: color-mix(in srgb, var(--tr-surface) 88%, transparent) !important;
+  backdrop-filter: saturate(160%) blur(14px);
+  -webkit-backdrop-filter: saturate(160%) blur(14px);
+  border: 1px solid color-mix(in srgb, var(--tr-border) 80%, transparent);
+}
+
+/* Footer & navbar adapt */
+.tr-footer {
+  background: color-mix(in srgb, var(--tr-surface) 80%, transparent) !important;
+  backdrop-filter: blur(12px);
+}
+
+/* Remove the hero image only from the home page */
+.tr-hero-fab {
+  background: transparent;   /* the global bg already covers it */
+}
+
+/* Also lighten the home hero overlay slightly since the bg is already dark */
+.tr-hero-shade {
+  background:
+    linear-gradient(180deg, rgba(10,15,30,.55) 0%, rgba(10,15,30,.35) 40%, rgba(10,15,30,.75) 100%),
+    radial-gradient(900px 500px at 20% 40%, rgba(13,110,253,.28), transparent 60%),
+    radial-gradient(700px 400px at 80% 60%, rgba(0,201,167,.22), transparent 60%) !important;
+}
